@@ -4,7 +4,7 @@ include('header.php');
 
 ?>
         <section class="page-title-section bg-img cover-background" data-overlay-dark="6" data-background="theme/img/bg/power-vita-gold.jpg"
-        style="background-image: url(_/theme/img/bg/power-vita-gold.php);">
+        style="background-image: url(_/theme/img/bg/power-vita-gold.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">

@@ -4,7 +4,7 @@ include('header.php');
 
 ?>
         <section class="page-title-section bg-img cover-background" data-overlay-dark="6"
-        data-background="/theme/img/bg/six-srup.jpg" style="background-image: url(_/theme/img/bg/six-srup.php);">
+        data-background="/theme/img/bg/six-srup.jpg" style="background-image: url(_/theme/img/bg/six-srup.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
