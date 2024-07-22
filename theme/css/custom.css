@@ -1,0 +1,232 @@
+.navbar-brand img {
+    max-height: 76px;
+    transition-duration: 0.5s;
+}
+
+.navbar-header-custom {
+    padding: 5px 0 5px 0;
+}
+
+.navbar-brand img {
+    max-height: 56px;
+    transition-duration: 0.5s;
+}
+
+[data-overlay-dark]:before {
+    background: #0000008f;
+}
+
+.about-box1 {
+    background-color: #00400b;
+    padding: 20px;
+    max-width: 450px;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    margin-bottom: 0;
+    bottom: 30px;
+    right: -30px;
+    color: #fff;
+    text-align: left;
+    font-size: 20px;
+}
+
+.section {
+    padding: 60px 0px 60px 0px;
+    overflow: hidden;
+    background: #fff;
+    position: relative;
+}
+
+.about-product-section {
+    padding: 60px 0px 60px 0px;
+    background-color: #17441714;
+    overflow: hidden;
+
+    position: relative;
+}
+
+.process-image {
+    margin-top: 50px;
+}
+
+.fqa {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.text-primary {
+    color: #00400b !important;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+a,
+a:active,
+a:focus {
+    color: #ffffff;
+    text-decoration: none;
+    transition-timing-function: ease-in-out;
+    -ms-transition-timing-function: ease-in-out;
+    -moz-transition-timing-function: ease-in-out;
+    -webkit-transition-timing-function: ease-in-out;
+    -o-transition-timing-function: ease-in-out;
+    transition-duration: 0.2s;
+    -ms-transition-duration: 0.2s;
+    -moz-transition-duration: 0.2s;
+    -webkit-transition-duration: 0.2s;
+    -o-transition-duration: 0.2s;
+}
+
+section {
+    padding: 50px 0;
+    overflow: hidden;
+    background: #fff;
+    position: relative;
+}
+
+/* @media screen and (min-width: 1400px) {
+    .container {
+        max-width: 1600px;
+    }
+} */
+
+.service-style01 .services-content {
+    background: transparent;
+    position: absolute;
+    z-index: 3;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+
+.text-align-center {
+    margin-bottom: 1rem !important;
+    text-align: center;
+    font-weight: 600;
+    font-family: "Livvic", sans-serif;
+    color: #282b2d;
+}
+
+.fw-bolder {
+    font-weight: bolder !important;
+    padding-top: 20px;
+}
+
+.card-style1 .card-body {
+    position: relative;
+    box-shadow: 0px 3px 10px 0px rgba(41, 45, 194, 0.08);
+    padding: 30px 30px 30px 30px;
+    background: #ffffff;
+}
+
+.fw-bolder {
+    font-weight: bolder !important;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+.first-color {
+    color: #004610;
+}
+
+.second-color {
+    color: #f58319;
+}
+
+.third-color {
+    color: #000;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.fw-bolder {
+    font-weight: bolder !important;
+    padding-top: 20px;
+    padding-bottom: 8px;
+    text-align: center;
+}
+
+.section-heading-02 .sub-title .title-img {
+    position: absolute;
+    top: -7px;
+    left: -23px;
+    z-index: 2;
+    padding: 10px;
+    background: #fffdfc;
+    border-radius: 50px;
+    color: #fff;
+}
+
+.page-title-section {
+    padding: 250px 0;
+    text-align: center;
+}
+
+.product-page {
+    max-width: 2000px;
+}
+
+.about-box2 {
+    background-color: #00400b;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 0;
+    color: #fff;
+    font-size: 30px;
+}
+
+.product-heading {
+    text-align: center;
+    padding: 20px;
+}
+
+@media (max-width: 480px) {
+    .page-title-section {
+        padding: 50px 0;
+        text-align: center;
+    }
+}
+
+/* @media (max-width: 480px){
+
+.navbar-brand img {
+    max-height: 40px;
+    transition-duration: 0.5s;
+    padding-bottom: 10px;
+}
+} */
+
+@media (max-width: 480px) {
+    .about-box2 {
+        background-color: #00400b;
+        padding: 20px;
+        text-align: center;
+        width: 100%;
+        margin-bottom: 0;
+        color: #fff;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .h3,
+    h3 {
+        font-size: 20px;
+    }
+}
+
+.content-center {
+    display: flex;
+    justify-content: center;
+}
+
+
+.pdt-100{
+    padding-top: 100px;
+}
