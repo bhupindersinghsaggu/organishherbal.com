@@ -1,6 +1,6 @@
 <?php 
 
-include('footer.php');
+include('header.php');
 
 ?>
         <section class="page-title-section bg-img cover-background" data-overlay-dark="6" data-background="theme/img/bg/bg-03.jpg"
