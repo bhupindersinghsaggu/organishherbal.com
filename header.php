@@ -89,38 +89,38 @@
                                 <nav class="navbar navbar-expand-lg navbar-light p-0">
                                     <div class="navbar-header navbar-header-custom">
                                         <!-- start logo -->
-                                        <a href="index.html" class="navbar-brand logodefault"><img id="logo"
+                                        <a href="index.php" class="navbar-brand logodefault"><img id="logo"
                                                 src="theme/img/logos/logo.png" alt="logo"></a>
                                         <!-- end logo -->
                                     </div>
                                     <div class="navbar-toggler"></div>
                                     <!-- start menu area -->
                                     <ul class="navbar-nav ms-auto" id="nav" style="display: none;">
-                                        <li><a href="index.html">Home</a>
+                                        <li><a href="index.php">Home</a>
                                         </li>
                                         <li><a href="#">Products</a>
                                             <ul>
-                                                <li><a href="spirulina.html">Health Care</a>
+                                                <li><a href="spirulina.php">Health Care</a>
                                                     <ul>
-                                                        <li><a href="spirulina.html">Spirulina</a></li>
-                                                        <li><a href="moringa.html">Moringa</a>
-                                                        <li><a href="triphala.html">Triphala</a>
-                                                        <li><a href="six-m-syrup.html">Six M Syrup</a>
+                                                        <li><a href="spirulina.php">Spirulina</a></li>
+                                                        <li><a href="moringa.php">Moringa</a>
+                                                        <li><a href="triphala.php">Triphala</a>
+                                                        <li><a href="six-m-syrup.php">Six M Syrup</a>
                                                     </ul>
                                                 </li>
-                                                <li><a href="spirulina.html">Pet Care</a>
+                                                <li><a href="spirulina.php">Pet Care</a>
                                                     <ul>
-                                                        <li><a href="all-in-one.html">All in One</a>
-                                                        <li><a href="power-vita-gold.html">Power Vita Gold</a>
+                                                        <li><a href="all-in-one.php">All in One</a>
+                                                        <li><a href="power-vita-gold.php">Power Vita Gold</a>
                                                     </ul>
                                                 </li>
-                                                <li><a href="spices.html">Spices</a></li>
-                                                <li><a href="new-arrivals.html">New Arrivals</a></li>
+                                                <li><a href="spices.php">Spices</a></li>
+                                                <li><a href="new-arrivals.php">New Arrivals</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="about.html">About us</a>
+                                        <li><a href="about.php">About us</a>
                                         </li>
-                                        <li><a href="contact-us.html">Contact us</a>
+                                        <li><a href="contact-us.php">Contact us</a>
                                         </li>
                                     </ul>
                                     <!-- end menu area -->
