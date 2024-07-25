@@ -240,3 +240,15 @@ section {
     margin: 0;
     padding: 0 7px;
 }
+
+
+
+.top-bar-info li {
+    font-weight: 500;
+    color: #fff;
+    list-style-type: none;
+    font-size: 17px;
+    padding: 0 5px 0;
+    display: inline-block;
+    margin-bottom: 0;
+}
