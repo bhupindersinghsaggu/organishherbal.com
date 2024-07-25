@@ -80,10 +80,10 @@
                     <p class="text-white d-inline-block font-weight-600 mb-0 align-middle me-3">Follw Us :</p>
                     <ul class="footer-social-style1">
                         <li>
-                            <a href="https://www.facebook.com/profile.php?id=61555940922257&mibextid=YMEMSu"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.facebook.com/profile.php?id=61555940922257&mibextid=YMEMSu" target="_blank"><i class="fab fa-facebook-f"></i></a>
                         </li>
                         <li>
-                            <a href="https://www.instagram.com/organish.herbal?igsh=cGZ5dW81Mjh2MDc0&utm_source=qr"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.instagram.com/organish.herbal?igsh=cGZ5dW81Mjh2MDc0&utm_source=qr" target="_blank"><i class="fab fa-instagram"></i></a>
                         </li>
 
                     </ul>

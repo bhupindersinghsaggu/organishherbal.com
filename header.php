@@ -58,8 +58,8 @@
                         </div>
                         <div class="col-xs-12 col-md-3 d-none d-md-block">
                             <ul class="top-social-icon ps-0">
-                                <li><a href="https://www.facebook.com/profile.php?id=61555940922257&mibextid=YMEMSu"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="https://www.instagram.com/organish.herbal?igsh=cGZ5dW81Mjh2MDc0&utm_source=qr"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="https://www.facebook.com/profile.php?id=61555940922257&mibextid=YMEMSu" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/organish.herbal?igsh=cGZ5dW81Mjh2MDc0&utm_source=qr" target="_blank"><i class="fab fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>
