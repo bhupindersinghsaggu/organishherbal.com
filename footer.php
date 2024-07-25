@@ -57,7 +57,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-sm-6 col-lg-3 mt-2-6" id="contact-us">
+            <div class="col-sm-6 col-lg-3 mt-2-6" id="location">
                 <div class="ps-sm-1-9">
                     <h3 class="title-font text-secondary mb-4 h4">Reach us</h3>
                     <iframe

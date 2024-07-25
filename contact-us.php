@@ -50,7 +50,7 @@ include('header.php');
                         </div>
                         <div class="d-flex mb-4 pb-3 border-bottom border-color-light-white">
                             <div class="flex-shrink-0 mt-2">
-                                <i class="fas fa-map-marker-alt text-secondary fs-2"></i>
+                            <a href="#location">   <i class="fas fa-map-marker-alt text-secondary fs-2"></i></a>
                             </div>
                             <div class="flex-grow-1 ms-4">
                                 <h3 class="h5 text-white">Loaction</h3>
