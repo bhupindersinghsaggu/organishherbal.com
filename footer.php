@@ -73,17 +73,17 @@
             <div class="row align-items-center">
                 <div class="col-md-6 text-center text-md-start mt-3 mt-md-0 order-2 order-md-1">
                     <p class="d-inline-block text-white mb-0 display-30 display-lg-29">&copy; <span
-                            class="current-year"></span> ORGANISH HERBAL | 
+                            class="current-year"></span> ORGANISH HERBAL  
                     </p>
                 </div>
                 <div class="col-md-6 text-md-end order-1 order-md-2">
                     <p class="text-white d-inline-block font-weight-600 mb-0 align-middle me-3">Follw Us :</p>
                     <ul class="footer-social-style1">
                         <li>
-                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.facebook.com/profile.php?id=61555940922257&mibextid=YMEMSu"><i class="fab fa-facebook-f"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.instagram.com/organish.herbal?igsh=cGZ5dW81Mjh2MDc0&utm_source=qr"><i class="fab fa-instagram"></i></a>
                         </li>
 
                     </ul>
