@@ -327,7 +327,7 @@ include('header.php');
             </div>
         </div>
     </section>
-    <section>
+    <!-- <section>
         <div class="bg-light section-bg"></div>
         <div class="container position-relative z-index-9">
             <div class="section-heading-02 text-center mb-1-9 mb-md-2-9">
@@ -422,7 +422,7 @@ include('header.php');
 
             </div>
         </div>
-    </section>
+    </section> -->
     <section class="bg-img cover-background extra-section" data-overlay-dark="7"
         data-background="/theme/img/bg/bg-02.jpg" style="background-image: url(_/theme/img/bg/bg-02.php);">
         <div class="container">

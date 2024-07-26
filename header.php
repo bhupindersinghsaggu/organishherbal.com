@@ -100,6 +100,7 @@
                                         </li>
                                         <li><a href="#">Products</a>
                                             <ul>
+                                            <li><a href="spices.php">Spices</a></li>
                                                 <li><a href="spirulina.php">Health Care</a>
                                                     <ul>
                                                         <li><a href="spirulina.php">Spirulina</a></li>
@@ -114,8 +115,8 @@
                                                         <li><a href="power-vita-gold.php">Power Vita Gold</a>
                                                     </ul>
                                                 </li>
-                                                <li><a href="spices.php">Spices</a></li>
-                                                <li><a href="new-arrivals.php">New Arrivals</a></li>
+                                               
+                                                <!-- <li><a href="new-arrivals.php">New Arrivals</a></li> -->
                                             </ul>
                                         </li>
                                         <li><a href="about.php">About us</a>

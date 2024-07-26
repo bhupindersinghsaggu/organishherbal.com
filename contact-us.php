@@ -1,19 +1,14 @@
 <?php 
-
 include('header.php');
-
 ?>
         <section class="page-title-section bg-img cover-background" data-overlay-dark="6"
         data-background="/theme/img/bg/bg-033.jpg" style="background-image: url(_/theme/img/bg/bg-033.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    
                 </div>
-                
             </div>
         </div>
-        
     </section>
     <section>
         <div class="container">
@@ -35,7 +30,7 @@ include('header.php');
                             </div>
                             <div class="flex-grow-1 ms-4">
                                 <h3 class="h5 text-white">Phone Number</h3>
-                                <span class="text-white d-block mb-1">8008280032</span>
+                                <a href="tel:"8008280031">   <span class="text-white d-block mb-1">8008280031</span></a>
                             </div>
                         </div>
                         <div class="d-flex mb-4 pb-3 border-bottom border-color-light-white">
@@ -45,7 +40,7 @@ include('header.php');
                             <div class="flex-grow-1 ms-4">
                                 <h3 class="h5 text-white">Email Address</h3>
 
-                                <span class="text-white">info@organishherbal.com</span>
+                                <a href="mailto:"info@organishherbal.com"><span class="text-white">info@organishherbal.com</span></a>
                             </div>
                         </div>
                         <div class="d-flex mb-4 pb-3 border-bottom border-color-light-white">
@@ -54,9 +49,7 @@ include('header.php');
                             </div>
                             <div class="flex-grow-1 ms-4">
                                 <h3 class="h5 text-white">Loaction</h3>
-                                <address class="text-white d-block mb-0 w-md-80 w-xl-70">SCO No. 211, 2nd Floor, Town,
-                                    Center TDI City,
-                                    Sec.-36, Panipat-132103 (Haryana)</address>
+                                <address class="text-white d-block mb-0 w-md-80 w-xl-70">SCO No. 211, 2nd Floor, Town Center TDI City , Sec - 36, Panipat , Haryana - 132103 , INDIA</address>
                             </div>
                         </div>
                     </div>
@@ -65,7 +58,5 @@ include('header.php');
         </div>
     </section>
     <?php 
-
 include('footer.php');
-
 ?>
