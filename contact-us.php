@@ -48,7 +48,7 @@ include('header.php');
                             <a href="#location">   <i class="fas fa-map-marker-alt text-secondary fs-2"></i></a>
                             </div>
                             <div class="flex-grow-1 ms-4">
-                                <h3 class="h5 text-white">Loaction</h3>
+                                <h3 class="h5 text-white">Location</h3>
                                 <address class="text-white d-block mb-0 w-md-80 w-xl-70">SCO No. 211, 2nd Floor, Town Center TDI City , Sec - 36, Panipat , Haryana - 132103 , INDIA</address>
                             </div>
                         </div>
