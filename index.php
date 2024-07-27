@@ -20,10 +20,7 @@ include('header.php');
                 <!-- Banner text -->
             </div>
         </div>
-        
     </section>
-    
-
     <section class="bg-light">
         <div class="container">
             <div class="section-heading">
@@ -41,14 +38,7 @@ include('header.php');
             <div class="row mt-n1-9">
             </div>
         </div>
-        
     </section>
-
-
-
-
-
-
     <section class="pt-0" id="about-us">
         <div class="container">
             <div class="row align-items-xl-center border-top pt-6 pt-sm-8 pt-lg-10 pt-xl-15 border-color-extra-light-gray">
@@ -81,155 +71,6 @@ include('header.php');
                             to create formulations that seamlessly blend ancient wisdom with modern science. We understand
                             the unique needs of each individual, and our diverse range of herbal products caters to various
                             health goals and lifestyles.</p>
-                        
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="p-0 bg-transparent overflow-visible">
-
-        <div class="container">
-            <h2 class="h1 fw-bolder mb-0">Why choose our products? </h2>
-            <div class="row mt-n1-9">
-                <div class="col-md-4 col-xxl-4 mt-1-9">
-                    <div class="bg-white p-2-3 h-100 card-style7">
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <div>
-                                <img src="theme/img/icons/pure-water.png" alt="...">
-                            </div>
-
-                        </div>
-                        <h4 class="mb-0 text-primary">100% pure</h4>
-                    </div>
-                </div>
-                <div class="col-md-4 col-xxl-4 mt-1-9">
-                    <div class="bg-white p-2-3 h-100 card-style7">
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <div>
-                                <img src="theme/img/icons/diet.png" alt="...">
-                            </div>
-
-                        </div>
-                        <h4 class="mb-0 text-primary">Natural</h4>
-                    </div>
-                </div>
-                <div class="col-md-4 col-xxl-4 mt-1-9">
-                    <div class="bg-white p-2-3 h-100 card-style7">
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <div>
-                                <img src="theme/img/icons/high-quality.png" alt="...">
-                            </div>
-
-                        </div>
-                        <h4 class="mb-0 text-primary">Quality manufacturing</h4>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-
-
-    <section>
-        <div class="bg-light section-bg"></div>
-        <div class="container position-relative z-index-9">
-            <div class="section-heading-02 text-center mb-1-9 mb-md-2-9">
-                <div class="sub-title mb-3">
-                    
-                    
-                </div>
-                <h3 class="title-font text-secondary mb-4 h4">Our Products</h3>
-                <h2 class="h1 fw-bolder mb-0">Health Care </h2>
-            </div>
-            <div class="row g-xxl-5 mt-n2-9">
-                <div class="col-md-6 col-lg-3 mt-2-9">
-                    <div class="card card-style1 border-0 border-radius-10">
-                        <a href="spirulina.php"> <img class="border-top-radius-10" src="theme/img/product/spirulina.jpg"
-                                alt="..."></a>
-                        <div class="card-body border-bottom-radius-10">
-                            
-                            <h3 class="text-align-center"><a href="spirulina.php">Spirulina</a>
-                            </h3>
-                        </div>
-                        <a href="https://shop.organishherbal.com/collections/spirulina-tablets"
-                            class="butn secondary">Buy Now</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mt-2-9">
-                    <div class="card card-style1 border-0 border-radius-10">
-                        <a href="moringa.php"> <img class="border-top-radius-10" src="theme/img/product/moringa.jpg"
-                                alt="..."></a>
-                        <div class="card-body border-bottom-radius-10">
-                            
-                            <h3 class="text-align-center"><a href="moringa.php">Moringa</a></h3>
-                        </div>
-                        <a href="https://shop.organishherbal.com/collections/moringa" class="butn secondary">Buy
-                            Now</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mt-2-9">
-                    <div class="card card-style1 border-0 border-radius-10">
-                        <a href="triphala.php"> <img class="border-top-radius-10" src="theme/img/product/triphala1.jpg"
-                                alt="..."></a>
-                        <div class="card-body border-bottom-radius-10">
-                            <h3 class="text-align-center"><a href="triphala.php">Triphala</a></h3>
-                        </div>
-                        <a href="https://shop.organishherbal.com/products/triphala" class="butn secondary">Buy
-                            Now</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 mt-2-9">
-                    <div class="card card-style1 border-0 border-radius-10">
-                        <a href="six-m-syrup.php"> <img class="border-top-radius-10" src="theme/img/product/six-m-syrup.jpg"
-                                alt="..."></a>
-                        <div class="card-body border-bottom-radius-10">
-                            <h3 class="text-align-center"><a href="six-m-syrup.php">Six M Syrup</a>
-                            </h3>
-                        </div>
-                        <a href="https://shop.organishherbal.com/collections/six-m-syrup" class="butn secondary">Buy
-                            Now</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section>
-        <div class="bg-light section-bg"></div>
-        <div class="container position-relative z-index-9">
-            <div class="section-heading-02 text-center mb-1-9 mb-md-2-9">
-                <div class="sub-title mb-3">
-                </div>
-                <h2 class="h1 fw-bolder mb-0">Pet Care </h2>
-            </div>
-            <div class="row g-xxl-5 mt-n2-9 content-center">
-                <div class="col-md-6 col-lg-4 mt-2-9">
-                    <div class="card card-style1 border-0 border-radius-10">
-                        <a href="all-in-one.php"> <img class="border-top-radius-10" src="theme/img/product/all-in-one.jpg"
-                                alt="..."></a>
-                        <div class="card-body border-bottom-radius-10">
-                            
-                            <h3 class="text-align-center"><a href="all-in-one.php">All in One</a>
-                            </h3>
-                        </div>
-                        <a href="https://shop.organishherbal.com/collections/all-in-one" class="butn secondary">Buy
-                            Now</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mt-2-9">
-                    <div class="card card-style1 border-0 border-radius-10">
-                        <a href="power-vita-gold.php"> <img class="border-top-radius-10"
-                                src="theme/img/product/power-vita-gold.jpg" alt="..."></a>
-                        <div class="card-body border-bottom-radius-10">
-                            <h3 class="text-align-center"><a href="power-vita-gold.php">Power
-                                    Vita Gold
-                                </a></h3>
-                        </div>
-                        <a href="https://shop.organishherbal.com/collections/power-vita-gold"
-                            class="butn secondary">Buy
-                            Now</a>
                     </div>
                 </div>
             </div>
@@ -327,6 +168,145 @@ include('header.php');
             </div>
         </div>
     </section>
+    <section class="p-0 bg-transparent overflow-visible">
+        <div class="container">
+            <h2 class="h1 fw-bolder mb-0">Why choose our products? </h2>
+            <div class="row mt-n1-9">
+                <div class="col-md-4 col-xxl-4 mt-1-9">
+                    <div class="bg-white p-2-3 h-100 card-style7">
+                        <div class="d-flex align-items-center justify-content-between mb-4">
+                            <div>
+                                <img src="theme/img/icons/pure-water.png" alt="...">
+                            </div>
+                        </div>
+                        <h4 class="mb-0 text-primary">100% pure</h4>
+                    </div>
+                </div>
+                <div class="col-md-4 col-xxl-4 mt-1-9">
+                    <div class="bg-white p-2-3 h-100 card-style7">
+                        <div class="d-flex align-items-center justify-content-between mb-4">
+                            <div>
+                                <img src="theme/img/icons/diet.png" alt="...">
+                            </div>
+
+                        </div>
+                        <h4 class="mb-0 text-primary">Natural</h4>
+                    </div>
+                </div>
+                <div class="col-md-4 col-xxl-4 mt-1-9">
+                    <div class="bg-white p-2-3 h-100 card-style7">
+                        <div class="d-flex align-items-center justify-content-between mb-4">
+                            <div>
+                                <img src="theme/img/icons/high-quality.png" alt="...">
+                            </div>
+
+                        </div>
+                        <h4 class="mb-0 text-primary">Quality manufacturing</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="bg-light section-bg"></div>
+        <div class="container position-relative z-index-9">
+            <div class="section-heading-02 text-center mb-1-9 mb-md-2-9">
+                <div class="sub-title mb-3">
+                </div>
+                <h3 class="title-font text-secondary mb-4 h4">Our Products</h3>
+                <h2 class="h1 fw-bolder mb-0">Health Care </h2>
+            </div>
+            <div class="row g-xxl-5 mt-n2-9">
+                <div class="col-md-6 col-lg-3 mt-2-9">
+                    <div class="card card-style1 border-0 border-radius-10">
+                        <a href="spirulina.php"> <img class="border-top-radius-10" src="theme/img/product/spirulina.jpg"
+                                alt="..."></a>
+                        <div class="card-body border-bottom-radius-10">
+                            <h3 class="text-align-center"><a href="spirulina.php">Spirulina</a>
+                            </h3>
+                        </div>
+                        <a href="https://shop.organishherbal.com/collections/spirulina-tablets"
+                            class="butn secondary">Buy Now</a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mt-2-9">
+                    <div class="card card-style1 border-0 border-radius-10">
+                        <a href="moringa.php"> <img class="border-top-radius-10" src="theme/img/product/moringa.jpg"
+                                alt="..."></a>
+                        <div class="card-body border-bottom-radius-10">
+                            
+                            <h3 class="text-align-center"><a href="moringa.php">Moringa</a></h3>
+                        </div>
+                        <a href="https://shop.organishherbal.com/collections/moringa" class="butn secondary">Buy
+                            Now</a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mt-2-9">
+                    <div class="card card-style1 border-0 border-radius-10">
+                        <a href="triphala.php"> <img class="border-top-radius-10" src="theme/img/product/triphala1.jpg"
+                                alt="..."></a>
+                        <div class="card-body border-bottom-radius-10">
+                            <h3 class="text-align-center"><a href="triphala.php">Triphala</a></h3>
+                        </div>
+                        <a href="https://shop.organishherbal.com/products/triphala" class="butn secondary">Buy
+                            Now</a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3 mt-2-9">
+                    <div class="card card-style1 border-0 border-radius-10">
+                        <a href="six-m-syrup.php"> <img class="border-top-radius-10" src="theme/img/product/six-m-syrup.jpg"
+                                alt="..."></a>
+                        <div class="card-body border-bottom-radius-10">
+                            <h3 class="text-align-center"><a href="six-m-syrup.php">Six M Syrup</a>
+                            </h3>
+                        </div>
+                        <a href="https://shop.organishherbal.com/collections/six-m-syrup" class="butn secondary">Buy
+                            Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="bg-light section-bg"></div>
+        <div class="container position-relative z-index-9">
+            <div class="section-heading-02 text-center mb-1-9 mb-md-2-9">
+                <div class="sub-title mb-3">
+                </div>
+                <h2 class="h1 fw-bolder mb-0">Pet Care </h2>
+            </div>
+            <div class="row g-xxl-5 mt-n2-9 content-center">
+                <div class="col-md-6 col-lg-4 mt-2-9">
+                    <div class="card card-style1 border-0 border-radius-10">
+                        <a href="all-in-one.php"> <img class="border-top-radius-10" src="theme/img/product/all-in-one.jpg"
+                                alt="..."></a>
+                        <div class="card-body border-bottom-radius-10">
+                            
+                            <h3 class="text-align-center"><a href="all-in-one.php">All in One</a>
+                            </h3>
+                        </div>
+                        <a href="https://shop.organishherbal.com/collections/all-in-one" class="butn secondary">Buy
+                            Now</a>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4 mt-2-9">
+                    <div class="card card-style1 border-0 border-radius-10">
+                        <a href="power-vita-gold.php"> <img class="border-top-radius-10"
+                                src="theme/img/product/power-vita-gold.jpg" alt="..."></a>
+                        <div class="card-body border-bottom-radius-10">
+                            <h3 class="text-align-center"><a href="power-vita-gold.php">Power
+                                    Vita Gold
+                                </a></h3>
+                        </div>
+                        <a href="https://shop.organishherbal.com/collections/power-vita-gold"
+                            class="butn secondary">Buy
+                            Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+   
     <!-- <section>
         <div class="bg-light section-bg"></div>
         <div class="container position-relative z-index-9">
