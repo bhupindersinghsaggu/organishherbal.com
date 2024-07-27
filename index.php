@@ -76,6 +76,46 @@ include('header.php');
             </div>
         </div>
     </section>
+
+    <section class="p-0 bg-transparent overflow-visible">
+        <div class="container">
+            <h2 class="h1 fw-bolder mb-0">Why choose our products? </h2>
+            <div class="row mt-n1-9">
+                <div class="col-md-4 col-xxl-4 mt-1-9">
+                    <div class="bg-white p-2-3 h-100 card-style7">
+                        <div class="d-flex align-items-center justify-content-between mb-4">
+                            <div>
+                                <img src="theme/img/icons/pure-water.png" alt="...">
+                            </div>
+                        </div>
+                        <h4 class="mb-0 text-primary">100% pure</h4>
+                    </div>
+                </div>
+                <div class="col-md-4 col-xxl-4 mt-1-9">
+                    <div class="bg-white p-2-3 h-100 card-style7">
+                        <div class="d-flex align-items-center justify-content-between mb-4">
+                            <div>
+                                <img src="theme/img/icons/diet.png" alt="...">
+                            </div>
+
+                        </div>
+                        <h4 class="mb-0 text-primary">Natural</h4>
+                    </div>
+                </div>
+                <div class="col-md-4 col-xxl-4 mt-1-9">
+                    <div class="bg-white p-2-3 h-100 card-style7">
+                        <div class="d-flex align-items-center justify-content-between mb-4">
+                            <div>
+                                <img src="theme/img/icons/high-quality.png" alt="...">
+                            </div>
+
+                        </div>
+                        <h4 class="mb-0 text-primary">Quality manufacturing</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <section>
         <div class="bg-light section-bg"></div>
         <div class="container position-relative z-index-9">
@@ -168,45 +208,7 @@ include('header.php');
             </div>
         </div>
     </section>
-    <section class="p-0 bg-transparent overflow-visible">
-        <div class="container">
-            <h2 class="h1 fw-bolder mb-0">Why choose our products? </h2>
-            <div class="row mt-n1-9">
-                <div class="col-md-4 col-xxl-4 mt-1-9">
-                    <div class="bg-white p-2-3 h-100 card-style7">
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <div>
-                                <img src="theme/img/icons/pure-water.png" alt="...">
-                            </div>
-                        </div>
-                        <h4 class="mb-0 text-primary">100% pure</h4>
-                    </div>
-                </div>
-                <div class="col-md-4 col-xxl-4 mt-1-9">
-                    <div class="bg-white p-2-3 h-100 card-style7">
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <div>
-                                <img src="theme/img/icons/diet.png" alt="...">
-                            </div>
-
-                        </div>
-                        <h4 class="mb-0 text-primary">Natural</h4>
-                    </div>
-                </div>
-                <div class="col-md-4 col-xxl-4 mt-1-9">
-                    <div class="bg-white p-2-3 h-100 card-style7">
-                        <div class="d-flex align-items-center justify-content-between mb-4">
-                            <div>
-                                <img src="theme/img/icons/high-quality.png" alt="...">
-                            </div>
-
-                        </div>
-                        <h4 class="mb-0 text-primary">Quality manufacturing</h4>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+   
     <section>
         <div class="bg-light section-bg"></div>
         <div class="container position-relative z-index-9">
