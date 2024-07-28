@@ -94,13 +94,14 @@
                                         </li>
                                         <li><a href="#">Products</a>
                                             <ul>
-                                                <li><a href="spices.php">Spices</a></li>
-                                                <ul>
-                                                    <li><a href="turmeric-powder.php">Turmeric Powder</a></li>
-                                                    <li><a href="moringa.php">Moringa</a>
-                                                    <li><a href="triphala.php">Triphala</a>
-                                                    <li><a href="six-m-syrup.php">Six M Syrup</a>
-                                                </ul>
+                                                <li><a href="spices.php">Spices</a>
+                                                    <ul>
+                                                        <li><a href="turmeric-powder.php">Turmeric Powder</a></li>
+                                                        <li><a href="moringa.php">Moringa</a>
+                                                        <li><a href="triphala.php">Triphala</a>
+                                                        <li><a href="six-m-syrup.php">Six M Syrup</a>
+                                                    </ul>
+                                                </li>
                                                 <li><a href="spirulina.php">Health Care</a>
                                                     <ul>
                                                         <li><a href="spirulina.php">Spirulina</a></li>

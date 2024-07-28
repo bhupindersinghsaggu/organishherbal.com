@@ -215,6 +215,7 @@ section {
 }
 
 @media (min-width: 1200px) {
+
     .h3,
     h3 {
         font-size: 20px;
@@ -227,7 +228,7 @@ section {
 }
 
 
-.pdt-100{
+.pdt-100 {
     padding-top: 100px;
 }
 
@@ -251,4 +252,32 @@ section {
     padding: 0 5px 0;
     display: inline-block;
     margin-bottom: 0;
+}
+
+.ingerdients-info {
+    background: #00400b;
+    padding: 10px;
+    width: 50%;
+    color: #fff;
+    font-weight: 600;
+    text-align: unset;
+    border-radius: 10px;
+}
+
+
+@media (max-width: 480px) {
+    .ingerdients-info {
+        background: #00400b;
+        padding: 10px;
+        width: 100%;
+        color: #fff;
+        font-weight: 600;
+        text-align: unset;
+        border-radius: 10px;
+    }
+}
+
+
+.padding-top50 {
+    padding-top: 50px;
 }
