@@ -42,18 +42,15 @@
                             <div class="top-bar-info">
                                 <ul class="ps-0">
                                     <li><a href="tel:8008280032"><i class="ti-mobile"></i>8008280031</a></li>
-                                    <li class="d-none d-sm-inline-block"><i class="ti-email"></i><a
-                                            href="mailto:info@organishherbal.com">info@organishherbal.com</a>
+                                    <li class="d-none d-sm-inline-block"><i class="ti-email"></i><a href="mailto:info@organishherbal.com">info@organishherbal.com</a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-xs-12 col-md-3 d-none d-md-block">
                             <ul class="top-social-icon ps-0">
-                                <li><a href="https://www.facebook.com/profile.php?id=61555940922257&mibextid=YMEMSu"
-                                        target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="https://www.instagram.com/organish.herbal?igsh=cGZ5dW81Mjh2MDc0&utm_source=qr"
-                                        target="_blank"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="https://www.facebook.com/profile.php?id=61555940922257&mibextid=YMEMSu" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/organish.herbal?igsh=cGZ5dW81Mjh2MDc0&utm_source=qr" target="_blank"><i class="fab fa-instagram"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -68,8 +65,7 @@
                                 <span class="input-group-addon cursor-pointer">
                                     <button class="search-form_submit fas fa-search text-white" type="submit"></button>
                                 </span>
-                                <input type="text" class="search-form_input form-control" name="s" autocomplete="off"
-                                    placeholder="Type & hit enter...">
+                                <input type="text" class="search-form_input form-control" name="s" autocomplete="off" placeholder="Type & hit enter...">
                                 <span class="input-group-addon close-search mt-1"><i class="fas fa-times"></i></span>
                             </div>
                         </form>
@@ -83,8 +79,7 @@
                                 <nav class="navbar navbar-expand-lg navbar-light p-0">
                                     <div class="navbar-header navbar-header-custom">
                                         <!-- start logo -->
-                                        <a href="index.php" class="navbar-brand logodefault"><img id="logo"
-                                                src="theme/img/logos/logo.png" alt="logo"></a>
+                                        <a href="index.php" class="navbar-brand logodefault"><img id="logo" src="theme/img/logos/logo.png" alt="logo"></a>
                                         <!-- end logo -->
                                     </div>
                                     <div class="navbar-toggler"></div>
@@ -98,8 +93,12 @@
                                                     <ul>
                                                         <li><a href="turmeric-powder.php">Turmeric Powder</a></li>
                                                         <li><a href="coriander-powder.php">Coriander Powder</a>
-                                                        <li><a href="jeera-powder.php">Jeera</a>
-                                                        <li><a href="six-m-syrup.php">Six M Syrup</a>
+                                                        <li><a href="jeera-powder.php">Jeera Powder</a>
+                                                        <li><a href="red-chilli-powder.php">Red Chilli Powder</a>
+                                                        <li><a href="kashmirichilli-powder.php">Kashmiri Chilli
+                                                                Powder</a>
+
+
                                                     </ul>
                                                 </li>
                                                 <li><a href="spirulina.php">Health Care</a>
