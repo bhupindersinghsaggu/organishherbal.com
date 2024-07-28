@@ -97,8 +97,8 @@
                                                 <li><a href="spices.php">Spices</a>
                                                     <ul>
                                                         <li><a href="turmeric-powder.php">Turmeric Powder</a></li>
-                                                        <li><a href="moringa.php">Moringa</a>
-                                                        <li><a href="triphala.php">Triphala</a>
+                                                        <li><a href="coriander-powder.php">Coriander Powder</a>
+                                                        <li><a href="jeera-powder.php">Jeera</a>
                                                         <li><a href="six-m-syrup.php">Six M Syrup</a>
                                                     </ul>
                                                 </li>
