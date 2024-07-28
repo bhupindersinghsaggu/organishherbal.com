@@ -3,8 +3,7 @@
 include('header.php');
 
 ?>
-<section class="page-title-section bg-img cover-background" data-overlay-dark="6"
-    data-background="/theme/img/bg/red-powder-bg.jpg" style="background-image: url(_/theme/img/bg/red-powder-bg.jpg);">
+<section class="page-title-section bg-img cover-background" data-overlay-dark="6" data-background="/theme/img/bg/red-powder-bg.jpg" style="background-image: url(_/theme/img/bg/red-powder-bg.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -22,9 +21,8 @@ include('header.php');
         <div class="row align-items-center pdt-100">
             <div class="col-lg-6 mb-1-9 mb-lg-0">
                 <div class="position-relative pe-lg-1-9 pe-xl-7 ps-xl-8 text-center about-style01">
-                    <img src="theme/img/product/red-chili-powder.jpg" class="rounded z-index-1 position-relative"
-                        alt="...">
-                    <h5>AVAILABILITY: 100 g | 200g | 500 g</h5>
+                    <img src="theme/img/product/red-chili-powder.jpg" class="rounded z-index-1 position-relative" alt="...">
+                    <h5 class="mt-3">AVAILABILITY: 100 g | 200g | 500 g</h5>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -49,8 +47,7 @@ include('header.php');
                                 to any dish. </li>
                             <li>Quality:- All the Indian spices used in this product are of premium quality</li>
                         </ul><br>
-                        <a href="https://shop.organishherbal.com/collections/red-chili-powder"
-                            class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href="https://shop.organishherbal.com/collections/red-chili-powder" class="butn-style01 secondary"><span>Buy Now</span></a>
                     </div>
                 </div>
             </div>
@@ -72,23 +69,19 @@ include('header.php');
                                             <div class="nutritional-info">
                                                 <ul class="list-style1 mb-0">
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i
-                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>Build
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Build
                                                             Immunity & Fights Infections </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i
-                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>Relax
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Relax
                                                             the body vessels in the body </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i
-                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>Maintain
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Maintain
                                                             Blood Pressure Level </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i
-                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>Improve
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Improve
                                                             Brain Functions </h4>
                                                     </li>
                                                 </ul>
@@ -108,8 +101,7 @@ include('header.php');
                                     <li>
                                         <div class="text-center text-sm-start d-sm-flex mb-4">
                                             <div class="flex-shrink-0 mb-4 mb-md-0">
-                                                <img src="theme/img/product/red-round.jpg" class="rounded-circle"
-                                                    alt="...">
+                                                <img src="theme/img/product/red-round.jpg" class="rounded-circle" alt="...">
                                             </div>
                                             <div class="flex-grow-1 ms-sm-4">
                                                 <h4 class="h5">Ingerdients</h4>

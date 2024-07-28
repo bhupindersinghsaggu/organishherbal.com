@@ -294,3 +294,7 @@ section {
     border-radius: .25rem;
     text-align: center;
 }
+
+.mt-3 {
+    margin-top: 10px;
+}
