@@ -3,7 +3,9 @@
 include('header.php');
 
 ?>
-<section class="page-title-section bg-img cover-background" data-overlay-dark="6" data-background="/theme/img/bg/jeera-powder-bg.jpg" style="background-image: url(_/theme/img/bg/jeera-powder-bg.jpg);">
+<section class="page-title-section bg-img cover-background" data-overlay-dark="6"
+    data-background="/theme/img/bg/jeera-powder-bg.jpg"
+    style="background-image: url(_/theme/img/bg/jeera-powder-bg.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -47,7 +49,8 @@ include('header.php');
                                 to any dish. </li>
                             <li>Quality:- All the Indian spices used in this product are of premium quality</li>
                         </ul><br>
-                        <a href="https://shop.organishherbal.com/collections/jeera-powder" class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href="https://shop.organishherbal.com/collections/jeera-powder"
+                            class="butn-style01 secondary"><span>Buy Now</span></a>
                     </div>
                 </div>
             </div>
@@ -69,19 +72,23 @@ include('header.php');
                                             <div class="nutritional-info">
                                                 <ul class="list-style1 mb-0">
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Increase
+                                                        <h4 class="h6 mb-0"><i
+                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>Increase
                                                             Antioxidant </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Promotes
+                                                        <h4 class="h6 mb-0"><i
+                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>Promotes
                                                             Digestion </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Provides
+                                                        <h4 class="h6 mb-0"><i
+                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>Provides
                                                             Iron </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Improve
+                                                        <h4 class="h6 mb-0"><i
+                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>Improve
                                                             Blood Sugar Control </h4>
                                                     </li>
                                                 </ul>
@@ -101,7 +108,8 @@ include('header.php');
                                     <li>
                                         <div class="text-center text-sm-start d-sm-flex mb-4">
                                             <div class="flex-shrink-0 mb-4 mb-md-0">
-                                                <img src="theme/img/product/jeera-round.jpg" class="rounded-circle" alt="...">
+                                                <img src="theme/img/product/jeera-round.jpg" class="rounded-circle"
+                                                    alt="...">
                                             </div>
                                             <div class="flex-grow-1 ms-sm-4">
                                                 <h4 class="h5">Ingerdients</h4>
@@ -146,7 +154,7 @@ include('header.php');
     </div>
 </section>
 <?php
-
+include('latest-product.php');
 include('footer.php');
 
 ?>

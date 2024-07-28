@@ -298,3 +298,16 @@ section {
 .mt-3 {
     margin-top: 10px;
 }
+
+.product-des {
+    display: flex;
+    justify-content: center;
+}
+
+.product-image {
+    max-width: 225px;
+}
+
+.pt-1-9 {
+    padding-top: 1.9rem;
+}

@@ -18,7 +18,7 @@ include('header.php');
                 Discover the magic of spices and transform every meal
             </h4>
         </div> -->
-        <div class="row align-items-center pdt-100">
+        <div class="row align-items-center ">
             <div class="col-lg-6 mb-1-9 mb-lg-0">
                 <div class="position-relative pe-lg-1-9 pe-xl-7 ps-xl-8 text-center about-style01">
                     <img src="theme/img/product/turmeric-powder.jpg" class="rounded z-index-1 position-relative" alt="...">
@@ -152,6 +152,7 @@ include('header.php');
 </section>
 <?php
 
+include('latest-product.php');
 include('footer.php');
 
 ?>
