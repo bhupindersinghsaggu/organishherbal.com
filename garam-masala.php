@@ -3,9 +3,7 @@
 include('header.php');
 
 ?>
-<section class="page-title-section bg-img cover-background" data-overlay-dark="6"
-    data-background="/theme/img/bg/garam-masala-bg.jpg"
-    style="background-image: url(_/theme/img/bg/garam-masala-bg.jpg);">
+<section class="page-title-section bg-img cover-background" data-overlay-dark="6" data-background="/theme/img/bg/garam-masala-bg.jpg" style="background-image: url(_/theme/img/bg/garam-masala-bg.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -23,7 +21,7 @@ include('header.php');
         <div class="row align-items-center pdt-100">
             <div class="col-lg-6 mb-1-9 mb-lg-0">
                 <div class="position-relative pe-lg-1-9 pe-xl-7 ps-xl-8 text-center about-style01">
-                    <img src="theme/img/product/garam-masala.jpg" class="rounded z-index-1 position-relative" alt="...">
+                    <img src="theme/img/product/garam-masala1.jpg" class="rounded z-index-1 position-relative" alt="...">
                     <h5 class="mt-3">AVAILABILITY: 50 g | 100g </h5>
                 </div>
             </div>
@@ -51,8 +49,7 @@ include('header.php');
                                 Bhaji, Chicken, Paneer, Chhole, Dal Tadka, Meat, and Kitchen King, each promising a
                                 burst of exquisite flavors.</li>
                         </ul><br>
-                        <a href="https://shop.organishherbal.com/collections/garam-masala"
-                            class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href="https://shop.organishherbal.com/collections/garam-masala" class="butn-style01 secondary"><span>Buy Now</span></a>
                     </div>
                 </div>
             </div>
@@ -74,23 +71,19 @@ include('header.php');
                                             <div class="nutritional-info">
                                                 <ul class="list-style1 mb-0">
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i
-                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>
                                                             Helps in Digestion process </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i
-                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>Reduces
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Reduces
                                                             Inflammation </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i
-                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>Defends
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Defends
                                                             against Diabetes </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i
-                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>Regulates
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Regulates
                                                             Blood Pressure </h4>
                                                     </li>
                                                 </ul>
@@ -110,8 +103,7 @@ include('header.php');
                                     <li>
                                         <div class="text-center text-sm-start d-sm-flex mb-4">
                                             <div class="flex-shrink-0 mb-4 mb-md-0">
-                                                <img src="theme/img/product/garam-masala-round.jpg"
-                                                    class="rounded-circle" alt="...">
+                                                <img src="theme/img/product/garam-masala-round.jpg" class="rounded-circle" alt="...">
                                             </div>
                                             <div class="flex-grow-1 ms-sm-4">
                                                 <h4 class="h5">Ingerdients</h4>
