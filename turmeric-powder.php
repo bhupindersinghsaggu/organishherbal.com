@@ -24,6 +24,7 @@ include('header.php');
                 <div class="position-relative pe-lg-1-9 pe-xl-7 ps-xl-8 text-center about-style01">
                     <img src="theme/img/product/turmeric-powder.jpg" class="rounded z-index-1 position-relative"
                         alt="...">
+                    <h5>AVAILABILITY: 100 g | 200g | 500 g</h5>
                 </div>
             </div>
             <div class="col-lg-6">
