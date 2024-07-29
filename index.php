@@ -119,7 +119,7 @@ include('header.php');
             <h2 class="h1 fw-bolder mb-0">Spices </h2>
         </div>
         <div class="row g-xxl-5 mt-n2-9 ">
-            <div class="col-md-6 col-lg-4 mt-2-9">
+            <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
                     <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/coriander-powder.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
@@ -132,7 +132,7 @@ include('header.php');
                         Now</a>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4 mt-2-9">
+            <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
                     <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/garam-masala1.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
@@ -144,7 +144,7 @@ include('header.php');
                         Now</a>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4 mt-2-9">
+            <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
                     <a href="chaat-masala.php"> <img class="border-top-radius-10" src="theme/img/product/chaat-masala.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
@@ -156,7 +156,7 @@ include('header.php');
                         Now</a>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4 mt-2-9">
+            <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
                     <a href="chicken-masala.php"> <img class="border-top-radius-10" src="theme/img/product/chicken-masala.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
@@ -168,7 +168,19 @@ include('header.php');
                         Now</a>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4 mt-2-9">
+            <div class="col-md-6 col-lg-3 mt-2-9">
+                <div class="card card-style1 border-0 border-radius-10">
+                    <a href="chole-masala.php"> <img class="border-top-radius-10" src="theme/img/product/chole-masala.jpg" alt="..."></a>
+                    <div class="card-body border-bottom-radius-10">
+
+                        <h3 class="text-align-center"><a href="chole-masala.php">chole Masala</a>
+                        </h3>
+                    </div>
+                    <a href="#" class="butn secondary">Buy
+                        Now</a>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
                     <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/red-chili-powder.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
@@ -180,7 +192,7 @@ include('header.php');
                         Now</a>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4 mt-2-9">
+            <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
                     <a href="kashmirichilli-powder.php"> <img class="border-top-radius-10" src="theme/img/product/kashmirichilli-powder.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
@@ -191,7 +203,7 @@ include('header.php');
                         Now</a>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4 mt-2-9">
+            <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
                     <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/turmeric-powder.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
@@ -203,7 +215,7 @@ include('header.php');
                         Now</a>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4 mt-2-9">
+            <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
                     <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/jeera-powder.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
@@ -214,7 +226,7 @@ include('header.php');
                         Now</a>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4 mt-2-9">
+            <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
                     <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/jeera-whole.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">

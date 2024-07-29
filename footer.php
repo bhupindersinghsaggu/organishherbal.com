@@ -21,7 +21,6 @@
                         <li><a href="all-in-one.php">All in One</a></li>
                         <li><a href="power-vita-gold.php">Power Vita Gold</a></li>
                         <li><a href="spices.php">Spices</a></li>
-                        <li><a href="new-arrivals.php">New Arrivals</a></li>
                         <li><a href="about.php">About Us</a></li>
                         <li><a href="contact-us.php">Contact Us</a></li>
                     </ul>

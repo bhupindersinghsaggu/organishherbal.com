@@ -92,13 +92,27 @@
             <div class="card-style3">
                 <div class="">
                     <div class="card-image product-des">
-                        <a href="garam-masala.php" class="card-inner-img">
+                        <a href="chat-masala.php" class="card-inner-img">
                             <img src="theme/img/product/chaat-masala.jpg" class="product-image" alt="...">
                         </a>
                     </div>
                 </div>
                 <div class="text-center">
-                    <h3 class="h4 mb-1"><a href="chaat-masala.php">Garam Masala</a></h3>
+                    <h3 class="h4 mb-1"><a href="chaat-masala.php">Chat Masala</a></h3>
+                    <p class="mb-0 pt-1-9"><a href="#"
+                            class="butn-style01 secondary "><span>Buy Now</span></a></p>
+                </div>
+            </div>
+            <div class="card-style3">
+                <div class="">
+                    <div class="card-image product-des">
+                        <a href="chole-masala.php" class="card-inner-img">
+                            <img src="theme/img/product/chole-masala.jpg" class="product-image" alt="...">
+                        </a>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <h3 class="h4 mb-1"><a href="chole-masala.php">Chole Masala</a></h3>
                     <p class="mb-0 pt-1-9"><a href="#"
                             class="butn-style01 secondary "><span>Buy Now</span></a></p>
                 </div>
