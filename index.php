@@ -3,12 +3,14 @@
 include('header.php');
 
 ?>
-<section class="bg-img cover-background pt-6 pb-9 pt-sm-10 pb-sm-14 py-md-16 py-lg-20 py-xxl-23" data-overlay-dark="6" data-background="theme/img/banner/banner-05.jpg" style="background-image: url(_theme/img/banner/banner-05.php);">
+<section class="bg-img cover-background pt-6 pb-9 pt-sm-10 pb-sm-14 py-md-16 py-lg-20 py-xxl-23" data-overlay-dark="6"
+    data-background="theme/img/banner/banner-05.jpg" style="background-image: url(_theme/img/banner/banner-05.php);">
     <div class="container pb-40">
         <div class="row align-items-center">
             <!-- Banner text -->
             <div class="col-md-10 col-lg-7 py-5">
-                <h1 class="display-17 display-sm-11 display-md-9 display-lg-8 display-xl-2 mb-lg-3 letter-spacing-4 title-font text-white font-weight-900">
+                <h1
+                    class="display-17 display-sm-11 display-md-9 display-lg-8 display-xl-2 mb-lg-3 letter-spacing-4 title-font text-white font-weight-900">
                     Empowering Your
                     Health Naturally</h1>
 
@@ -42,11 +44,14 @@ include('header.php');
             <div class="col-lg-6 mb-1-9 mb-lg-0">
                 <div class="position-relative text-end">
                     <div class="about-block d-inline-block ps-1-9 ps-sm-2-9">
-                        <img src="theme/img/content/about-01.jpg" class="rounded-circle z-index-1 position-relative" alt="...">
+                        <img src="theme/img/content/about-01.jpg" class="rounded-circle z-index-1 position-relative"
+                            alt="...">
                     </div>
                     <div class="bg-primary p-6 rounded-circle position-absolute bottom-10 right-5 ani-top-bottom">
                     </div>
-                    <img src="theme/img/content/about-06.jpg" class="position-absolute top-10 left-n5 left-lg-n10 rounded-circle z-index-2 d-none d-sm-block" alt="...">
+                    <img src="theme/img/content/about-06.jpg"
+                        class="position-absolute top-10 left-n5 left-lg-n10 rounded-circle z-index-2 d-none d-sm-block"
+                        alt="...">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -121,7 +126,8 @@ include('header.php');
         <div class="row g-xxl-5 mt-n2-9 ">
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/coriander-powder.jpg" alt="..."></a>
+                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/coriander-powder.jpg"
+                            alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
 
                         <h3 class="text-align-center"><a href="spices.php">Coriander
@@ -134,19 +140,21 @@ include('header.php');
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/garam-masala1.jpg" alt="..."></a>
+                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/garam-masala1.jpg"
+                            alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
 
                         <h3 class="text-align-center"><a href="spices.php">Garam Masala</a>
                         </h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/collections/garam-masala" class="butn secondary">Buy
+                    <a href="https://shop.organishherbal.com/products/garam-masala" class="butn secondary">Buy
                         Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="chaat-masala.php"> <img class="border-top-radius-10" src="theme/img/product/chaat-masala.jpg" alt="..."></a>
+                    <a href="chaat-masala.php"> <img class="border-top-radius-10"
+                            src="theme/img/product/chaat-masala.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
 
                         <h3 class="text-align-center"><a href="chaat-masala.php">Chaat Masala</a>
@@ -158,7 +166,8 @@ include('header.php');
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="chicken-masala.php"> <img class="border-top-radius-10" src="theme/img/product/chicken-masala.jpg" alt="..."></a>
+                    <a href="chicken-masala.php"> <img class="border-top-radius-10"
+                            src="theme/img/product/chicken-masala.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
 
                         <h3 class="text-align-center"><a href="chicken-masala.php">Chicken Masala</a>
@@ -170,7 +179,8 @@ include('header.php');
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="chole-masala.php"> <img class="border-top-radius-10" src="theme/img/product/chole-masala.jpg" alt="..."></a>
+                    <a href="chole-masala.php"> <img class="border-top-radius-10"
+                            src="theme/img/product/chole-masala.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
 
                         <h3 class="text-align-center"><a href="chole-masala.php">Chole Masala</a>
@@ -182,7 +192,8 @@ include('header.php');
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/red-chili-powder.jpg" alt="..."></a>
+                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/red-chili-powder.jpg"
+                            alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
                         <h3 class="text-align-center"><a href="spices.php">Red Chili
                                 Powder
@@ -194,18 +205,21 @@ include('header.php');
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="kashmirichilli-powder.php"> <img class="border-top-radius-10" src="theme/img/product/kashmirichilli-powder.jpg" alt="..."></a>
+                    <a href="kashmirichilli-powder.php"> <img class="border-top-radius-10"
+                            src="theme/img/product/kashmirichilli-powder.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
                         <h3 class="text-align-center"><a href="kashmirichilli-powder.php">Kashmiri Chilli Powder
                             </a></h3>
                     </div>
-                    <a href="#" class="butn secondary">Buy
+                    <a href="https://shop.organishherbal.com/products/red-chili-powder-100-gram-copy"
+                        class="butn secondary">Buy
                         Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/turmeric-powder.jpg" alt="..."></a>
+                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/turmeric-powder.jpg"
+                            alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
                         <h3 class="text-align-center"><a href="spices.php">Turmeric
                                 Powder
@@ -220,7 +234,8 @@ include('header.php');
             <div class="container">
                 <div class="text-center">
                     <a href="all-spices.php">
-                        <h2 class="title-font h1 fw-bolder text-primary mb-0"><i class="fa-solid fa-arrows-spin"></i> View More <i class="fa-solid fa-arrows-spin"></i></h2>
+                        <h2 class="title-font h1 fw-bolder text-primary mb-0"><i class="fa-solid fa-arrows-spin"></i>
+                            View More <i class="fa-solid fa-arrows-spin"></i></h2>
                     </a>
                 </div>
             </div>
@@ -240,17 +255,20 @@ include('header.php');
         <div class="row g-xxl-5 mt-n2-9">
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="spirulina.php"> <img class="border-top-radius-10" src="theme/img/product/spirulina.jpg" alt="..."></a>
+                    <a href="spirulina.php"> <img class="border-top-radius-10" src="theme/img/product/spirulina.jpg"
+                            alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
                         <h3 class="text-align-center"><a href="spirulina.php">Spirulina</a>
                         </h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/collections/spirulina-tablets" class="butn secondary">Buy Now</a>
+                    <a href="https://shop.organishherbal.com/collections/spirulina-tablets" class="butn secondary">Buy
+                        Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="moringa.php"> <img class="border-top-radius-10" src="theme/img/product/moringa.jpg" alt="..."></a>
+                    <a href="moringa.php"> <img class="border-top-radius-10" src="theme/img/product/moringa.jpg"
+                            alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
 
                         <h3 class="text-align-center"><a href="moringa.php">Moringa</a></h3>
@@ -261,7 +279,8 @@ include('header.php');
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="triphala.php"> <img class="border-top-radius-10" src="theme/img/product/triphala1.jpg" alt="..."></a>
+                    <a href="triphala.php"> <img class="border-top-radius-10" src="theme/img/product/triphala1.jpg"
+                            alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
                         <h3 class="text-align-center"><a href="triphala.php">Triphala</a></h3>
                     </div>
@@ -271,7 +290,8 @@ include('header.php');
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="six-m-syrup.php"> <img class="border-top-radius-10" src="theme/img/product/six-m-syrup.jpg" alt="..."></a>
+                    <a href="six-m-syrup.php"> <img class="border-top-radius-10" src="theme/img/product/six-m-syrup.jpg"
+                            alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
                         <h3 class="text-align-center"><a href="six-m-syrup.php">Six M Syrup</a>
                         </h3>
@@ -296,7 +316,8 @@ include('header.php');
         <div class="row g-xxl-5 mt-n2-9 content-center">
             <div class="col-md-6 col-lg-4 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="all-in-one.php"> <img class="border-top-radius-10" src="theme/img/product/all-in-one.jpg" alt="..."></a>
+                    <a href="all-in-one.php"> <img class="border-top-radius-10" src="theme/img/product/all-in-one.jpg"
+                            alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
 
                         <h3 class="text-align-center"><a href="all-in-one.php">All in One</a>
@@ -308,7 +329,8 @@ include('header.php');
             </div>
             <div class="col-md-6 col-lg-4 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="power-vita-gold.php"> <img class="border-top-radius-10" src="theme/img/product/power-vita-gold.jpg" alt="..."></a>
+                    <a href="power-vita-gold.php"> <img class="border-top-radius-10"
+                            src="theme/img/product/power-vita-gold.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
                         <h3 class="text-align-center"><a href="power-vita-gold.php">Power
                                 Vita Gold
@@ -418,14 +440,16 @@ include('header.php');
             </div>
         </div>
     </section> -->
-<section class="bg-img cover-background extra-section" data-overlay-dark="7" data-background="/theme/img/bg/bg-02.jpg" style="background-image: url(_/theme/img/bg/bg-02.php);">
+<section class="bg-img cover-background extra-section" data-overlay-dark="7" data-background="/theme/img/bg/bg-02.jpg"
+    style="background-image: url(_/theme/img/bg/bg-02.php);">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6 text-center">
                 <span class="d-block mb-3 text-secondary title-font display-25 display-md-23">Living Organic,
                     Living
                     Vibrant</span>
-                <h2 class="mb-1-9 mb-lg-2-3 display-20 display-sm-15 display-xl-9 display-xxl-6 font-weight-400 text-white">
+                <h2
+                    class="mb-1-9 mb-lg-2-3 display-20 display-sm-15 display-xl-9 display-xxl-6 font-weight-400 text-white">
                     Organic Goodness <span class="fw-bolder"><br> Inside and Out</span></h2>
                 <a href="contact-us.php" class="butn secondary">Contact Us</a>
             </div>
@@ -439,11 +463,14 @@ include('header.php');
             <div class="col-lg-6 mb-1-9 mb-lg-0">
                 <div class="position-relative text-end">
                     <div class="about-block d-inline-block ps-1-9 ps-sm-2-9">
-                        <img src="theme/img/content/moringa34.jpg" class="rounded-circle z-index-1 position-relative" alt="...">
+                        <img src="theme/img/content/moringa34.jpg" class="rounded-circle z-index-1 position-relative"
+                            alt="...">
                     </div>
                     <div class="bg-primary p-6 rounded-circle position-absolute bottom-10 right-5 ani-top-bottom">
                     </div>
-                    <img src="theme/img/content/about-77.jpg" class="position-absolute top-10 left-n5 left-lg-n10 rounded-circle z-index-2 d-none d-sm-block" alt="...">
+                    <img src="theme/img/content/about-77.jpg"
+                        class="position-absolute top-10 left-n5 left-lg-n10 rounded-circle z-index-2 d-none d-sm-block"
+                        alt="...">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -457,9 +484,12 @@ include('header.php');
                     <div class="accordion style1" id="accordion">
                         <div class="card">
                             <h2 class="card-header" id="headingOne">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Description</button>
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true"
+                                    aria-controls="collapseOne">Description</button>
                             </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion">
+                            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
+                                data-bs-parent="#accordion">
                                 <div class="card-body">
                                     Combined Spirulina & Moringa provide the perfect source of Life Vitality
                                     Complementing each other to bring you the ultimate Superfood powerhouse.
@@ -511,10 +541,13 @@ include('header.php');
                         </div>
                         <div class="card">
                             <h2 class="card-header" id="headingTwo">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Direction
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="true"
+                                    aria-controls="collapseTwo">Direction
                                     ‌</button>
                             </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                                data-bs-parent="#accordion">
                                 <div class="card-body">
                                     Take minimum 2-4 capsules per day with breakfast/lunch.
                                 </div>
@@ -522,9 +555,12 @@ include('header.php');
                         </div>
                         <div class="card">
                             <h2 class="card-header" id="headingThree">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">Ingredient</button>
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="true"
+                                    aria-controls="collapseThree">Ingredient</button>
                             </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
+                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                                data-bs-parent="#accordion">
                                 <div class="card-body">
                                     <ul>
                                         <li> 500mg Pure all natural spirulina tablet. </li>
@@ -536,9 +572,12 @@ include('header.php');
                         </div>
                         <div class="card">
                             <h2 class="card-header" id="headingFour">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">Storage</button>
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="true"
+                                    aria-controls="collapseFour">Storage</button>
                             </h2>
-                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordion">
+                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+                                data-bs-parent="#accordion">
                                 <div class="card-body">
                                     Store in a cool dry place, away from direct sunlight.
                                     Reseal packet after every use.
