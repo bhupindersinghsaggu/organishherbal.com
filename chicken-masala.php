@@ -18,7 +18,7 @@ include('header.php');
                 Discover the magic of spices and transform every meal
             </h4>
         </div> -->
-        <div class="row align-items-center pdt-100">
+        <div class="row align-items-center ">
             <div class="col-lg-6 mb-1-9 mb-lg-0">
                 <div class="position-relative pe-lg-1-9 pe-xl-7 ps-xl-8 text-center about-style01">
                     <img src="theme/img/product/chicken-masala.jpg" class="rounded z-index-1 position-relative" alt="...">
@@ -34,15 +34,10 @@ include('header.php');
                     <div class="col-sm-12">
                         <h5>-About this item</h5>
                         <ul class="list-style2 mb-0">
-                            <li> Indulge In Rich Aroma &amp; Flavor: Elevate every meal with an indulgent sensory
-                                experience, where every bite tantalizes your taste buds with rich aroma and flavor.</li>
-                            <li>Natural Oils Preserved: Crafted with care to preserve the natural oils of the spices,
-                                ensuring maximum freshness and flavor in every sprinkle.</li>
-                            <li>From The Finest Farms: Handpicked from the finest farms, our spices boast naturally rich
-                                flavors, adding authenticity and depth to your dishes.</li>
-                            <li>Explore More: Expand your culinary repertoire with our range of masalas, including Pav
-                                Bhaji, Chicken, Paneer, Chhole, Dal Tadka, Meat, and Kitchen King, each promising a
-                                burst of exquisite flavors.</li>
+                            <li> Chicken Masala is an essential masala for Indian preparation of chicken</li>
+                            <li>Suitable for Chicken Tikka Masala, Chicken Masala, Butter Chicken, Chicken Tandoori Masala and more.</li>
+                            <li>Made using Low Temperature Grinding of several Indian spices</li>
+                           
                         </ul><br>
                         <a href="#" class="butn-style01 secondary"><span>Buy Now</span></a>
                     </div>
