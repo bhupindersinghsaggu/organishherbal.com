@@ -62,7 +62,7 @@ include('header.php');
                                     <li>
                                         <div class="text-center text-sm-start d-sm-flex mb-4">
                                             <div class="">
-                                                <h4 class="h5">Health Benefits of Turmeric Powder</h4>
+                                                <h4 class="h5">Health Benefits </h4>
                                             </div>
                                         </div>
                                         <div class="mb-3">

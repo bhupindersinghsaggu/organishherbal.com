@@ -37,7 +37,7 @@ include('header.php');
                             <li>A perfect blend of pure spices</li>
                             <li>Enhances the taste of your dish</li>
                             <li>RICH AROMA & FLAVOR: Treat yourself to an aromatic & flavorful delight with every bite</li>
-                           
+
                         </ul><br>
                         <a href="#" class="butn-style01 secondary"><span>Buy Now</span></a>
                     </div>
@@ -54,7 +54,7 @@ include('header.php');
                                     <li>
                                         <div class="text-center text-sm-start d-sm-flex mb-4">
                                             <div class="">
-                                                <h4 class="h5">Health Benefits of Turmeric Powder</h4>
+                                                <h4 class="h5">Health Benefits </h4>
                                             </div>
                                         </div>
                                         <div class="mb-3">
@@ -62,7 +62,7 @@ include('header.php');
                                                 <ul class="list-style1 mb-0">
                                                     <li>
                                                         <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>
-                                                        Reduce cholesterol levels </h4>
+                                                            Reduce cholesterol levels </h4>
                                                     </li>
                                                     <li>
                                                         <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Lower blood pressure </h4>
