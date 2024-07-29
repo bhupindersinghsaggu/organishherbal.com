@@ -173,7 +173,7 @@ include('header.php');
                     <a href="chole-masala.php"> <img class="border-top-radius-10" src="theme/img/product/chole-masala.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
 
-                        <h3 class="text-align-center"><a href="chole-masala.php">chole Masala</a>
+                        <h3 class="text-align-center"><a href="chole-masala.php">Chole Masala</a>
                         </h3>
                     </div>
                     <a href="#" class="butn secondary">Buy
