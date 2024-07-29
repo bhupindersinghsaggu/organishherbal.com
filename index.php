@@ -218,9 +218,9 @@ include('header.php');
         </div>
         <section>
             <div class="container">
-                <div class="text-center mb-1-9 mb-md-2-9">
+                <div class="text-center">
                     <a href="all-spices.php">
-                        <h2 class="title-font h1 fw-bolder text-primary mb-0"> View More</h2>
+                        <h2 class="title-font h1 fw-bolder text-primary mb-0"><i class="fa-solid fa-arrows-spin"></i> View More <i class="fa-solid fa-arrows-spin"></i></h2>
                     </a>
                 </div>
             </div>
