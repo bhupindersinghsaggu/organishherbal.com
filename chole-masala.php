@@ -27,16 +27,16 @@ include('header.php');
             </div>
             <div class="col-lg-6">
                 <div class="">
-                    <h4 class="display-20 display-sm-15 display-xl-9 mb-3" style="font-size: 35px;">Chicken Masala
+                    <h4 class="display-20 display-sm-15 display-xl-9 mb-3" style="font-size: 35px;">Chole Masala
                     </h4>
                     <p>Chicken tikka masala, dish consisting of marinated boneless chicken pieces that are traditionally cooked in a tandoor and then served in a subtly spiced tomato-cream sauce. salt. Chicken Masala Curry is a bold, spicy, and super flavorful Indian chicken curry made by cooking chicken in an onion tomato-based gravy. Chicken masala is a popular curried dish made with boneless chicken, ground spices, onions, tomatoes, cream and herbs.
                     </p>
                     <div class="col-sm-12">
                         <h5>-About this item</h5>
                         <ul class="list-style2 mb-0">
-                            <li> Chicken Masala is an essential masala for Indian preparation of chicken</li>
-                            <li>Suitable for Chicken Tikka Masala, Chicken Masala, Butter Chicken, Chicken Tandoori Masala and more.</li>
-                            <li>Made using Low Temperature Grinding of several Indian spices</li>
+                            <li>A perfect blend of pure spices</li>
+                            <li>Enhances the taste of your dish</li>
+                            <li>RICH AROMA & FLAVOR: Treat yourself to an aromatic & flavorful delight with every bite</li>
                            
                         </ul><br>
                         <a href="#" class="butn-style01 secondary"><span>Buy Now</span></a>
