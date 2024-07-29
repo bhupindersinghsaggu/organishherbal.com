@@ -15,8 +15,7 @@
                 </div>
                 <div class="text-center">
                     <h3 class="h4 mb-1"><a href="coriander-powder.php">Coriander Powder</a></h3>
-                    <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/collections/coriander-powder"
-                            class="butn-style01 secondary "><span>Buy Now</span></a></p>
+                    <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/collections/coriander-powder" class="butn-style01 secondary "><span>Buy Now</span></a></p>
                 </div>
             </div>
             <div class="card-style3">
@@ -29,8 +28,7 @@
                 </div>
                 <div class="text-center">
                     <h3 class="h4 mb-1"><a href="red-chilli-powder.php">Red Chilli Powder</a></h3>
-                    <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/collections/red-chili-powder"
-                            class="butn-style01 secondary "><span>Buy Now</span></a></p>
+                    <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/collections/red-chili-powder" class="butn-style01 secondary "><span>Buy Now</span></a></p>
                 </div>
             </div>
             <div class="card-style3">
@@ -43,8 +41,7 @@
                 </div>
                 <div class="text-center">
                     <h3 class="h4 mb-1"><a href="jeera-powder.php">Jeera Powder</a></h3>
-                    <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/collections/jeera-powder"
-                            class="butn-style01 secondary "><span>Buy Now</span></a></p>
+                    <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/collections/jeera-powder" class="butn-style01 secondary "><span>Buy Now</span></a></p>
                 </div>
             </div>
             <div class="card-style3">
@@ -57,8 +54,7 @@
                 </div>
                 <div class="text-center">
                     <h3 class="h4 mb-1"><a href="turmeric-powder.php">Turmeric Powder</a></h3>
-                    <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/collections/turmeric-powder"
-                            class="butn-style01 secondary "><span>Buy Now</span></a></p>
+                    <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/collections/turmeric-powder" class="butn-style01 secondary "><span>Buy Now</span></a></p>
                 </div>
             </div>
             <div class="card-style3">
@@ -71,8 +67,7 @@
                 </div>
                 <div class="text-center">
                     <h3 class="h4 mb-1"><a href="kashmirichilli-powder.php">Kashmiri Chilli Powder</a></h3>
-                    <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/collections/red-chili-powder"
-                            class="butn-style01 secondary "><span>Buy Now</span></a></p>
+                    <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/products/kashmiri-chilli-powder-pack-of-1-100-gram-copy" class="butn-style01 secondary "><span>Buy Now</span></a></p>
                 </div>
             </div>
             <div class="card-style3">
@@ -85,8 +80,7 @@
                 </div>
                 <div class="text-center">
                     <h3 class="h4 mb-1"><a href="garam-masala.php">Garam Masala</a></h3>
-                    <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/collections/red-chili-powder"
-                            class="butn-style01 secondary "><span>Buy Now</span></a></p>
+                    <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/products/garam-masala" class="butn-style01 secondary "><span>Buy Now</span></a></p>
                 </div>
             </div>
             <div class="card-style3">
@@ -99,8 +93,7 @@
                 </div>
                 <div class="text-center">
                     <h3 class="h4 mb-1"><a href="chaat-masala.php">Chat Masala</a></h3>
-                    <p class="mb-0 pt-1-9"><a href="#"
-                            class="butn-style01 secondary "><span>Buy Now</span></a></p>
+                    <p class="mb-0 pt-1-9"><a href="#" class="butn-style01 secondary "><span>Buy Now</span></a></p>
                 </div>
             </div>
             <div class="card-style3">
@@ -113,8 +106,7 @@
                 </div>
                 <div class="text-center">
                     <h3 class="h4 mb-1"><a href="chole-masala.php">Chole Masala</a></h3>
-                    <p class="mb-0 pt-1-9"><a href="#"
-                            class="butn-style01 secondary "><span>Buy Now</span></a></p>
+                    <p class="mb-0 pt-1-9"><a href="#" class="butn-style01 secondary "><span>Buy Now</span></a></p>
                 </div>
             </div>
             <div class="card-style3">
@@ -127,8 +119,20 @@
                 </div>
                 <div class="text-center">
                     <h3 class="h4 mb-1"><a href="chicken-masala.php">Chicken Masala</a></h3>
-                    <p class="mb-0 pt-1-9"><a href="#"
-                            class="butn-style01 secondary "><span>Buy Now</span></a></p>
+                    <p class="mb-0 pt-1-9"><a href="#" class="butn-style01 secondary "><span>Buy Now</span></a></p>
+                </div>
+            </div>
+            <div class="card-style3">
+                <div class="">
+                    <div class="card-image product-des">
+                        <a href="kitchen-king-masala.php" class="card-inner-img">
+                            <img src="theme/img/product/kitchen-king-masala.jpg" class="product-image" alt="...">
+                        </a>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <h3 class="h4 mb-1"><a href="kitchen-king-masala.php">Kitchen King Masala</a></h3>
+                    <p class="mb-0 pt-1-9"><a href="#" class="butn-style01 secondary "><span>Buy Now</span></a></p>
                 </div>
             </div>
         </div>
