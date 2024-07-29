@@ -293,6 +293,8 @@ include('header.php');
                         Now</a>
                 </div>
             </div>
+
+            View More
         </div>
     </div>
 </section>
