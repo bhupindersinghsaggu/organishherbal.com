@@ -121,10 +121,10 @@ include('header.php');
         <div class="row g-xxl-5 mt-n2-9 ">
             <div class="col-md-6 col-lg-4 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="coriander-powder.php"> <img class="border-top-radius-10" src="theme/img/product/coriander-powder.jpg" alt="..."></a>
+                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/coriander-powder.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
 
-                        <h3 class="text-align-center"><a href="coriander-powder.php">Coriander
+                        <h3 class="text-align-center"><a href="spices.php">Coriander
                                 Powder</a>
                         </h3>
                     </div>
@@ -146,6 +146,18 @@ include('header.php');
             </div>
             <div class="col-md-6 col-lg-4 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
+                    <a href="chaat-masala.php"> <img class="border-top-radius-10" src="theme/img/product/chaat-masala.jpg" alt="..."></a>
+                    <div class="card-body border-bottom-radius-10">
+
+                        <h3 class="text-align-center"><a href="chaat-masala.php">Chaat Masala</a>
+                        </h3>
+                    </div>
+                    <a href="#" class="butn secondary">Buy
+                        Now</a>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mt-2-9">
+                <div class="card card-style1 border-0 border-radius-10">
                     <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/red-chili-powder.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
                         <h3 class="text-align-center"><a href="spices.php">Red Chili
@@ -158,21 +170,9 @@ include('header.php');
             </div>
             <div class="col-md-6 col-lg-4 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="#"> <img class="border-top-radius-10" src="theme/img/product/kashmirichilli-powder.jpg" alt="..."></a>
+                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/turmeric-powder.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
-                        <h3 class="text-align-center"><a href="#">Kashmiri Chili
-                                Powder
-                            </a></h3>
-                    </div>
-                    <a href="https://shop.organishherbal.com/collections/red-chili-powder" class="butn secondary">Buy
-                        Now</a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
-                    <a href="turmeric-powder.php"> <img class="border-top-radius-10" src="theme/img/product/turmeric-powder.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-                        <h3 class="text-align-center"><a href="turmeric-powder.php">Turmeric
+                        <h3 class="text-align-center"><a href="spices.php">Turmeric
                                 Powder
                             </a></h3>
                     </div>
@@ -182,9 +182,9 @@ include('header.php');
             </div>
             <div class="col-md-6 col-lg-4 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="jeera-powder.php"> <img class="border-top-radius-10" src="theme/img/product/jeera-powder.jpg" alt="..."></a>
+                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/jeera-powder.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
-                        <h3 class="text-align-center"><a href="jeera-powder.php">Jeera Powder
+                        <h3 class="text-align-center"><a href="spices.php">Jeera Powder
                             </a></h3>
                     </div>
                     <a href="https://shop.organishherbal.com/collections/jeera-powder" class="butn secondary">Buy
@@ -223,8 +223,7 @@ include('header.php');
                         <h3 class="text-align-center"><a href="spirulina.php">Spirulina</a>
                         </h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/collections/spirulina-tablets" class="butn secondary">Buy
-                        Now</a>
+                    <a href="https://shop.organishherbal.com/collections/spirulina-tablets" class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
