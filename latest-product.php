@@ -103,6 +103,20 @@
                             class="butn-style01 secondary "><span>Buy Now</span></a></p>
                 </div>
             </div>
+            <div class="card-style3">
+                <div class="">
+                    <div class="card-image product-des">
+                        <a href="chicken-masala.php" class="card-inner-img">
+                            <img src="theme/img/product/chicken-masala.jpg" class="product-image" alt="...">
+                        </a>
+                    </div>
+                </div>
+                <div class="text-center">
+                    <h3 class="h4 mb-1"><a href="chicken-masala.php">Chicken Masala</a></h3>
+                    <p class="mb-0 pt-1-9"><a href="#"
+                            class="butn-style01 secondary "><span>Buy Now</span></a></p>
+                </div>
+            </div>
         </div>
     </div>
 </section>

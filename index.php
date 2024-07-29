@@ -158,6 +158,18 @@ include('header.php');
             </div>
             <div class="col-md-6 col-lg-4 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
+                    <a href="chicken-masala.php"> <img class="border-top-radius-10" src="theme/img/product/chicken-masala.jpg" alt="..."></a>
+                    <div class="card-body border-bottom-radius-10">
+
+                        <h3 class="text-align-center"><a href="chicken-masala.php">Chicken Masala</a>
+                        </h3>
+                    </div>
+                    <a href="#" class="butn secondary">Buy
+                        Now</a>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mt-2-9">
+                <div class="card card-style1 border-0 border-radius-10">
                     <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/red-chili-powder.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
                         <h3 class="text-align-center"><a href="spices.php">Red Chili
@@ -165,6 +177,17 @@ include('header.php');
                             </a></h3>
                     </div>
                     <a href="https://shop.organishherbal.com/collections/red-chili-powder" class="butn secondary">Buy
+                        Now</a>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 mt-2-9">
+                <div class="card card-style1 border-0 border-radius-10">
+                    <a href="kashmirichilli-powder.php"> <img class="border-top-radius-10" src="theme/img/product/kashmirichilli-powder.jpg" alt="..."></a>
+                    <div class="card-body border-bottom-radius-10">
+                        <h3 class="text-align-center"><a href="kashmirichilli-powder.php">Kashmiri Chilli Powder
+                            </a></h3>
+                    </div>
+                    <a href="#" class="butn secondary">Buy
                         Now</a>
                 </div>
             </div>
