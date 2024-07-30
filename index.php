@@ -1,9 +1,8 @@
 <?php
 
 include('header.php');
-$shoplink = "https://www.amazon.in/l/27943762031?ie=UTF8&marketplaceID=A21TJRUUN4KGV&me=A3C4VOWAJRLW8Y";
+include('function.php');
 
-$name = "bhupinder";
 ?>
 <section class="bg-img cover-background pt-6 pb-9 pt-sm-10 pb-sm-14 py-md-16 py-lg-20 py-xxl-23" data-overlay-dark="6" data-background="theme/img/banner/banner-05.jpg" style="background-image: url(_theme/img/banner/banner-05.php);">
     <div class="container pb-40">
@@ -13,8 +12,6 @@ $name = "bhupinder";
                 <h1 class="display-17 display-sm-11 display-md-9 display-lg-8 display-xl-2 mb-lg-3 letter-spacing-4 title-font text-white font-weight-900">
                     Empowering Your
                     Health Naturally</h1>
-
-
             </div>
             <!-- Banner text -->
         </div>
@@ -129,7 +126,7 @@ $name = "bhupinder";
                                 Powder</a>
                         </h3>
                     </div>
-                    <a href=<?php " '.$shoplink.' "  ?> class="butn secondary">Buy Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -140,8 +137,7 @@ $name = "bhupinder";
                         <h3 class="text-align-center"><a href="spices.php">Garam Masala</a>
                         </h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/products/garam-masala" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -152,8 +148,7 @@ $name = "bhupinder";
                         <h3 class="text-align-center"><a href="chaat-masala.php">Chaat Masala</a>
                         </h3>
                     </div>
-                    <a href="#" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -164,8 +159,7 @@ $name = "bhupinder";
                         <h3 class="text-align-center"><a href="chicken-masala.php">Chicken Masala</a>
                         </h3>
                     </div>
-                    <a href="#" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -176,8 +170,7 @@ $name = "bhupinder";
                         <h3 class="text-align-center"><a href="chole-masala.php">Chole Masala</a>
                         </h3>
                     </div>
-                    <a href="#" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -188,8 +181,7 @@ $name = "bhupinder";
                                 Powder
                             </a></h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/collections/red-chili-powder" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -199,8 +191,7 @@ $name = "bhupinder";
                         <h3 class="text-align-center"><a href="kashmirichilli-powder.php">Kashmiri Chilli Powder
                             </a></h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/products/red-chili-powder-100-gram-copy" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -211,8 +202,7 @@ $name = "bhupinder";
                                 Powder
                             </a></h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/collections/turmeric-powder" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
         </div>
@@ -246,8 +236,7 @@ $name = "bhupinder";
                         <h3 class="text-align-center"><a href="spirulina.php">Spirulina</a>
                         </h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/collections/spirulina-tablets" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -257,8 +246,7 @@ $name = "bhupinder";
 
                         <h3 class="text-align-center"><a href="moringa.php">Moringa</a></h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/collections/moringa" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -267,8 +255,7 @@ $name = "bhupinder";
                     <div class="card-body border-bottom-radius-10">
                         <h3 class="text-align-center"><a href="triphala.php">Triphala</a></h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/products/triphala" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -278,8 +265,7 @@ $name = "bhupinder";
                         <h3 class="text-align-center"><a href="six-m-syrup.php">Six M Syrup</a>
                         </h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/collections/six-m-syrup" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
 
@@ -304,8 +290,7 @@ $name = "bhupinder";
                         <h3 class="text-align-center"><a href="all-in-one.php">All in One</a>
                         </h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/collections/all-in-one" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 mt-2-9">
@@ -316,8 +301,7 @@ $name = "bhupinder";
                                 Vita Gold
                             </a></h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/collections/power-vita-gold" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
         </div>

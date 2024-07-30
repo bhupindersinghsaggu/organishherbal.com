@@ -1,6 +1,7 @@
 <?php
 
 include('header.php');
+include('function.php');
 
 ?>
 <section>
@@ -21,8 +22,7 @@ include('header.php');
                                 Powder</a>
                         </h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/products/coriander-powder" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -33,8 +33,7 @@ include('header.php');
                         <h3 class="text-align-center"><a href="spices.php">Garam Masala</a>
                         </h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/collections/garam-masala" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -45,8 +44,7 @@ include('header.php');
                         <h3 class="text-align-center"><a href="chaat-masala.php">Chaat Masala</a>
                         </h3>
                     </div>
-                    <a href="#" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -57,8 +55,7 @@ include('header.php');
                         <h3 class="text-align-center"><a href="chicken-masala.php">Chicken Masala</a>
                         </h3>
                     </div>
-                    <a href="#" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -69,8 +66,7 @@ include('header.php');
                         <h3 class="text-align-center"><a href="chole-masala.php">Chole Masala</a>
                         </h3>
                     </div>
-                    <a href="#" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -81,8 +77,7 @@ include('header.php');
                                 Powder
                             </a></h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/collections/red-chili-powder" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -92,8 +87,7 @@ include('header.php');
                         <h3 class="text-align-center"><a href="kashmirichilli-powder.php">Kashmiri Chilli Powder
                             </a></h3>
                     </div>
-                    <a href="#" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -104,8 +98,7 @@ include('header.php');
                                 Powder
                             </a></h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/collections/turmeric-powder" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -115,8 +108,7 @@ include('header.php');
                         <h3 class="text-align-center"><a href="spices.php">Jeera Powder
                             </a></h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/collections/jeera-powder" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -126,8 +118,7 @@ include('header.php');
                         <h3 class="text-align-center"><a href="spices.php">Jeera Whole
                             </a></h3>
                     </div>
-                    <a href="https://shop.organishherbal.com/collections/jeera-powder" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
@@ -137,8 +128,7 @@ include('header.php');
                         <h3 class="text-align-center"><a href="spices.php">Kitchen King Masala
                             </a></h3>
                     </div>
-                    <a href="#" class="butn secondary">Buy
-                        Now</a>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                 </div>
             </div>
         </div>
