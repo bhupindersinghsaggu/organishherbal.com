@@ -2,8 +2,12 @@
 
 include('header.php');
 
+include(' function.php');
+
 ?>
-<section class="page-title-section bg-img cover-background" data-overlay-dark="6" data-background="/theme/img/bg/coriander-powder-bg.jpg" style="background-image: url(_/theme/img/bg/coriander-powder-bg.jpg);">
+<section class="page-title-section bg-img cover-background" data-overlay-dark="6"
+    data-background="/theme/img/bg/coriander-powder-bg.jpg"
+    style="background-image: url(_/theme/img/bg/coriander-powder-bg.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -21,7 +25,8 @@ include('header.php');
         <div class="row align-items-center ">
             <div class="col-lg-6 mb-1-9 mb-lg-0">
                 <div class="position-relative pe-lg-1-9 pe-xl-7 ps-xl-8 text-center about-style01">
-                    <img src="theme/img/product/coriander-powder.jpg" class="rounded z-index-1 position-relative" alt="...">
+                    <img src="theme/img/product/coriander-powder.jpg" class="rounded z-index-1 position-relative"
+                        alt="...">
                     <h5 class="mt-3">AVAILABILITY: 100 g | 200g | 500 g</h5>
                 </div>
             </div>
@@ -50,7 +55,7 @@ include('header.php');
                             <li>Uses For:- Dhaniya powder is used in all Indian cuisines and it's perfect for
                                 vegetables, meats, gravies and curries.</li>
                         </ul><br>
-                        <a href="https://shop.organishherbal.com/collections/coriander-powder" class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                     </div>
                 </div>
             </div>
@@ -72,19 +77,23 @@ include('header.php');
                                             <div class="nutritional-info">
                                                 <ul class="list-style1 mb-0">
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Improves
+                                                        <h4 class="h6 mb-0"><i
+                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>Improves
                                                             heart health </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Anti-Allergic
+                                                        <h4 class="h6 mb-0"><i
+                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>Anti-Allergic
                                                             Properties </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Controls
+                                                        <h4 class="h6 mb-0"><i
+                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>Controls
                                                             Cholesterol </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Good
+                                                        <h4 class="h6 mb-0"><i
+                                                                class="ti-check-box text-secondary me-3 font-weight-500"></i>Good
                                                             for Hair & Skin Health </h4>
                                                     </li>
                                                 </ul>
@@ -104,7 +113,8 @@ include('header.php');
                                     <li>
                                         <div class="text-center text-sm-start d-sm-flex mb-4">
                                             <div class="flex-shrink-0 mb-4 mb-md-0">
-                                                <img src="theme/img/product/coriander-powder-round .jpg" class="rounded-circle" alt="...">
+                                                <img src="theme/img/product/coriander-powder-round .jpg"
+                                                    class="rounded-circle" alt="...">
                                             </div>
                                             <div class="flex-grow-1 ms-sm-4">
                                                 <h4 class="h5">Ingerdients</h4>
@@ -162,4 +172,4 @@ include('header.php');
 include('latest-product.php');
 include('footer.php');
 
-?>
+?> <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>

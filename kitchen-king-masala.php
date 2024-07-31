@@ -1,6 +1,7 @@
 <?php
 
 include('header.php');
+include('function.php');
 
 ?>
 <section class="page-title-section bg-img cover-background" data-overlay-dark="6" data-background="/theme/img/bg/kitchen-king-masala-bg.jpg" style="background-image: url(_/theme/img/bg/kitchen-king-masala-bg.jpg);">
@@ -45,7 +46,7 @@ include('header.php');
                             <li>Made using Low Temperature Grinding of several Indian spices</li>
 
                         </ul><br>
-                        <a href="#" class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                     </div>
                 </div>
             </div>

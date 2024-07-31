@@ -1,20 +1,20 @@
-<?php 
+<?php
 
 include('header.php');
+include('function.php');
 
 ?>
-    <section class="page-title-section bg-img cover-background" data-overlay-dark="6"
-    data-background="/theme/img/bg/bg-035.jpg" style="background-image: url(_/theme/img/bg/bg-0333.jpg);">
+<section class="page-title-section bg-img cover-background" data-overlay-dark="6" data-background="/theme/img/bg/bg-035.jpg" style="background-image: url(_/theme/img/bg/bg-0333.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                
+
             </div>
-            
+
         </div>
     </div>
-    
-    
+
+
 </section>
 <section id="moringa">
     <div class="container">
@@ -26,8 +26,7 @@ include('header.php');
         <div class="row align-items-center">
             <div class="col-lg-6 mb-1-9 mb-lg-0">
                 <div class="position-relative pe-lg-1-9 pe-xl-7 ps-xl-8 text-center about-style01">
-                    <img src="theme/img/product/coriander-powder.jpg" class="rounded z-index-1 position-relative"
-                        alt="...">
+                    <img src="theme/img/product/coriander-powder.jpg" class="rounded z-index-1 position-relative" alt="...">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -56,8 +55,7 @@ include('header.php');
                             <li>Uses For:- Dhaniya powder is used in all Indian cuisines and it's perfect for
                                 vegetables, meats, gravies and curries.</li>
                         </ul><br>
-                        <a href="https://shop.organishherbal.com/collections/coriander-powder"
-                            class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href="https://shop.organishherbal.com/collections/coriander-powder" class="butn-style01 secondary"><span>Buy Now</span></a>
                     </div>
                 </div>
             </div>
@@ -65,8 +63,7 @@ include('header.php');
         <div class="row align-items-center pdt-100">
             <div class="col-lg-6 mb-1-9 mb-lg-0">
                 <div class="position-relative pe-lg-1-9 pe-xl-7 ps-xl-8 text-center about-style01">
-                    <img src="theme/img/product/garam-masala.jpg" class="rounded z-index-1 position-relative"
-                        alt="...">
+                    <img src="theme/img/product/garam-masala.jpg" class="rounded z-index-1 position-relative" alt="...">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -95,8 +92,7 @@ include('header.php');
                                 burst of exquisite flavors.</li>
 
                         </ul><br>
-                        <a href="https://shop.organishherbal.com/collections/garam-masala"
-                            class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href="https://shop.organishherbal.com/collections/garam-masala" class="butn-style01 secondary"><span>Buy Now</span></a>
                     </div>
                 </div>
             </div>
@@ -104,8 +100,7 @@ include('header.php');
         <div class="row align-items-center pdt-100">
             <div class="col-lg-6 mb-1-9 mb-lg-0">
                 <div class="position-relative pe-lg-1-9 pe-xl-7 ps-xl-8 text-center about-style01">
-                    <img src="theme/img/product/red-chili-powder.jpg" class="rounded z-index-1 position-relative"
-                        alt="...">
+                    <img src="theme/img/product/red-chili-powder.jpg" class="rounded z-index-1 position-relative" alt="...">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -134,8 +129,7 @@ include('header.php');
                             <li>Packed Hygienically: Organish Herbal Spices are packed hygienically ensuring minimal
                                 human contact</li>
                         </ul><br>
-                        <a href="https://shop.organishherbal.com/collections/red-chili-powder"
-                            class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href="https://shop.organishherbal.com/collections/red-chili-powder" class="butn-style01 secondary"><span>Buy Now</span></a>
                     </div>
                 </div>
             </div>
@@ -143,8 +137,7 @@ include('header.php');
         <div class="row align-items-center pdt-100">
             <div class="col-lg-6 mb-1-9 mb-lg-0">
                 <div class="position-relative pe-lg-1-9 pe-xl-7 ps-xl-8 text-center about-style01">
-                    <img src="theme/img/product/turmeric-powder.jpg" class="rounded z-index-1 position-relative"
-                        alt="...">
+                    <img src="theme/img/product/turmeric-powder.jpg" class="rounded z-index-1 position-relative" alt="...">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -169,8 +162,7 @@ include('header.php');
                                 to any dish. </li>
                             <li>Quality:- All the Indian spices used in this product are of premium quality</li>
                         </ul><br>
-                        <a href="https://shop.organishherbal.com/collections/turmeric-powder"
-                            class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href="https://shop.organishherbal.com/collections/turmeric-powder" class="butn-style01 secondary"><span>Buy Now</span></a>
                     </div>
                 </div>
             </div>
@@ -178,8 +170,7 @@ include('header.php');
         <div class="row align-items-center pdt-100">
             <div class="col-lg-6 mb-1-9 mb-lg-0">
                 <div class="position-relative pe-lg-1-9 pe-xl-7 ps-xl-8 text-center about-style01">
-                    <img src="theme/img/product/jeera-powder.jpg" class="rounded z-index-1 position-relative"
-                        alt="...">
+                    <img src="theme/img/product/jeera-powder.jpg" class="rounded z-index-1 position-relative" alt="...">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -206,8 +197,7 @@ include('header.php');
                                 to any dish. </li>
                             <li>Quality:- All the Indian spices used in this product are of premium quality</li>
                         </ul><br>
-                        <a href="https://shop.organishherbal.com/collections/jeera-powder"
-                            class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href="https://shop.organishherbal.com/collections/jeera-powder" class="butn-style01 secondary"><span>Buy Now</span></a>
                     </div>
                 </div>
             </div>
@@ -244,15 +234,14 @@ include('header.php');
                                 popular Indian recipe is jeera rice. </li>
 
                         </ul><br>
-                        <a href="https://shop.organishherbal.com/collections/jeera-powder"
-                            class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href="https://shop.organishherbal.com/collections/jeera-powder" class="butn-style01 secondary"><span>Buy Now</span></a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<?php 
+<?php
 
 include('footer.php');
 

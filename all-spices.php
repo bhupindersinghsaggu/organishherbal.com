@@ -15,10 +15,9 @@ include('function.php');
         <div class="row g-xxl-5 mt-n2-9 ">
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/coriander-powder.jpg" alt="..."></a>
+                    <a href="coriander-powder.php"> <img class="border-top-radius-10" src="theme/img/product/coriander-powder.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
-
-                        <h3 class="text-align-center"><a href="spices.php">Coriander
+                        <h3 class="text-align-center"><a href="coriander-powder.php">Coriander
                                 Powder</a>
                         </h3>
                     </div>
@@ -27,10 +26,10 @@ include('function.php');
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/garam-masala1.jpg" alt="..."></a>
+                    <a href="garam-masala.php"> <img class="border-top-radius-10" src="theme/img/product/garam-masala1.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
 
-                        <h3 class="text-align-center"><a href="spices.php">Garam Masala</a>
+                        <h3 class="text-align-center"><a href="garam-masala.php">Garam Masala</a>
                         </h3>
                     </div>
                     <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
@@ -71,9 +70,9 @@ include('function.php');
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/red-chili-powder.jpg" alt="..."></a>
+                    <a href="red-chilli-powder.php"> <img class="border-top-radius-10" src="theme/img/product/red-chili-powder.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
-                        <h3 class="text-align-center"><a href="spices.php">Red Chili
+                        <h3 class="text-align-center"><a href="red-chilli-powder.php">Red Chili
                                 Powder
                             </a></h3>
                     </div>
@@ -92,9 +91,9 @@ include('function.php');
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/turmeric-powder.jpg" alt="..."></a>
+                    <a href="turmeric-powder.php"> <img class="border-top-radius-10" src="theme/img/product/turmeric-powder.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
-                        <h3 class="text-align-center"><a href="spices.php">Turmeric
+                        <h3 class="text-align-center"><a href="turmeric-powder.php">Turmeric
                                 Powder
                             </a></h3>
                     </div>

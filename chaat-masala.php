@@ -2,6 +2,8 @@
 
 include('header.php');
 
+include(' function.php');
+
 ?>
 <section class="page-title-section bg-img cover-background" data-overlay-dark="6" data-background="/theme/img/bg/chaat-masala-bg.jpg" style="background-image: url(_/theme/img/bg/turmeric-powder-bg.jpg);">
     <div class="container">
@@ -29,17 +31,24 @@ include('header.php');
                 <div class="">
                     <h4 class="display-20 display-sm-15 display-xl-9 mb-3" style="font-size: 35px;">Chaat Masala
                     </h4>
-                    <p>Experience this funky, salty, spicy, and sour spice blend is all you need to transform anything into a chaat. Our Chaat masala, is a powdered spice mix, or masala, originating from the Indian subcontinent, typically used to add flavor to chaat. Chaat refers to a dish that can consist of a range of fried foods, including potatoes and dough seasoned with a blend that includes certain spices. This essential blend of Indian spices is made primarily of kala namak, also known as Himalayan black salt.
+                    <p>Experience this funky, salty, spicy, and sour spice blend is all you need to transform anything
+                        into a chaat. Our Chaat masala, is a powdered spice mix, or masala, originating from the Indian
+                        subcontinent, typically used to add flavor to chaat. Chaat refers to a dish that can consist of
+                        a range of fried foods, including potatoes and dough seasoned with a blend that includes certain
+                        spices. This essential blend of Indian spices is made primarily of kala namak, also known as
+                        Himalayan black salt.
                     </p>
                     <div class="col-sm-12">
                         <h5>-About this item</h5>
                         <ul class="list-style2 mb-0">
                             <li>100% natural:- Organish Herbal products are 100% natural and best suitable for your
                                 health. </li>
-                            <li>Uses For:- Chaat is a racy blend that gives a wild and lively tweak to the well worn taste of Salads, Sandwiches, Fresh fruits, Finger chips, Snacks, Soft drinks, Sprouted </li>
+                            <li>Uses For:- Chaat is a racy blend that gives a wild and lively tweak to the well worn
+                                taste of Salads, Sandwiches, Fresh fruits, Finger chips, Snacks, Soft drinks, Sprouted
+                            </li>
                             <li>Quality:- All the Indian spices used in this product are of premium quality</li>
                         </ul><br>
-                        <a href="https://shop.organishherbal.com/collections/turmeric-powder" class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                     </div>
                 </div>
             </div>
@@ -61,16 +70,20 @@ include('header.php');
                                             <div class="nutritional-info">
                                                 <ul class="list-style1 mb-0">
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Helps with digestion </h4>
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Helps
+                                                            with digestion </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Enhances nutrient absorption </h4>
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Enhances
+                                                            nutrient absorption </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Reduces inflammation </h4>
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Reduces
+                                                            inflammation </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Provides strong antioxidants </h4>
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Provides
+                                                            strong antioxidants </h4>
                                                     </li>
                                                 </ul>
                                             </div>

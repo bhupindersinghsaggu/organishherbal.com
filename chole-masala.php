@@ -2,6 +2,8 @@
 
 include('header.php');
 
+include(' function.php');
+
 ?>
 <section class="page-title-section bg-img cover-background" data-overlay-dark="6" data-background="/theme/img/bg/chole-masala-bg.jpg" style="background-image: url(_/theme/img/bg/cchole-masala-bg.jpg);">
     <div class="container">
@@ -29,17 +31,22 @@ include('header.php');
                 <div class="">
                     <h4 class="display-20 display-sm-15 display-xl-9 mb-3" style="font-size: 35px;">Chole Masala
                     </h4>
-                    <p>Chicken tikka masala, dish consisting of marinated boneless chicken pieces that are traditionally cooked in a tandoor and then served in a subtly spiced tomato-cream sauce. salt. Chicken Masala Curry is a bold, spicy, and super flavorful Indian chicken curry made by cooking chicken in an onion tomato-based gravy. Chicken masala is a popular curried dish made with boneless chicken, ground spices, onions, tomatoes, cream and herbs.
+                    <p>Chicken tikka masala, dish consisting of marinated boneless chicken pieces that are traditionally
+                        cooked in a tandoor and then served in a subtly spiced tomato-cream sauce. salt. Chicken Masala
+                        Curry is a bold, spicy, and super flavorful Indian chicken curry made by cooking chicken in an
+                        onion tomato-based gravy. Chicken masala is a popular curried dish made with boneless chicken,
+                        ground spices, onions, tomatoes, cream and herbs.
                     </p>
                     <div class="col-sm-12">
                         <h5>-About this item</h5>
                         <ul class="list-style2 mb-0">
                             <li>A perfect blend of pure spices</li>
                             <li>Enhances the taste of your dish</li>
-                            <li>RICH AROMA & FLAVOR: Treat yourself to an aromatic & flavorful delight with every bite</li>
+                            <li>RICH AROMA & FLAVOR: Treat yourself to an aromatic & flavorful delight with every bite
+                            </li>
 
                         </ul><br>
-                        <a href="#" class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                     </div>
                 </div>
             </div>
@@ -65,13 +72,16 @@ include('header.php');
                                                             Reduce cholesterol levels </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Lower blood pressure </h4>
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Lower
+                                                            blood pressure </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Prevents cancer </h4>
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Prevents
+                                                            cancer </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Helps in dealing with anemia </h4>
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Helps
+                                                            in dealing with anemia </h4>
                                                     </li>
                                                 </ul>
                                             </div>

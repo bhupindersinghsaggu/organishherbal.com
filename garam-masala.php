@@ -1,6 +1,7 @@
 <?php
 
 include('header.php');
+include('function.php')
 
 ?>
 <section class="page-title-section bg-img cover-background" data-overlay-dark="6" data-background="/theme/img/bg/garam-masala-bg.jpg" style="background-image: url(_/theme/img/bg/garam-masala-bg.jpg);">
@@ -49,7 +50,7 @@ include('header.php');
                                 Bhaji, Chicken, Paneer, Chhole, Dal Tadka, Meat, and Kitchen King, each promising a
                                 burst of exquisite flavors.</li>
                         </ul><br>
-                        <a href="https://shop.organishherbal.com/collections/garam-masala" class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                     </div>
                 </div>
             </div>

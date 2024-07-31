@@ -1,7 +1,6 @@
 <?php
-
 include('header.php');
-
+include('function.php');
 ?>
 <section class="page-title-section bg-img cover-background" data-overlay-dark="6" data-background="/theme/img/bg/turmeric-powder-bg.jpg" style="background-image: url(_/theme/img/bg/turmeric-powder-bg.jpg);">
     <div class="container">
@@ -48,7 +47,7 @@ include('header.php');
                                 to any dish. </li>
                             <li>Quality:- All the Indian spices used in this product are of premium quality</li>
                         </ul><br>
-                        <a href="https://shop.organishherbal.com/collections/turmeric-powder" class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                     </div>
                 </div>
             </div>

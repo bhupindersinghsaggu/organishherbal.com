@@ -1,6 +1,7 @@
 <?php
 
 include('header.php');
+include('function.php')
 
 ?>
 <section class="page-title-section bg-img cover-background" data-overlay-dark="6" data-background="/theme/img/bg/kashmirichilli-powder-bg.jpg" style="background-image: url(_/theme/img/bg/kashmirichilli-powder-bg.jpg);">
@@ -49,7 +50,7 @@ include('header.php');
                                 to any dish. </li>
                             <li>Quality:- All the Indian spices used in this product are of premium quality</li>
                         </ul><br>
-                        <a href="https://shop.organishherbal.com/products/kashmiri-chilli-powder-pack-of-1-100-gram-copy" class="butn-style01 secondary"><span>Buy Now</span></a>
+                        <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
                     </div>
                 </div>
             </div>
@@ -161,4 +162,4 @@ include('header.php');
 include('latest-product.php');
 include('footer.php');
 
-?>
+?> <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
