@@ -35,9 +35,8 @@ include('function.php');
                     <div class="col-sm-12">
                         <h5>-About this item</h5>
                         <ul class="list-style2 mb-0">
-                            <li> Chicken Masala is an essential masala for Indian preparation of chicken</li>
-                            <li>Suitable for Chicken Tikka Masala, Chicken Masala, Butter Chicken, Chicken Tandoori
-                                Masala and more.</li>
+                            <li> Meat masala elevates your traditional mutton dishes to give a restaurant-style taste and visual appeal.</li>
+                            <li>Organish Herbal Meat Masala adds colour, flavour and aroma to simple mutton and raan dishes.</li>
                             <li>Made using Low Temperature Grinding of several Indian spices</li>
 
                         </ul><br>
@@ -64,7 +63,7 @@ include('function.php');
                                                 <ul class="list-style1 mb-0">
                                                     <li>
                                                         <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>
-                                                        Rich source of iron </h4>
+                                                            Rich source of iron </h4>
                                                     </li>
                                                     <li>
                                                         <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Low calories of food </h4>
