@@ -134,7 +134,27 @@ include('function.php');
                 <div class="card card-style1 border-0 border-radius-10">
                     <a href="panipuri-masala.php"> <img class="border-top-radius-10" src="theme/img/product/panipuri-masala.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
-                        <h3 class="text-align-center"><a href="meat-masala.php">Panipuri Masala
+                        <h3 class="text-align-center"><a href="panipuri-masala.php">Panipuri Masala
+                            </a></h3>
+                    </div>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3 mt-2-9">
+                <div class="card card-style1 border-0 border-radius-10">
+                    <a href="jaljeera-masala.php"> <img class="border-top-radius-10" src="theme/img/product/jaljeera-masala.jpg" alt="..."></a>
+                    <div class="card-body border-bottom-radius-10">
+                        <h3 class="text-align-center"><a href="jaljeera-masala.php">Jaljeera Masala
+                            </a></h3>
+                    </div>
+                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3 mt-2-9">
+                <div class="card card-style1 border-0 border-radius-10">
+                    <a href="sabji-masala.php"> <img class="border-top-radius-10" src="theme/img/product/sabji-masala.jpg" alt="..."></a>
+                    <div class="card-body border-bottom-radius-10">
+                        <h3 class="text-align-center"><a href="sabji-masala.php">Sabji Masala
                             </a></h3>
                     </div>
                     <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
