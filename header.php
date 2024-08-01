@@ -108,6 +108,7 @@
                                                         <li><a href="chole-masala.php">Chole Masala</a>
                                                         <li><a href="kitchen-king-masala.php">Kitchen King Masala</a>
                                                         <li><a href="meat-masala.php"> Meat Masala</a>
+                                                        <li><a href="jaljeera-masala.php"> Jaljeera Masala</a>
                                                        
                                                     </ul>
                                                 </li>
