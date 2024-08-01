@@ -35,8 +35,8 @@ include('function.php');
                     <div class="col-sm-12">
                         <h5>-About this item</h5>
                         <ul class="list-style2 mb-0">
-                            <li> Organish herbal Jaljeera is a powder for preparing a glass of tangy refreshing drink instantly.</li>
-                            <li> Jaljeera powder can also be used in vegetables, meats, gravies and curries top add a punch of tanginess and sourness.</li>
+                            <li> Experience the authentic taste of street food with our Pani Puri masala. This powder is a perfect blend of spices that will add a tangy flavor to your pani puri.</li>
+                            <li> Flavorful Fusion: Elevate your homemade Pani Puri experience with our specially crafted masala powder blend. Bursting with aromatic spices and tangy flavors, it adds an irresistible twist to your favorite snack.</li>
                             <li> It is made using Low Temperature Grinding of several Indian spices.</li>
 
                         </ul><br>
