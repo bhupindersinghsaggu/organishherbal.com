@@ -63,16 +63,16 @@ include('function.php');
                                                 <ul class="list-style1 mb-0">
                                                     <li>
                                                         <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>
-                                                        Treats nausea </h4>
+                                                        Packed with vitamins and minerals </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Best for acidity </h4>
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Reduces inflammation</h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Rich in vitamin C </h4>
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Heals in acidity </h4>
                                                     </li>
                                                     <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Helps in detoxification </h4>
+                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Regulate blood sugar</h4>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -102,32 +102,32 @@ include('function.php');
                                             <div class="nutritional-info">
                                                 <h4 class="h6 mb-0">Energy (Calculated) </h4>
                                                 <span class="seprator"></span>
-                                                <span class="text-muted font-weight-600">130 kcal</span>
+                                                <span class="text-muted font-weight-600">155 kcal</span>
                                             </div>
                                             <div class="nutritional-info">
                                                 <h4 class="h6 mb-0">Total Carbohydrates</h4>
                                                 <span class="seprator"></span>
-                                                <span>25 g</span>
+                                                <span>25.2 g</span>
                                             </div>
                                             <div class="nutritional-info">
                                                 <h4 class="h6 mb-0">Protein</h4>
                                                 <span class="seprator"></span>
-                                                <span>5.1 g</span>
+                                                <span>3.4 g</span>
                                             </div>
                                             <div class="nutritional-info">
                                                 <h4 class="h6 mb-0">Total Fat</h4>
                                                 <span class="seprator"></span>
-                                                <span>0.72 g</span>
+                                                <span>4.5 g</span>
                                             </div>
                                             <div class="nutritional-info">
                                                 <h4 class="h6 mb-0">Saturated Fatty Acid</h4>
                                                 <span class="seprator"></span>
-                                                <span>0.1 g</span>
+                                                <span>0 g</span>
                                             </div>
                                             <div class="nutritional-info">
                                                 <h4 class="h6 mb-0">Total Trans Fatty Acid</h4>
                                                 <span class="seprator"></span>
-                                                <span>0 g</span>
+                                                <span>3 g</span>
                                             </div>
                                             <div class="nutritional-info">
                                                 <h4 class="h6 mb-0">Cholesterol</h4>
