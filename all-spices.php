@@ -112,16 +112,6 @@ include('function.php');
             </div>
             <div class="col-md-6 col-lg-3 mt-2-9">
                 <div class="card card-style1 border-0 border-radius-10">
-                    <a href="spices.php"> <img class="border-top-radius-10" src="theme/img/product/jeera-whole.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-                        <h3 class="text-align-center"><a href="spices.php">Jeera Whole
-                            </a></h3>
-                    </div>
-                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
                     <a href="kitchen-king-masala.php"> <img class="border-top-radius-10" src="theme/img/product/kitchen-king-masala.jpg" alt="..."></a>
                     <div class="card-body border-bottom-radius-10">
                         <h3 class="text-align-center"><a href="spices.php">Kitchen King Masala
