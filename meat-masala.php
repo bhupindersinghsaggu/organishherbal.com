@@ -91,7 +91,7 @@ include('function.php');
                                     <li>
                                         <div class="text-center text-sm-start d-sm-flex mb-4">
                                             <div class="flex-shrink-0 mb-4 mb-md-0">
-                                                <img src="theme/img/product/meat-masala-round.jpg" class="rounded-circle" alt="...">
+                                                <img src="theme/img/product/meat-masala-round1.jpg" class="rounded-circle" alt="...">
                                             </div>
                                             <div class="flex-grow-1 ms-sm-4">
                                                 <h4 class="h5">Ingerdients</h4>
