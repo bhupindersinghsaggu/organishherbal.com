@@ -107,7 +107,7 @@
                 <div class="">
                     <div class="card-image product-des">
                         <a href="chole-masala.php" class="card-inner-img">
-                            <img src="theme/img/product/chole-masala1.jpg" class="product-image" alt="...">
+                            <img src="theme/img/product/chole-masala.jpg" class="product-image" alt="...">
                         </a>
                     </div>
                 </div>
