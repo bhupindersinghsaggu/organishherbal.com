@@ -4,543 +4,743 @@ include('header.php');
 include('function.php');
 
 ?>
-<section class="bg-img cover-background pt-6 pb-9 pt-sm-10 pb-sm-14 py-md-16 py-lg-20 py-xxl-23" data-overlay-dark="6" data-background="theme/img/banner/banner-05.jpg" style="background-image: url(_theme/img/banner/banner-05.php);">
-    <div class="container pb-40">
-        <div class="row align-items-center">
-            <!-- Banner text -->
-            <div class="col-md-10 col-lg-7 py-5">
-                <h1 class="display-17 display-sm-11 display-md-9 display-lg-8 display-xl-2 mb-lg-3 letter-spacing-4 title-font text-white font-weight-900">
+
+<div id="rev_slider_4_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container slide-overlay"
+    data-alias="classic4export" data-source="gallery">
+    <!-- START REVOLUTION SLIDER 5.4.8 auto mode -->
+
+    <div id="rev_slider_4_1" class="rev_slider fullwidthabanner" data-version="5.4.8.1">
+
+        <ul>
+            <li data-index="rs-13" data-transition="slotslide-horizontal" data-slotamount="default"
+                data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default"
+                data-masterspeed="default" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide"
+                data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7=""
+                data-param8="" data-param9="" data-param10="" data-description="">
+
+                <img src="images/slides/slider-mainbg-001.jpg" alt="" title="mainslider-bg003" width="1920" height="760"
+                    data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"
+                    data-no-retina>
+
+                <!-- <div class="tp-caption tp-shape tp-shapewrapper tp-resizeme ttm-bgcolor-skincolor" id="slide-1-layer-1"
+                    data-x="['left','left','left','left']" data-hoffset="['50','50','-240','-240']"
+                    data-y="['top','top','top','top']" data-voffset="['182','182','179','179']" data-width="40"
+                    data-height="['2','2','1','1']" data-whitespace="nowrap" data-visibility="['on','on','off','off']"
+                    data-type="shape" data-responsive_offset="on"
+                    data-frames='[{"delay":130,"speed":500,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                </div> -->
+
+                <!-- <div class="tp-caption tp-resizeme" id="slide-1-layer-2" data-x="['left','left','center','center']"
+                    data-hoffset="['107','107','0','0']" data-y="['top','top','middle','middle']"
+                    data-voffset="['173','173','-135','-112']" data-fontsize="['16','16','15','14']"
+                    data-lineheight="['20','20','15','14']" data-fontweight="['700','700','700','700']"
+                    data-color="['rgb(157, 202, 0)','rgb(157, 202, 0)','rgb(157, 202, 0)','rgb(157, 202, 0)']"
+                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
+                    data-responsive_offset="on"
+                    data-frames='[{"delay":220,"speed":500,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                  
+                </div> -->
+
+                <!-- <div class="tp-caption main-font tp-resizeme" id="slide-1-layer-3"
+                    data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']"
+                    data-y="['top','top','middle','middle']" data-voffset="['210','210','-78','-69']"
+                    data-fontsize="['60','60','55','40']" data-lineheight="['75','75','68','50']"
+                    data-fontweight="['400','400','400','300']"
+                    data-color="['rgb(38,45,51)','rgb(38,45,51)','rgb(27,37,44)','rgb(27,37,44)']" data-width="none"
+                    data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
+                    data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
                     Empowering Your
-                    Health Naturally</h1>
-            </div>
-            <!-- Banner text -->
-        </div>
-    </div>
-</section>
-<section class="bg-light">
-    <div class="container">
-        <div class="section-heading">
-            <h2 class="h1 fw-bolder mb-0">Welcome
-                to</h2>
+                </div> -->
 
-            <h2> <span class="first-color">ORGANISH </span><span class="second-color"> HERBAL</span></h2>
-            <p>A purpose-driven company committed to providing people with
-                a better and healthier living environment.At Organish Herbal, we go beyond conventional boundaries,
-                embracing innovation and cutting-edge
-                solutions to create a healthier and more prosperous world.
-                If you're searching for Natural Herbal products, then you have come to the right place ! Organish
-                Herbal is the one-stop destination for Natural and Organic Herbal Products.</p>
-        </div>
-        <div class="row mt-n1-9">
-        </div>
-    </div>
-</section>
-<section class="pt-0" id="about-us">
-    <div class="container">
-        <div class="row align-items-xl-center border-top pt-6 pt-sm-8 pt-lg-10 pt-xl-15 border-color-extra-light-gray">
-            <div class="col-lg-6 mb-1-9 mb-lg-0">
-                <div class="position-relative text-end">
-                    <div class="about-block d-inline-block ps-1-9 ps-sm-2-9">
-                        <img src="theme/img/content/about-01.jpg" class="rounded-circle z-index-1 position-relative" alt="...">
-                    </div>
-                    <div class="bg-primary p-6 rounded-circle position-absolute bottom-10 right-5 ani-top-bottom">
-                    </div>
-                    <img src="theme/img/content/about-06.jpg" class="position-absolute top-10 left-n5 left-lg-n10 rounded-circle z-index-2 d-none d-sm-block" alt="...">
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="ps-xxl-2-3">
-                    <h2 class="display-20 display-sm-15 display-xl-9 font-weight-400 mb-3">We advise you to
-                        <span class="fw-bolder">prevent disease</span> with Herbal
-                    </h2>
-                    <p class="text-secondary mb-1-9 lead title-font">We are leading manufacturer and supplier of
-                        ayurvedic and Herbal products</p>
-                    <p>We understand that everyone is unique, with different health needs and goals. That's why we offer
-                        a wide range of Herbal products to cater to diverse concerns, including immune support,
-                        digestive health, stress management, and overall vitality. Our formulations are carefully
-                        developed to deliver the perfect blend of natural ingredients, backed by both traditional wisdom
-                        and modern scientific research.</p>
-                    <p>Our team of herbalists, experts, and researchers work tirelessly
-                        to create formulations that seamlessly blend ancient wisdom with modern science. We understand
-                        the unique needs of each individual, and our diverse range of herbal products caters to various
-                        health goals and lifestyles.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+                <!-- <div class="tp-caption main-font" id="slide-1-layer-4" data-x="['left','left','center','center']"
+                    data-hoffset="['50','50','0','0']" data-y="['top','top','middle','middle']"
+                    data-voffset="['292','292','-7','-10']" data-fontsize="['60','60','55','40']"
+                    data-lineheight="['75','75','68','50']" data-fontweight="['400','400','400','300']"
+                    data-color="['rgb(38,45,51)','rgb(38,45,51)','rgb(27,37,44)','rgb(27,37,44)']" data-width="none"
+                    data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
+                    data-frames='[{"delay":520,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                    Health Naturally
+                </div> -->
 
-<section class="p-0 bg-transparent overflow-visible">
-    <div class="container">
-        <h2 class="h1 fw-bolder mb-0">Why choose our products? </h2>
-        <div class="row mt-n1-9">
-            <div class="col-md-4 col-xxl-4 mt-1-9">
-                <div class="bg-white p-2-3 h-100 card-style7">
-                    <div class="d-flex align-items-center justify-content-between mb-4">
-                        <div>
-                            <img src="theme/img/icons/pure-water.png" alt="...">
+                <!-- <div class="tp-caption tp-shape tp-shapewrapper ttm-bgcolor-skincolor tp-resizeme" id="slide-1-layer-5"
+                    data-x="['left','left','left','left']" data-hoffset="['292','292','319','189']"
+                    data-y="['top','top','top','top']" data-voffset="['358','358','244','187']"
+                    data-width="['150','150','140','100']" data-height="3" data-whitespace="nowrap" data-type="shape"
+                    data-responsive_offset="on"
+                    data-frames='[{"delay":990,"speed":300,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                </div>
+                <a class="tp-caption button black-button tp-resizeme" href="#" target="_self" id="slide-1-layer-7"
+                    data-x="['left','left','center','center']" data-hoffset="['48','48','0','0']"
+                    data-y="['top','top','middle','middle']" data-voffset="['485','485','117','106']"
+                    data-fontsize="['15','15','13','13']" data-lineheight="['15','15','13','13']" data-width="none"
+                    data-height="none" data-whitespace="nowrap" data-type="text" data-actions=''
+                    data-responsive_offset="on"
+                    data-frames='[{"delay":1000,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[15,15,12,12]"
+                    data-paddingright="[35,35,20,20]" data-paddingbottom="[15,15,12,12]"
+                    data-paddingleft="[35,35,20,20]">About us</a> -->
+            </li>
+
+            <li data-index="rs-12" data-transition="slotslide-horizontal" data-slotamount="default"
+                data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default"
+                data-masterspeed="default" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide"
+                data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7=""
+                data-param8="" data-param9="" data-param10="" data-description="">
+
+                <img src="images/slides/slider-mainbg-002.jpg" alt="" title="mainslider-bg002" width="1920" height="760"
+                    data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"
+                    data-no-retina>
+
+                <!-- <div class="tp-caption tp-shape tp-shapewrapper ttm-bgcolor-skincolor tp-resizeme" id="slide-2-layer-1"
+                    data-x="['center','center','left','left']" data-hoffset="['12','-68','-240','-240']"
+                    data-y="['top','top','top','top']" data-voffset="['182','182','179','179']"
+                    data-fontweight="['700','700','500','500']" data-width="40" data-height="['2','2','1','1']"
+                    data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-type="shape"
+                    data-responsive_offset="on"
+                    data-frames='[{"delay":130,"speed":500,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                </div> -->
+
+                <!-- <div class="tp-caption tp-resizeme" id="slide-2-layer-2" data-x="['center','center','center','center']"
+                    data-hoffset="['109','29','0','0']" data-y="['top','top','middle','middle']"
+                    data-voffset="['173','173','-135','-112']" data-fontsize="['16','16','15','14']"
+                    data-lineheight="['20','20','15','14']" data-fontweight="['700','700','700','700']"
+                    data-color="['rgb(157, 202, 0)','rgb(157, 202, 0)','rgb(157, 202, 0)','rgb(157, 202, 0)']"
+                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
+                    data-responsive_offset="on"
+                    data-frames='[{"delay":220,"speed":500,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                    Get Healty Easily </div>
+
+                <div class="tp-caption tp-resizeme main-font" id="slide-2-layer-3"
+                    data-x="['center','center','center','center']" data-hoffset="['182','102','0','0']"
+                    data-y="['top','top','middle','middle']" data-voffset="['214','214','-78','-69']"
+                    data-fontsize="['60','60','55','40']" data-lineheight="['68','68','68','50']"
+                    data-color="['rgb(38,45,51)','rgb(38,45,51)','rgb(27,37,44)','rgb(27,37,44)']" data-width="none"
+                    data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
+                    data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                    Loss The <strong class="ttm-textcolor-skincolor">Fat!</strong>
+                </div>
+
+                <div class="tp-caption tp-shape tp-shapewrapper ttm-bgcolor-skincolor tp-resizeme" id="slide-2-layer-4"
+                    data-x="['left','left','left','left']" data-hoffset="['888','703','468','296']"
+                    data-y="['top','top','top','top']" data-voffset="['279','279','172','128']"
+                    data-width="['100','100','90','70']" data-height="3" data-whitespace="nowrap" data-type="shape"
+                    data-responsive_offset="on"
+                    data-frames='[{"delay":850,"speed":300,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                </div> -->
+
+                <!-- <div class="tp-caption main-font tp-resizeme" id="slide-2-layer-5"
+                    data-x="['center','center','center','center']" data-hoffset="['279','199','0','0']"
+                    data-y="['top','top','middle','middle']" data-voffset="['298','298','-7','-10']"
+                    data-fontsize="['60','60','55','40']" data-lineheight="['68','68','68','50']"
+                    data-color="['rgb(38,45,51)','rgb(38,45,51)','rgb(27,37,44)','rgb(27,37,44)']" data-width="none"
+                    data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
+                    data-frames='[{"delay":520,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                    Eat Right, Be Bright!</div> -->
+
+                <!-- <div class="tp-caption tp-resizeme" id="slide-2-layer-6" data-x="['center','center','center','center']"
+                    data-hoffset="['267','187','-759','-479']" data-y="['top','top','middle','middle']"
+                    data-voffset="['379','379','10','-2']" data-fontsize="['18','18','15','12']"
+                    data-lineheight="['29','29','24','20']" data-fontweight="['400','400','400','300']"
+                    data-color="['rgb(111,120,126)','rgb(111,120,126)','rgb(114,118,120)','rgb(114,118,120)']"
+                    data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on"
+                    data-frames='[{"delay":870,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                    Nutrition Services is dedicated to bringing you and your family healthy.</div> -->
+
+                <!-- <a class="tp-caption button skin-button tp-resizeme" href="#" target="_self" id="slide-2-layer-7"
+                    data-x="['center','center','center','center']" data-hoffset="['66','-14','0','0']"
+                    data-y="['top','top','middle','middle']" data-voffset="['451','451','64','53']"
+                    data-fontsize="['16','16','13','13']" data-lineheight="['16','16','13','13']" data-width="none"
+                    data-height="none" data-whitespace="nowrap" data-type="text" data-actions=''
+                    data-responsive_offset="on"
+                    data-frames='[{"delay":1000,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[15,15,12,12]"
+                    data-paddingright="[35,35,30,30]" data-paddingbottom="[15,15,12,12]"
+                    data-paddingleft="[35,35,30,30]">Conatct Us </a> -->
+
+                <!-- <a class="tp-caption button black-button tp-resizeme" href="#" target="_self" id="slide-2-layer-8"
+                    data-x="['center','center','center','center']" data-hoffset="['228','148','0','0']"
+                    data-y="['top','top','middle','middle']" data-voffset="['451','451','117','106']"
+                    data-fontsize="['15','15','13','13']" data-lineheight="['15','15','13','13']" data-width="none"
+                    data-height="none" data-whitespace="nowrap" data-type="text" data-actions=''
+                    data-responsive_offset="on"
+                    data-frames='[{"delay":1110,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(255,255,255);bg:rgb(157,202,0);br:100px 100px 100px 100px;"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[15,15,12,12]"
+                    data-paddingright="[35,35,20,20]" data-paddingbottom="[15,15,12,12]"
+                    data-paddingleft="[35,35,20,20]">Read More </a> -->
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- END REVOLUTION SLIDER -->
+
+<!--site-main start-->
+<div class="site-main">
+
+    <!--row-top-section-->
+    <section class="ttm-row row-top-section clearfix">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="mt_60 mlr-15 res-991-m-0 mb-20">
+                        <div class="row row-equal-height ttm-bgcolor-white box-shadow1">
+                            <div class="col-lg-4 col-md-12 col-sm-12">
+                                <!-- featured-icon-box -->
+                                <div class="featured-icon-box style1 top-icon text-center">
+                                    <!-- <div
+                                                class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                                <span class="flaticon flaticon-care"></span>
+                                            </div> -->
+                                    <div class="featured-thumbnail">
+                                      <a href="#spices">  <img class="img-fluid" src="images/sp.jpeg" alt=""></a>
+                                    </div>
+                                    <div class="featured-content">
+                                        <div class="featured-title">
+                                            <h5>Spices</h5>
+                                        </div>
+                                        <div class="featured-desc">
+                                            <!-- <p>With so many choices of the food-diet advisory out there, we’re
+                                                        at top-rated cause of homely services.</p> -->
+                                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-black btn-inline mb-10 ttm-btn-underline"
+                                                href="#spices">View More</a>
+                                        </div>
+                                    </div>
+                                </div><!-- featured-icon-box end-->
+                            </div>
+                            <div class="col-lg-4 col-md-12 col-sm-12 box-shadow1">
+                                <!-- featured-icon-box -->
+                                <div class="featured-icon-box style1 top-icon text-center">
+                                    <!-- <div
+                                                class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                                <span class="flaticon flaticon-healthy"></span>
+                                            </div> -->
+                                    <div class="featured-thumbnail">
+                                    <a href="#health-care">  <img class="img-fluid" src="images/healthcare.jpeg" alt=""></a>
+                                    </div>
+                                    <div class="featured-content">
+                                        <div class="featured-title">
+                                            <h5>Health Care</h5>
+                                        </div>
+                                        <div class="featured-desc">
+                                            <!-- <p>Don’t lose, workout which relevant our human body! We provides
+                                                        best quality services for your body.</p> -->
+                                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-black btn-inline mb-10 ttm-btn-underline"
+                                                href="#health-care">View More</a>
+                                        </div>
+                                    </div>
+                                </div><!-- featured-icon-box end-->
+                            </div>
+                            <div class="col-lg-4 col-md-12 col-sm-12">
+                                <!-- featured-icon-box -->
+                                <div class="featured-icon-box style1 top-icon text-center">
+                                    <!-- <div
+                                                class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                                <span class="flaticon flaticon-healthy-nutrition"></span>
+                                            </div> -->
+                                    <div class="featured-thumbnail">
+                                    <a href="#pet-care">  <img class="img-fluid" src="images/petcare.jpeg" alt=""></a>
+                                    </div>
+                                    <div class="featured-content">
+                                        <div class="featured-title">
+                                            <h5>Pet Care</h5>
+                                        </div>
+                                        <div class="featured-desc">
+                                            <!-- <p>Quality does matter! when we feel good we’re happier, when we are
+                                                        happier and we’re more productive.</p> -->
+                                            <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-black btn-inline mb-10 ttm-btn-underline"
+                                                href="#pet-care">View More</a>
+                                        </div>
+                                    </div>
+                                </div><!-- featured-icon-box end-->
+                            </div>
                         </div>
                     </div>
-                    <h4 class="mb-0 text-primary">100% pure</h4>
                 </div>
-            </div>
-            <div class="col-md-4 col-xxl-4 mt-1-9">
-                <div class="bg-white p-2-3 h-100 card-style7">
-                    <div class="d-flex align-items-center justify-content-between mb-4">
-                        <div>
-                            <img src="theme/img/icons/diet.png" alt="...">
+            </div><!-- row end -->
+        </div>
+    </section>
+    <!-- row-top-section end -->
+
+    <!--about-section-->
+    <section class="ttm-row about-section ttm-bgcolor-white clearfix">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-sm-12">
+                    <div class="mt-40 res-991-mt-0">
+                        <div class="pr-70 res-991-plr-0">
+                            <!-- section title -->
+                            <div class="section-title clearfix mb-10">
+                                <div class="title-header">
+                                    <h5>about Company</h5>
+                                    <h2 class="title">Welcome To <br> ORGANISH HERBAL</h2>
+                                </div>
+                                <div class="title-desc">
+                                    <p>At Organish Herbal, our mission is to enhance lives by creating healthier
+                                        and more sustainable environments. We are dedicated to pushing the
+                                        limits of innovation and delivering advanced solutions for a better
+                                        world. If you're looking for high-quality natural herbal products,
+                                        you've found the right place. Organish Herbal is your go-to source for
+                                        premium natural and organic herbal solutions.</p>
+                                </div>
+                            </div><!-- section title end -->
+
+                            <a class="ttm-btn ttm-btn-size-sm ttm-icon-btn-right ttm-btn-color-skincolor btn-inline mb-30"
+                                href="about.php">More About <i class="ti ti-angle-double-right"></i></a>
                         </div>
-
-                    </div>
-                    <h4 class="mb-0 text-primary">Natural</h4>
-                </div>
-            </div>
-            <div class="col-md-4 col-xxl-4 mt-1-9">
-                <div class="bg-white p-2-3 h-100 card-style7">
-                    <div class="d-flex align-items-center justify-content-between mb-4">
-                        <div>
-                            <img src="theme/img/icons/high-quality.png" alt="...">
+                        <div class="separator">
+                            <div class="sep-line mt_5"></div>
                         </div>
-
+                        <!-- row-->
+                        <!-- <div class="row">
+                                    <div class="col-md-4 col-sm-4">
+                                        <div class="featured-icon-box style2 left-icon">
+                                            <div
+                                                class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                                <i class="ti ti-timer"></i>
+                                            </div>
+                                            <div class="featured-content">
+                                                <div class="featured-title">
+                                                    <h5>Ontime at Services</h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-sm-4">
+                                        <div class="featured-icon-box style2 left-icon">
+                                            <div
+                                                class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                                <i class="ti ti-wand"></i>
+                                            </div>
+                                            <div class="featured-content">
+                                                <div class="featured-title">
+                                                    <h5>24/7 Help Services</h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-sm-4">
+                                        <div class="featured-icon-box style2 left-icon">
+                                            <div
+                                                class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                                <i class="ti ti-medall"></i>
+                                            </div>
+                                            <div class="featured-content">
+                                                <div class="featured-title">
+                                                    <h5>Verified Professionals</h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div> -->
                     </div>
-                    <h4 class="mb-0 text-primary">Quality manufacturing</h4>
                 </div>
-            </div>
+                <div class="col-lg-6 col-sm-12">
+                    <!-- ttm_single_image-wrapper -->
+                    <div class="ttm_single_image-wrapper res-991-mt-50">
+                        <div class="text-right ml-30 res-991-ml-0 ">
+                            <img width="524" height="480" class="img-fluid" src="images/single-img-one.png" alt="">
+                        </div>
+                    </div><!-- ttm_single_image-wrapper end -->
+                    <!-- ttm-fid -->
+                    <!-- <div class="ttm-fid inside ttm-fid-without-icon ttm-highlight-fid ttm-textcolor-white">
+                                <h4 class="ttm-fid-inner mb-0">
+                                    <span data-appear-animation="animateDigits" data-from="0" data-to="15"
+                                        data-interval="2" data-before="" data-before-style="sup" data-after=""
+                                        data-after-style="sub">15</span><span class="ml-5">Years</span>
+                                </h4>
+                                <div class="ttm-fid-contents text-left ttm-textcolor-white">
+                                    <h3 class="ttm-fid-title">Experience</h3>
+                                </div>
+                            </div>ttm-fid end -->
+                </div>
+            </div><!-- row end -->
         </div>
-    </div>
-</section>
-<section>
-    <div class="bg-light section-bg"></div>
-    <div class="container position-relative z-index-9">
-        <div class="section-heading-02 text-center mb-1-9 mb-md-2-9">
-            <div class="sub-title mb-3">
-            </div>
-            <h2 class="h1 fw-bolder mb-0">Spices </h2>
-        </div>
-        <div class="row g-xxl-5 mt-n2-9 ">
-            <div class="col-md-6 col-lg-3 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
-                    <a href="coriander-powder.php"> <img class="border-top-radius-10" src="theme/img/product/coriander-powder.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-                        <h3 class="text-align-center"><a href="coriander-powder.php">Coriander
-                                Powder</a>
-                        </h3>
-                    </div>
-                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
-                    <a href="garam-masala.php"> <img class="border-top-radius-10" src="theme/img/product/garam-masala1.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-
-                        <h3 class="text-align-center"><a href="garam-masala.php">Garam Masala</a>
-                        </h3>
-                    </div>
-                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
-                    <a href="chaat-masala.php"> <img class="border-top-radius-10" src="theme/img/product/chaat-masala.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-
-                        <h3 class="text-align-center"><a href="chaat-masala.php">Chaat Masala</a>
-                        </h3>
-                    </div>
-                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
-                    <a href="chicken-masala.php"> <img class="border-top-radius-10" src="theme/img/product/chicken-masala.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-
-                        <h3 class="text-align-center"><a href="chicken-masala.php">Chicken Masala</a>
-                        </h3>
-                    </div>
-                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
-                    <a href="chole-masala.php"> <img class="border-top-radius-10" src="theme/img/product/chole-masala.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-
-                        <h3 class="text-align-center"><a href="chole-masala.php">Chole Masala</a>
-                        </h3>
-                    </div>
-                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
-                    <a href="red-chilli-powder.php"> <img class="border-top-radius-10" src="theme/img/product/red-chili-powder.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-                        <h3 class="text-align-center"><a href="red-chilli-powder.php">Red Chili
-                                Powder
-                            </a></h3>
-                    </div>
-                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
-                    <a href="kashmirichilli-powder.php"> <img class="border-top-radius-10" src="theme/img/product/kashmirichilli-powder.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-                        <h3 class="text-align-center"><a href="kashmirichilli-powder.php">Kashmiri Chilli Powder
-                            </a></h3>
-                    </div>
-                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
-                    <a href="turmeric-powder.php"> <img class="border-top-radius-10" src="theme/img/product/turmeric-powder.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-                        <h3 class="text-align-center"><a href="turmeric-powder.php">Turmeric
-                                Powder
-                            </a></h3>
-                    </div>
-                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                </div>
-            </div>
-        </div>
-        <section>
+    </section>
+    <!--about-section end-->
+    <div class="site-main">
+        <!--about-top-section-->
+        <section class="ttm-row about2-top-section clearfix">
             <div class="container">
-                <div class="text-center">
-                    <a href="all-spices.php">
-                        <h2 class="title-font h1 fw-bolder text-primary mb-0"><i class="fa-solid fa-arrows-spin"></i>
-                            View More <i class="fa-solid fa-arrows-spin"></i></h2>
-                    </a>
-                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-md-12 col-sm-12">
+                        <div class="pr-10 mb-35 res-991-pr-0">
+                            <!-- ttm_single_image-wrapper -->
+                            <div class="ttm_single_image-wrapper res-991-mt-60">
+                                <div class="text-left">
+                                    <img class="img-fluid width-100" src="images/single-img-eight.jpg" alt="">
+                                </div>
+                            </div><!-- ttm_single_image-wrapper end -->
+                            <div class="about-overlay-shape">
+                                <div class="row">
+                                    <div class="col-md-1"></div>
+                                    <div class="col-md-10 text-center">
+                                        <div
+                                            class="about-content ttm-col-bgcolor-yes ttm-bg ttm-bgcolor-skincolor spacing-8 mt_60 ttm-textcolor-white">
+                                            <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                                            <div class="layer-content">
+                                                <h4 class="mb-5">Our Main Office</h4>
+                                                <p>
+                                                    SCO No. 211, 2nd Floor, Town Center TDI City , Sec - 36,
+                                                    Panipat</p>
+                                            </div>
+                                        </div><!-- ttm_single_image-wrapper end -->
+                                    </div>
+                                    <div class="col-md-1"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12">
+                        <div class="pl-5 res-991-pl-0">
+                            <!-- section title -->
+                            <div class="section-title clearfix">
+                                <div class="title-header">
+                                    <!-- <h5>about nutrition</h5> -->
+                                    <h2 class="title">We advise you to prevent <br>disease with Herbal</h2>
+                                    <div class="featured-title">
+                                        <h5>We are leading manufacturer and supplier of ayurvedic and Herbal
+                                            products</h5>
+                                    </div>
+                                </div>
+                                <div class="title-desc">
+                                    <p>We recognize that everyone has unique health needs and goals. That’s why
+                                        we provide a diverse selection of herbal products designed to address a
+                                        variety of concerns, including immune support, digestive health, stress
+                                        management, and overall vitality. Our carefully crafted formulations
+                                        combine the best of natural ingredients, drawing on both traditional
+                                        wisdom and modern scientific research.</p>
+                                </div>
+                            </div>
+                            <div class="row section-title-20">
+                                <div class="col-md-6 col-sm-6">
+                                    <div class="featured-imagebox ttm-box-view-top-image">
+                                        <div class="featured-thumbnail">
+                                            <img class="img-fluid" src="images/single-img-twel.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-6">
+                                    <div class="featured-imagebox ttm-box-view-top-image">
+                                        <div class="featured-thumbnail"> <img class="img-fluid"
+                                                src="images/single-img-thirteen.jpg" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 col-sm-6">
+                                    <div class="title-desc">
+                                        Our team of herbalists, experts, and researchers is dedicated to
+                                        developing
+                                        formulations that harmoniously combine ancient wisdom with modern
+                                        science.
+                                        We recognize the unique needs of every individual, and our wide range of
+                                        herbal products is designed to support various health goals and
+                                        lifestyles.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- row end -->
+
             </div>
         </section>
     </div>
-</section>
+    <!-- working-section -->
 
-<section>
-    <div class="bg-light section-bg"></div>
-    <div class="container position-relative z-index-9">
-        <div class="section-heading-02 text-center mb-1-9 mb-md-2-9">
-            <div class="sub-title mb-3">
-            </div>
-            <h3 class="title-font text-secondary mb-4 h4">Our Products</h3>
-            <h2 class="h1 fw-bolder mb-0">Health Care </h2>
-        </div>
-        <div class="row g-xxl-5 mt-n2-9">
-            <div class="col-md-6 col-lg-3 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
-                    <a href="spirulina.php"> <img class="border-top-radius-10" src="theme/img/product/spirulina.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-                        <h3 class="text-align-center"><a href="spirulina.php">Spirulina</a>
-                        </h3>
-                    </div>
-                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
-                    <a href="moringa.php"> <img class="border-top-radius-10" src="theme/img/product/moringa.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-
-                        <h3 class="text-align-center"><a href="moringa.php">Moringa</a></h3>
-                    </div>
-                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
-                    <a href="triphala.php"> <img class="border-top-radius-10" src="theme/img/product/triphala1.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-                        <h3 class="text-align-center"><a href="triphala.php">Triphala</a></h3>
-                    </div>
-                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-3 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
-                    <a href="six-m-syrup.php"> <img class="border-top-radius-10" src="theme/img/product/six-m-syrup.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-                        <h3 class="text-align-center"><a href="six-m-syrup.php">Six M Syrup</a>
-                        </h3>
-                    </div>
-                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                </div>
-            </div>
-
-
-        </div>
-    </div>
-</section>
-<section>
-    <div class="bg-light section-bg"></div>
-    <div class="container position-relative z-index-9">
-        <div class="section-heading-02 text-center mb-1-9 mb-md-2-9">
-            <div class="sub-title mb-3">
-            </div>
-            <h2 class="h1 fw-bolder mb-0">Pet Care </h2>
-        </div>
-        <div class="row g-xxl-5 mt-n2-9 content-center">
-            <div class="col-md-6 col-lg-4 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
-                    <a href="all-in-one.php"> <img class="border-top-radius-10" src="theme/img/product/all-in-one.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-
-                        <h3 class="text-align-center"><a href="all-in-one.php">All in One</a>
-                        </h3>
-                    </div>
-                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 mt-2-9">
-                <div class="card card-style1 border-0 border-radius-10">
-                    <a href="power-vita-gold.php"> <img class="border-top-radius-10" src="theme/img/product/power-vita-gold.jpg" alt="..."></a>
-                    <div class="card-body border-bottom-radius-10">
-                        <h3 class="text-align-center"><a href="power-vita-gold.php">Power
-                                Vita Gold
-                            </a></h3>
-                    </div>
-                    <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- <section>
-        <div class="bg-light section-bg"></div>
-        <div class="container position-relative z-index-9">
-            <div class="section-heading-02 text-center mb-1-9 mb-md-2-9">
-                <div class="sub-title mb-3">
-                </div>
-                <h2 class="h1 fw-bolder mb-0">New Arrivals </h2>
-            </div>
-            <div class="row g-xxl-5 mt-n2-9">
-                <div class="col-md-6 col-lg-4 mt-2-9">
-                    <div class="card card-style1 border-0 border-radius-10">
-                        <img class="border-top-radius-10" src="theme/img/product/red.jpg" alt="...">
-                        <div class="card-body border-bottom-radius-10">
-                            
-                            <h3 class="text-align-center"><a
-                                    href="https://shop.organishherbal.com/products/red-chili-powder-new-pack">Red
-                                    Chili Powder-New Pack</a>
-                            </h3>
+    <section class="ttm-row services-work-section ttm-bgcolor-grey clearfix">
+        <div class="container">
+            <!-- row -->
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- section title -->
+                    <div class="section-title text-center clearfix">
+                        <div class="title-header">
+                            <h2 class="title">Why choose our products?</h2>
                         </div>
-                        <a href="https://shop.organishherbal.com/products/red-chili-powder-new-pack"
-                            class="butn secondary">Buy
-                            Now</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mt-2-9">
-                    <div class="card card-style1 border-0 border-radius-10">
-                        <a href="new-arrivals.php"> <img class="border-top-radius-10" src="theme/img/product/turmeric4.jpg"
-                                alt="..."></a>
-                        <div class="card-body border-bottom-radius-10">
-                            
-                            <h3 class="text-align-center"><a href="new-arrivals.php">Turmeric
-                                    Powder-New Pack</a></h3>
-                        </div>
-                        <a href="https://shop.organishherbal.com/products/turmeric-powder-new"
-                            class="butn secondary">Buy
-                            Now</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mt-2-9">
-                    <div class="card card-style1 border-0 border-radius-10">
-                        <a href="new-arrivals.php"> <img class="border-top-radius-10"
-                                src="theme/img/product/coriander-powder1.jpg" alt="..."></a>
-                        <div class="card-body border-bottom-radius-10">
-                            
-                            <h3 class="text-align-center"><a href="new-arrivals.php">Coriander
-                                    Powder-New Pack</a>
-                            </h3>
-                        </div>
-                        <a href="https://shop.organishherbal.com/products/spirulina-moringa-tab-supplement-for-men-women"
-                            class="butn secondary">Buy
-                            Now</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mt-2-9">
-                    <div class="card card-style1 border-0 border-radius-10">
-                        <a href="new-arrivals.php"> <img class="border-top-radius-10"
-                                src="theme/img/product/garam-masala-new.jpg" alt="..."></a>
-                        <div class="card-body border-bottom-radius-10">
-                            
-                            <h3 class="text-align-center"><a href="new-arrivals.php">Garam Masala</a>
-                            </h3>
-                        </div>
-                        <a href="https://shop.organishherbal.com/products/garam-masala" class="butn secondary">Buy
-                            Now</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mt-2-9">
-                    <div class="card card-style1 border-0 border-radius-10">
-                        <a href="new-arrivals.php"> <img class="border-top-radius-10" src="theme/img/product/black1.jpg"
-                                alt="..."></a>
-                        <div class="card-body border-bottom-radius-10">
-                            
-                            <h3 class="text-align-center"><a href="new-arrivals.php">Black Papper</a>
-                            </h3>
-                        </div>
-                        <a href="https://shop.organishherbal.com/products/black-pepper" class="butn secondary">Buy
-                            Now</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 mt-2-9">
-                    <div class="card card-style1 border-0 border-radius-10">
-                       <a href="new-arrivals.php">   <img class="border-top-radius-10" src="theme/img/product/jeera-main3.jpg" alt="..."></a>
-                        <div class="card-body border-bottom-radius-10">
-                            
-                            <h3 class="text-align-center"><a
-                                    href="new-arrivals.php">Jeera Masala</a>
-                            </h3>
-                        </div>
-                        <a href="https://shop.organishherbal.com/products/jeera-powder-1" class="butn secondary">Buy
-                            Now</a>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section> -->
-<section class="bg-img cover-background extra-section" data-overlay-dark="7" data-background="/theme/img/bg/bg-02.jpg" style="background-image: url(_/theme/img/bg/bg-02.php);">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-6 text-center">
-                <span class="d-block mb-3 text-secondary title-font display-25 display-md-23">Living Organic,
-                    Living
-                    Vibrant</span>
-                <h2 class="mb-1-9 mb-lg-2-3 display-20 display-sm-15 display-xl-9 display-xxl-6 font-weight-400 text-white">
-                    Organic Goodness <span class="fw-bolder"><br> Inside and Out</span></h2>
-                <a href="contact-us.php" class="butn secondary">Contact Us</a>
-            </div>
-        </div>
-
-    </div>
-</section>
-<section>
-    <div class="container z-index-3 position-relative">
-        <div class="row why-us-03">
-            <div class="col-lg-6 mb-1-9 mb-lg-0">
-                <div class="position-relative text-end">
-                    <div class="about-block d-inline-block ps-1-9 ps-sm-2-9">
-                        <img src="theme/img/content/moringa34.jpg" class="rounded-circle z-index-1 position-relative" alt="...">
-                    </div>
-                    <div class="bg-primary p-6 rounded-circle position-absolute bottom-10 right-5 ani-top-bottom">
-                    </div>
-                    <img src="theme/img/content/about-77.jpg" class="position-absolute top-10 left-n5 left-lg-n10 rounded-circle z-index-2 d-none d-sm-block" alt="...">
+                        <div class="title-desc">Choosing our herbal products means opting for quality,
+                            integrity, and a deep-rooted commitment to your well-being.</div>
+                    </div><!-- section title end -->
                 </div>
             </div>
-            <div class="col-lg-6">
-                <div class="ps-lg-1-9">
-                    <div class="section-heading-02 mb-1-9 mb-xl-2-9">
-                        <div class="sub-title mb-3">
-                        </div>
-                        <h3 class="h1 fw-bolder mb-0">Company recommended to use Spirulina and Moringa together
-                        </h3>
-                    </div>
-                    <div class="accordion style1" id="accordion">
-                        <div class="card">
-                            <h2 class="card-header" id="headingOne">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Description</button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordion">
-                                <div class="card-body">
-                                    Combined Spirulina & Moringa provide the perfect source of Life Vitality
-                                    Complementing each other to bring you the ultimate Superfood powerhouse.
-                                    <ul>
-                                        <li>Natural Superfood</li>
-                                        <li>Rich in Amino Acids (Protein)</li>
-                                        <li>Anitoxidant</li>
-                                        <li>Strengthens Immunity</li>
-                                        <li>Increases Energy levels</li>
-                                        <li>Skin, Hair and Eye Health</li>
-                                        <li>Lowers blood sugar levels</li>
-                                        <li>Reduces inflammation</li>
-                                        <li>Spirulina and Moringa are potent and natural superfoods, very rich in
-                                            vitamins, minerals and anti-oxidants.</li>
-                                    </ul>
-                                    <p>Spirulina is considered the most complete and readily digestible protein
-                                        source
-                                        known to mankind.</p>
-                                    <p>Moringa sometimes described as the “miracle tree,” “drumstick tree,” or
-                                        “horseradish tree,” has small, rounded leaves that are packed with an
-                                        incredible
-                                        amount of nutrition.</p>
-                                    <p>Spirulina and Moringa increase energy levels and boost your immune system.
-                                        Spirulina and Moringa are high in bio-available iron, potassium and calcium.
-                                        Spirulina contains all of the B vitamins as well as vitamins K, E, C and A.
-                                        Moringa is a potent source of Vitamin A and C. Spirulina and Moringa are
-                                        both
-                                        potent antioxidants, great for skin health, hair health, eye health, improve
-                                        the
-                                        digestive system (probiotic), reduce inflammation, lower blood sugars, help
-                                        speed up recovery from workout and illness, help to detox the body, and are
-                                        suitable for all ages.</p>
-                                    <p>On top of all that spirulina contains an extraordinary antioxidant called
-                                        phycocyanin. Phycocyanin is a blue pigment of colour found in spirulina that
-                                        has
-                                        some really remarkable characteristics. Scientists have discovered that
-                                        phycocyanin has the ability to trigger the production of stem cells. What
-                                        does
-                                        that mean? Stems cells literally have the ability to become any cells that
-                                        your
-                                        body needs. Need more blood cells? More immune cells? More muscle cells or
-                                        more
-                                        cells to repair damaged ligaments and nerves? If your body is producing more
-                                        of
-                                        these stem cells, then you have the continuous possibility of being rebuilt.
-                                    </p>
+            <!-- row -->
+            <div class="row row-equal-height">
+                <div class="col-lg-4 col-md-12 col-sm-12">
+                    <div class="featured-icon-box style5 left-icon icon-align-top">
+                        <div class="featured-content">
+                            <div class="featured-title">
+                                <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                    <i class="flaticon flaticon-apple"></i>
                                 </div>
+                                <h5 class="pt-7">Natural and Pure Ingredients</h5>
+                            </div>
+                            <div class="featured-desc">
+                                <p>We prioritize the use of high-quality, natural ingredients, ensuring that
+                                    our products are free from unnecessary additives, preservatives, and
+                                    artificial substances.</p>
                             </div>
                         </div>
-                        <div class="card">
-                            <h2 class="card-header" id="headingTwo">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Direction
-                                    ‌</button>
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordion">
-                                <div class="card-body">
-                                    Take minimum 2-4 capsules per day with breakfast/lunch.
-                                </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-12 col-sm-12">
+                    <div class="featured-icon-box style5 left-icon icon-align-top">
+                        <div class="featured-content">
+                            <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                <i class="flaticon flaticon-fruits"></i>
+                            </div>
+                            <div class="featured-title">
+                                <h5 class="pt-7">Expertly Crafted Formulations</h5>
+                            </div>
+                            <div class="featured-desc">
+                                <p>Our products are developed by a team of skilled herbalists and
+                                    researchers who blend the best of ancient wisdom with cutting-edge
+                                    scientific research</p>
                             </div>
                         </div>
-                        <div class="card">
-                            <h2 class="card-header" id="headingThree">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">Ingredient</button>
-                            </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordion">
-                                <div class="card-body">
-                                    <ul>
-                                        <li> 500mg Pure all natural spirulina tablet. </li>
-                                        <li> 500mg Pure all natural moringa tablet. </li>
-                                        <li> No additives or preservatives.</li>
-                                    </ul>
-                                </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-12 col-sm-12">
+                    <div class="featured-icon-box style5 left-icon icon-align-top">
+                        <div class="featured-content">
+                            <div class="ttm-icon ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                <i class="flaticon flaticon-care"></i>
                             </div>
-                        </div>
-                        <div class="card">
-                            <h2 class="card-header" id="headingFour">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">Storage</button>
-                            </h2>
-                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordion">
-                                <div class="card-body">
-                                    Store in a cool dry place, away from direct sunlight.
-                                    Reseal packet after every use.
-                                </div>
+                            <div class="featured-title">
+                                <h5 class="pt-7">Tailored to Your Needs</h5>
+                            </div>
+                            <div class="featured-desc">
+                                <p>We offer a diverse range of herbal products designed to address various
+                                    health concerns and lifestyle needs, from immune support and stress
+                                    relief to digestive health and overall vitality..</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 
-<!-- ABOUTUS-->
+    <?php
+    include('product.php')
+    ?>
+
+    <section class="ttm-row home3-row-title-section bg-img7 ttm-bg clearfix">
+        <div class="container">
+            <!--container-->
+            <div class="row">
+                <!--row-->
+                <div class="col-lg-12 text-center">
+                    <!-- section title -->
+                    <div class="row-title style5 clearfix">
+                        <p class="bg-heading">Living Organic, Living Vibrant</p>
+                        <div class="title-header">
+                            <h2 class="title mb-15 bg-heading">Organic Goodness Inside and Out <br> </h2>
+                        </div>
+                    </div><!-- section title end -->
+                    <div class="mt-50 res-991-mt-30">
+                        <a class="ttm-btn ttm-btn-size-md ttm-btn-shape-round  ttm-btn-style-fill ttm-btn-bgcolor-skincolor mb-20"
+                            href="contact.php">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--our-story-section-->
+    <section class="ttm-row2 our-story-section clearfix">
+        <div class="container">
+            <div class="row">
+                <div class="row">
+                    <div class="col-md-12">
+                        <!-- section title -->
+                        <div class="section-title text-center clearfix">
+                            <div class="title-header">
+                                <h2 class="title">Company recommended to use Spirulina and Moringa together</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
+                </div>
+                <div class="col-lg-7 col-sm-12">
+                    <div class="res-991-mt-0">
+                        <div class="pr-35 res-1199-plr-0">
+                            <!-- section title -->
+                            <div class="section-title clearfix">
+                                <!-- <div class="title-header">
+                                    <h2 class="title">Company recommended to use Spirulina and Moringa together</h2>
+                                </div> -->
+                                <div class="title-desc">
+                                    <!-- <p>The health care, nutrition is your trustworthy guide for nutritious and
+                                        wellness. We provide empowering, evidence-based content that is easy to
+                                        digest and focused on the information you can use to the help yourself.
+                                        That makes us unique.empowering, evidence-based content that is easy to
+                                        digest and focused on the information you can use to the help.</p> -->
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-12 content-area">
+                                        <div class="ttm-single-product-details product">
+                                            <div class="ttm-tabs tabs-for-single-products" data-effect="fadeIn">
+                                                <ul class="tabs clearfix">
+                                                    <li class="tab active"><a href="#">Description</a></li>
+                                                    <li class="tab"><a href="#">Direction</a></li>
+                                                    <li class="tab"><a href="#">Ingredient & Storage</a></li>
+                                                </ul>
+                                                <div class="content-tab ttm-bgcolor-white">
+                                                    <!-- content-inner -->
+                                                    <div class="content-inner active" style="display: block;">
+                                                        <p>Combined Spirulina & Moringa provide the perfect source of
+                                                            Life Vitality
+                                                            Complementing each other to bring you the ultimate Superfood
+                                                            powerhouse.
+                                                        </p>
+                                                        <ul>
+                                                            <li class="health-list"> <i
+                                                                    class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                                                Natural
+                                                                Superfood</li>
+                                                            <li class="health-list"> <i
+                                                                    class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                                                Rich in Amino
+                                                                Acids
+                                                                (Protein)</li>
+                                                            <li class="health-list"> <i
+                                                                    class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                                                Anitoxidant
+                                                            </li>
+                                                            <li class="health-list"> <i
+                                                                    class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                                                Strengthens
+                                                                Immunity
+                                                            </li>
+                                                            <li class="health-list"> <i
+                                                                    class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                                                Increases
+                                                                Energy
+                                                                levels</li>
+                                                            <li class="health-list"> <i
+                                                                    class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                                                Skin, Hair and
+                                                                Eye
+                                                                Health</li>
+                                                            <li class="health-list"> <i
+                                                                    class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                                                Lowers blood
+                                                                sugar
+                                                                levels</li>
+                                                            <li class="health-list"> <i
+                                                                    class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                                                Reduces
+                                                                inflammation
+                                                            </li>
+                                                            <li class="health-list"> <i
+                                                                    class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                                                Spirulina and
+                                                                Moringa
+                                                                are potent and
+                                                                natural superfoods, very rich in
+                                                                vitamins, minerals and anti-oxidants.</li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="content-inner" style="display: none;">
+                                                        <ul>
+                                                            <li class="health-list"> <i
+                                                                    class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                                                Take minimum 2-4 capsules per day with breakfast/lunch.
+                                                            </li>
+                                                        </ul>
+
+                                                    </div>
+                                                    <div class="content-inner" style="display: none;">
+                                                        <h3>Ingredient</h3>
+                                                        <ul>
+                                                            <li> <i
+                                                                    class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                                                500mg Pure all natural spirulina tablet. </li>
+                                                            <li> <i
+                                                                    class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                                                500mg Pure all natural moringa tablet. </li>
+                                                            <li> <i
+                                                                    class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                                                No additives or preservatives.</li>
+                                                        </ul>
+                                                        </p>
+                                                        <h3>Storage</h3>
+                                                        <p>
+                                                        <ul>
+                                                            <li> <i
+                                                                    class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                                                Store in a cool dry place, away from direct sunlight.
+                                                                Reseal packet after every use. </li>
+                                                        </ul>
+                                                        </p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-sm-12">
+                    <div class="res-991-ml-0 position-relative">
+                        <!-- video-icon -->
+                        <!-- ttm_single_image-wrapper -->
+                        <div class="ttm_single_image-wrapper mb-10 res-991-mt-30">
+                            <div class="text-right">
+                                <img width="498" height="587" class="img-fluid box-shadow1"
+                                    src="images/single-img-two.jpg" alt="">
+                            </div>
+                        </div><!-- ttm_single_image-wrapper end -->
+                        <!--ttm-fid-->
+                        <!-- <div class="ttm-fid inside ttm-fid-view-lefticon ttm-highlight-fid-style2 mb-0">
+                            <div class="ttm-fid-left">
+                                <div class="ttm-fid-icon-wrapper ttm-textcolor-skincolor">
+                                    <i class="flaticon flaticon-healthy-lifestyle-logo"></i>
+                                </div>
+                                <h4 class="ttm-fid-inner">
+                                    <span data-appear-animation="animateDigits" data-from="0" data-to="300" data-interval="20" data-before="" data-before-style="sup" data-after="+" data-after-style="sub">300</span><span class="ml-5">+</span>
+                                </h4>
+                            </div>
+                            <div class="ttm-fid-contents text-left">
+                                <h3 class="ttm-fid-title">Successful Customers</h3>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+            </div><!-- row end -->
+        </div>
+    </section>
+    <!--our-story-section end-->
+
+</div>
+<!--site-main end-->
+
 <?php
 
 include('footer.php');
+
 
 ?>

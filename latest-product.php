@@ -1,199 +1,240 @@
-<section class="bg-light">
-    <div class="container">
-        <div class="section-heading">
-            <span class="text-secondary title-font display-25 display-md-23 d-block mb-1">See Our</span>
-            <h2>Related<span class="fw-bolder"> Products</span></h2>
-        </div>
-        <div class="service-carousel owl-carousel owl-theme">
-            <div class="card-style3">
-                <div class="">
-                    <div class="card-image product-des">
-                        <a href="coriander-powder.php" class="card-inner-img">
-                            <img src="theme/img/product/coriander-powder.jpg" class="product-image" alt="...">
-                        </a>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <h3 class="h4 mb-1"><a href="coriander-powder.php">Coriander Powder</a></h3>
-                    <!-- <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/collections/coriander-powder"
-                            class="butn-style01 secondary "><span>Buy Now</span></a></p> -->
-                </div>
-            </div>
-            <div class="card-style3">
-                <div class="">
-                    <div class="card-image product-des">
-                        <a href="red-chilli-powder.php" class="card-inner-img">
-                            <img src="theme/img/product/red-chili-powder.jpg" class="product-image" alt="...">
-                        </a>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <h3 class="h4 mb-1"><a href="red-chilli-powder.php">Red Chilli Powder</a></h3>
-                    <!-- <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/collections/red-chili-powder"
-                            class="butn-style01 secondary "><span>Buy Now</span></a></p> -->
-                </div>
-            </div>
-            <div class="card-style3">
-                <div class="">
-                    <div class="card-image product-des">
-                        <a href="jeera-powder.php" class="card-inner-img">
-                            <img src="theme/img/product/jeera-powder.jpg" class="product-image" alt="...">
-                        </a>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <h3 class="h4 mb-1"><a href="jeera-powder.php">Jeera Powder</a></h3>
-                    <!-- <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/collections/jeera-powder"
-                            class="butn-style01 secondary "><span>Buy Now</span></a></p> -->
-                </div>
-            </div>
-            <div class="card-style3">
-                <div class="">
-                    <div class="card-image product-des">
-                        <a href="turmeric-powder.php" class="card-inner-img">
-                            <img src="theme/img/product/turmeric-powder.jpg" class="product-image" alt="...">
-                        </a>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <h3 class="h4 mb-1"><a href="turmeric-powder.php">Turmeric Powder</a></h3>
-                    <!-- <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/collections/turmeric-powder"
-                            class="butn-style01 secondary "><span>Buy Now</span></a></p> -->
-                </div>
-            </div>
-            <div class="card-style3">
-                <div class="">
-                    <div class="card-image product-des">
-                        <a href="kashmirichilli-powder.php" class="card-inner-img">
-                            <img src="theme/img/product/kashmirichilli-powder.jpg" class="product-image" alt="...">
-                        </a>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <h3 class="h4 mb-1"><a href="kashmirichilli-powder.php">Kashmiri Chilli Powder</a></h3>
-                    <!-- <p class="mb-0 pt-1-9"><a
-                            href="https://shop.organishherbal.com/products/kashmiri-chilli-powder-pack-of-1-100-gram-copy"
-                            class="butn-style01 secondary "><span>Buy Now</span></a></p> -->
-                </div>
-            </div>
-            <div class="card-style3">
-                <div class="">
-                    <div class="card-image product-des">
-                        <a href="garam-masala.php" class="card-inner-img">
-                            <img src="theme/img/product/garam-masala1.jpg" class="product-image" alt="...">
-                        </a>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <h3 class="h4 mb-1"><a href="garam-masala.php">Garam Masala</a></h3>
-                    <!-- <p class="mb-0 pt-1-9"><a href="https://shop.organishherbal.com/products/garam-masala"
-                            class="butn-style01 secondary "><span>Buy Now</span></a></p> -->
-                </div>
-            </div>
-            <div class="card-style3">
-                <div class="">
-                    <div class="card-image product-des">
-                        <a href="chat-masala.php" class="card-inner-img">
-                            <img src="theme/img/product/chaat-masala.jpg" class="product-image" alt="...">
-                        </a>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <h3 class="h4 mb-1"><a href="chaat-masala.php">Chat Masala</a></h3>
-                    <!-- <p class="mb-0 pt-1-9"><a href="#" class="butn-style01 secondary "><span>Buy Now</span></a></p> -->
-                </div>
-            </div>
-            <div class="card-style3">
-                <div class="">
-                    <div class="card-image product-des">
-                        <a href="chole-masala.php" class="card-inner-img">
-                            <img src="theme/img/product/chole-masala.jpg" class="product-image" alt="...">
-                        </a>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <h3 class="h4 mb-1"><a href="chole-masala.php">Chole Masala</a></h3>
-                    <!-- <p class="mb-0 pt-1-9"><a href="#" class="butn-style01 secondary "><span>Buy Now</span></a></p> -->
-                </div>
-            </div>
-            <div class="card-style3">
-                <div class="">
-                    <div class="card-image product-des">
-                        <a href="chicken-masala.php" class="card-inner-img">
-                            <img src="theme/img/product/chicken-masala.jpg" class="product-image" alt="...">
-                        </a>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <h3 class="h4 mb-1"><a href="chicken-masala.php">Chicken Masala</a></h3>
-                    <!-- <p class="mb-0 pt-1-9"><a href="#" class="butn-style01 secondary "><span>Buy Now</span></a></p> -->
-                </div>
-            </div>
-            <div class="card-style3">
-                <div class="">
-                    <div class="card-image product-des">
-                        <a href="kitchen-king-masala.php" class="card-inner-img">
-                            <img src="theme/img/product/kitchen-king-masala.jpg" class="product-image" alt="...">
-                        </a>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <h3 class="h4 mb-1"><a href="kitchen-king-masala.php">Kitchen King Masala</a></h3>
-                    <!-- <p class="mb-0 pt-1-9"><a href="#" class="butn-style01 secondary "><span>Buy Now</span></a></p> -->
-                </div>
-            </div>
-            <div class="card-style3">
-                <div class="">
-                    <div class="card-image product-des">
-                        <a href="meat-masala.php" class="card-inner-img">
-                            <img src="theme/img/product/meat-masala.jpg" class="product-image" alt="...">
-                        </a>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <h3 class="h4 mb-1"><a href="meat-masala.php">Meat Masala</a></h3>
-                    <!-- <p class="mb-0 pt-1-9"><a href="#" class="butn-style01 secondary "><span>Buy Now</span></a></p> -->
-                </div>
-            </div>
-            <div class="card-style3">
-                <div class="">
-                    <div class="card-image product-des">
-                        <a href="panipuri-masala.php" class="card-inner-img">
-                            <img src="theme/img/product/panipuri-masala.jpg" class="product-image" alt="...">
-                        </a>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <h3 class="h4 mb-1"><a href="panipuri-masala.php">Panipuri Masala</a></h3>
-                    <!-- <p class="mb-0 pt-1-9"><a href="#" class="butn-style01 secondary "><span>Buy Now</span></a></p> -->
-                </div>
-            </div>
-            <div class="card-style3">
-                <div class="">
-                    <div class="card-image product-des">
-                        <a href="jaljeera-masala.php" class="card-inner-img">
-                            <img src="theme/img/product/jaljeera-masala.jpg" class="product-image" alt="...">
-                        </a>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <h3 class="h4 mb-1"><a href="jaljeera-masala.php">Jaljeera Masala</a></h3>
-                    <!-- <p class="mb-0 pt-1-9"><a href="#" class="butn-style01 secondary "><span>Buy Now</span></a></p> -->
-                </div>
-            </div>
-            <div class="card-style3">
-                <div class="">
-                    <div class="card-image product-des">
-                        <a href="sabji-masala.php" class="card-inner-img">
-                            <img src="theme/img/product/sabji-masala.jpg" class="product-image" alt="...">
-                        </a>
-                    </div>
-                </div>
-                <div class="text-center">
-                    <h3 class="h4 mb-1"><a href="sabji-masala.php">Sabji Masala</a></h3>
-                    <!-- <p class="mb-0 pt-1-9"><a href="#" class="butn-style01 secondary "><span>Buy Now</span></a></p> -->
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+ <!-- post-section -->
+ <section class="clearfix ttm-single-product-info">
+     <div class="container">
+         <!-- row -->
+         <div class="row">
+             <div class="col-md-12">
+                 <!-- section title -->
+                 <div class="section-title mb-30 text-center clearfix">
+                     <div class="title-header">
+                         <h5>See Our</h5>
+                         <h2 class="title">Related Products</h2>
+                     </div>
+                 </div><!-- section title end -->
+             </div>
+         </div>
+         <div class="row">
+             <div class="post-slide owl-carousel owl-theme owl-loaded" data-item="3" data-nav="false" data-dots="false" data-auto="true">
+                 <!-- featured-imagebox -->
+                 <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image box-shadow1">
+                     <div class="ttm-post-featured-outer">
+                         <a href="<?php echo $turmeric_powder?>">
+                             <div class="product-center">
+                                 <img class="latest-product-img" src="images/product/turmeric-powder.jpg" class="latest-product-img" alt="">
+                             </div>
+                         </a>
+                     </div>
+                     <div class="featured-content featured-content-post">
+                        <div class="post-title featured-title txt-center">
+                             <h5><a href="<?php echo $turmeric_powder?>" tabindex="-1">Turmeric Powder</a></h5>
+                         </div>
+                     </div>
+                 </div><!-- featured-imagebox end-->
+                 <!-- featured-imagebox -->
+                 <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image box-shadow1">
+                     <div class="ttm-post-featured-outer">
+                         <a href="<?php echo $coriander_powder?>">
+                             <div class="product-center">
+                                 <img class="latest-product-img" src="images/product/coriander-powder.jpg" class="latest-product-img" alt="">
+                                
+                             </div>
+                         </a>
+                     </div>
+                     <div class="featured-content featured-content-post">
+                        <div class="post-title featured-title txt-center">
+                             <h5><a href="<?php echo $coriander_powder?>" tabindex="-1">Coriander Powder</a></h5>
+                         </div>
+                     </div>
+                 </div><!-- featured-imagebox end-->
+                 <!-- featured-imagebox -->
+                 <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image box-shadow1">
+                     <div class="ttm-post-featured-outer">
+                         <a href="<?php echo $jeera_powder?>">
+                             <div class="product-center">
+                                 <img class="latest-product-img" src="images/product/jeera-powder.jpg" class="latest-product-img" alt="">
+                             </div>
+                         </a>
+                     </div>
+                     <div class="featured-content featured-content-post">
+                        <div class="post-title featured-title txt-center">
+                             <h5><a href="<?php echo $jeera_powder?>" tabindex="-1">Jeera Powder</a></h5>
+                         </div>
+                     </div>
+                 </div><!-- featured-imagebox end-->
+                 <!-- featured-imagebox -->
+                 <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image box-shadow1">
+                     <div class="ttm-post-featured-outer">
+                         <a href="<?php echo $red_chilli_powder?>">
+                             <div class="product-center">
+                                 <img class="latest-product-img" src="images/product/red-chili-powder.jpg" class="latest-product-img" alt="">
+                             </div>
+                         </a>
+                     </div>
+                     <div class="featured-content featured-content-post">
+                         <div class="post-title featured-title txt-center">
+                             <h5><a href="<?php echo $red_chilli_powder?>" tabindex="-1">Red Chilli Powder</a></h5>
+                         </div>
+                     </div>
+                 </div><!-- featured-imagebox end-->
+                 <!-- featured-imagebox -->
+                 <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image box-shadow1">
+                     <div class="ttm-post-featured-outer">
+                         <a href="<?php echo $red_chilli_powder?>">
+                             <div class="product-center">
+                                 <img class="latest-product-img" src="images/product/kashmirichilli-powder.jpg" class="latest-product-img" alt="">
+                             </div>
+                         </a>
+                     </div>
+                     <div class="featured-content featured-content-post">
+                         <div class="post-title featured-title txt-center">
+                             <h5><a href="<?php echo $red_chilli_powder?>" tabindex="-1">Kashmiri Chilli Powder
+                             </a></h5>
+                         </div>
+                     </div>
+                 </div><!-- featured-imagebox end-->
+                 <!-- featured-imagebox -->
+                 <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image box-shadow1">
+                     <div class="ttm-post-featured-outer">
+                         <a href="<?php echo $garam_masala?>">
+                             <div class="product-center">
+                                 <img class="latest-product-img" src="images/product/garam-masala1.jpg" class="latest-product-img" alt="">
+                             </div>
+                         </a>
+                     </div>
+                     <div class="featured-content featured-content-post">
+                         <div class="post-title featured-title txt-center">
+                             <h5><a href="<?php echo $garam_masala?>" tabindex="-1">Garam Masala
+                             </a></h5>
+                         </div>
+                     </div>
+                 </div><!-- featured-imagebox end-->
+                 <!-- featured-imagebox -->
+                 <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image box-shadow1">
+                     <div class="ttm-post-featured-outer">
+                         <a href="<?php echo $chat_masala?>">
+                             <div class="product-center">
+                                 <img class="latest-product-img" src="images/product/chaat-masala.jpg" class="latest-product-img" alt="">
+                             </div>
+                         </a>
+                     </div>
+                     <div class="featured-content featured-content-post">
+                         <div class="post-title featured-title txt-center">
+                             <h5><a href="<?php echo $chat_masala?>" tabindex="-1">Chaat Masala</a></h5>
+                         </div>
+                     </div>
+                 </div><!-- featured-imagebox end-->
+                 <!-- featured-imagebox -->
+                 <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image box-shadow1">
+                     <div class="ttm-post-featured-outer">
+                         <a href="<?php echo $red_chilli_powder?>">
+                             <div class="product-center">
+                                 <img class="latest-product-img" src="images/product/chicken-masala.jpg" alt="">
+                             </div>
+                         </a>
+                     </div>
+                     <div class="featured-content featured-content-post">
+                         <div class="post-title featured-title txt-center">
+                             <h5><a href="<?php echo $red_chilli_powder?>" tabindex="-1">Chicken Masala
+                             </a></h5>
+                         </div>
+                     </div>
+                 </div><!-- featured-imagebox end-->
+                 <!-- featured-imagebox -->
+                 <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image box-shadow1">
+                     <div class="ttm-post-featured-outer">
+                         <a href="<?php echo $chole_masala?>">
+                             <div class=" product-center">
+                                 <img class="latest-product-img" src="images/product/chole-masala.jpg" alt="">
+                             </div>
+                         </a>
+                     </div>
+                     <div class="featured-content featured-content-post">
+                         <div class="post-title featured-title txt-center">
+                             <h5><a href="<?php echo $chole_masala?>" tabindex="-1">Chole Masala
+                             </a></h5>
+                         </div>
+                     </div>
+                 </div><!-- featured-imagebox end-->
+                 <!-- featured-imagebox -->
+                 <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image box-shadow1">
+                     <div class="ttm-post-featured-outer">
+                         <a href="<?php echo $kitchen_king_masala?>">
+                             <div class=" product-center">
+                                 <img class="latest-product-img" src="images/product/kitchen-king-masala.jpg" alt="">
+                             </div>
+                         </a>
+                     </div>
+                     <div class="featured-content featured-content-post">
+                         <div class="post-title featured-title txt-center">
+                             <h5><a href="<?php echo $kitchen_king_masala?>" tabindex="-1">Kitchen King Masala</a></h5>
+                         </div>
+                     </div>
+                 </div><!-- featured-imagebox end-->
+                 <!-- featured-imagebox -->
+                 <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image box-shadow1">
+                     <div class="ttm-post-featured-outer">
+                         <a href="<?php echo $meat_masala?>">
+                             <div class=" product-center">
+                                 <img class="latest-product-img" src="images/product/meat-masala.jpg" alt="">
+                             </div>
+                         </a>
+                     </div>
+                     <div class="featured-content featured-content-post">
+                         <div class="post-title featured-title txt-center">
+                             <h5><a href="<?php echo $meat_masala?>" tabindex="-1">Meat Masala</a></h5>
+                         </div>
+                     </div>
+                 </div><!-- featured-imagebox end-->
+                 <!-- featured-imagebox -->
+                 <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image box-shadow1">
+                     <div class="ttm-post-featured-outer">
+                         <a href="<?php echo $jaljeera_masala?>">
+                             <div class=" product-center">
+                                 <img class="latest-product-img" src="images/product/jaljeera-masala.jpg" alt="">
+                             </div>
+                         </a>
+                     </div>
+                     <div class="featured-content featured-content-post">
+                         <div class="post-title featured-title txt-center">
+                             <h5><a href="<?php echo $jaljeera_masala?>" tabindex="-1">Jaljeera Masala
+                             </a></h5>
+                         </div>
+                     </div>
+                 </div><!-- featured-imagebox end-->
+                 <!-- featured-imagebox -->
+                 <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image box-shadow1">
+                     <div class="ttm-post-featured-outer">
+                         <a href="<?php echo $panipuri_masala?>">
+                             <div class=" product-center">
+                                 <img class="latest-product-img" src="images/product/panipuri-masala.jpg" alt="">
+                             </div>
+                         </a>
+                     </div>
+                     <div class="featured-content featured-content-post">
+                         <div class="post-title featured-title txt-center">
+                             <h5><a href="<?php echo $panipuri_masala?>" tabindex="-1">Panipuri Masala
+                             </a></h5>
+                         </div>
+                     </div>
+                 </div><!-- featured-imagebox end-->
+                 <!-- featured-imagebox -->
+                 <div class="featured-imagebox featured-imagebox-post ttm-box-view-top-image box-shadow1">
+                     <div class="ttm-post-featured-outer">
+                         <a href="<?php echo $sabji_masala?>">
+                             <div class=" product-center">
+                                 <img class="latest-product-img" src="images/product/sabji-masala.jpg" alt="">
+                             </div>
+                         </a>
+                     </div>
+                     <div class="featured-content featured-content-post">
+                         <div class="post-title featured-title txt-center">
+                             <h5><a href="<?php echo $sabji_masala?>" tabindex="-1">Sabji Masala
+                             </a></h5>
+                         </div>
+                     </div>
+                 </div><!-- featured-imagebox end-->
+             </div>
+         </div><!-- row end -->
+     </div>
+ </section>
+ <!-- post-section end -->

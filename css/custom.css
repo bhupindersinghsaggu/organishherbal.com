@@ -1,0 +1,207 @@
+.site-branding img {
+    max-height: 57px;
+}
+
+.section-title-20 {
+    margin-bottom: 20px;
+}
+
+
+.featured-icon-box.style5 {
+    padding: 30px 15px 15px;
+    border: 1px solid #f5821f;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.products .product .ttm-product-box .ttm-product-content {
+    text-align: left;
+    padding: 18px 18px 13px 18px;
+    border-top: 1px solid #f0f0f0;
+    position: relative;
+    text-align: center;
+}
+
+.pdt20 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.products .star-ratings ul li {
+    display: inline-block;
+    color: #0f511e;
+}
+
+
+.pet-care-section {
+    display: flex;
+    justify-content: center;
+}
+
+.ttm-row2 {
+    padding: 50px 0;
+}
+
+.health-list {
+    padding: 0 0 5px 0;
+}
+
+.theme-color-green {
+    color: #F5821F;
+}
+
+div.product ul.tabs li a {
+    font-weight: 400;
+    color: #515151;
+    padding: 7px 26px;
+}
+
+.bg-heading {
+    color: #fff;
+    font-weight: 700
+}
+
+.ttm-page-title-row {
+    display: block;
+    padding-top: 163px;
+    padding-bottom: 174px;
+    z-index: 11;
+}
+
+.l-height {
+    line-height: 30px;
+    padding-left: 0;
+}
+
+.list-style5 li .nutritional-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.list-style5 li .nutritional-info .seprator {
+    display: inline-flex;
+    border: 1px dashed #ededed;
+    flex: 1;
+    margin: 0 15px;
+}
+
+
+table.shop_attributes th {
+    width: 260px;
+    font-weight: 700;
+    padding: 8px;
+    border-top: 0;
+    border-bottom: 1px dotted rgba(0, 0, 0, .1);
+    margin: 0;
+    line-height: 1.5;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+.product-center {
+    display: flex;
+    justify-content: center;
+}
+
+.size-heading {
+    background-color: #f5821f;
+    padding: 10px;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.latest-product-img {
+    max-width: 250px;
+}
+
+.f-18 {
+    font-size: 18px;
+}
+
+.pd-20 {
+    padding-left: 20px;
+}
+
+
+.pd-100 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.pdt-100 {
+    padding-top: 100px;
+    
+}
+.pdt-50 {
+    padding-top: 50px;
+}
+
+
+.additional-info {
+    margin-top: -90px;
+}
+
+.tbl-padding-20 {
+    padding: 20px;
+}
+
+.featured-icon-box.style4 {
+    border: 1px solid #ebeef0;
+    padding: 10px 10px 10px 10px;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.featured-title1 h5 {
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 5px;
+}
+
+.spacing-6 {
+    /* margin-top: 120px !important; */
+    /* margin-bottom: -80px !important; */
+    padding-top: 42px !important;
+    padding-right: 145px !important;
+    padding-left: 60px !important;
+}
+
+.orange-bg{
+    background: #f5821f;
+}
+
+.featured-icon-box.style13 {
+    -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .1);
+    -moz-box-shadow: 0 0 12px 0 rgba(0, 0, 0, .1);
+    box-shadow: 0 0 10px 0 rgba(43, 52, 59, .1);
+    padding: 14px 10px 12px 10px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    display: block;
+    background: #fff;
+}
+
+.featured-title h5 {
+    font-size: 15px;
+    line-height: 28px;
+    margin-bottom: 5px;
+}
+
+
+.mt-108 {
+    margin-top: 108px !important;
+}
+
+.pl-115 {
+    padding-left: 50px !important;
+}
+
+.pr-115 {
+    padding-right: 50px !important;
+}
