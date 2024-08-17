@@ -25,7 +25,9 @@
                             <h2>Coriander Powder</h2>
                         </a>
                         <div class="pdt20">
-                            <a href=<?php echo " $shoplink " ?> target="_blank" class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white" title="Submit now"> Buy Now</a>
+                            <a href=<?php echo " $shoplink " ?> target="_blank"
+                                class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white"
+                                title="Submit now"> Buy Now</a>
                         </div>
                         <div class="star-ratings">
                             <ul class="rating sub-menu">
@@ -53,7 +55,9 @@
                             <h2>Garam Masala</h2>
                         </a>
                         <div class="pdt20">
-                            <a href=<?php echo " $shoplink " ?> target="_blank" class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white" title="Submit now"> Buy Now</a>
+                            <a href=<?php echo " $shoplink " ?> target="_blank"
+                                class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white"
+                                title="Submit now"> Buy Now</a>
                         </div>
                         <div class="star-ratings">
                             <ul class="rating sub-menu">
@@ -81,7 +85,9 @@
                             <h2>Chat Masala</h2>
                         </a>
                         <div class="pdt20">
-                            <a href=<?php echo " $shoplink " ?> target="_blank" class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white" title="Submit now"> Buy Now</a>
+                            <a href=<?php echo " $shoplink " ?> target="_blank"
+                                class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white"
+                                title="Submit now"> Buy Now</a>
                         </div>
                         <div class="star-ratings">
                             <ul class="rating sub-menu">
@@ -109,7 +115,9 @@
                             <h2>Chicken Masala</h2>
                         </a>
                         <div class="pdt20">
-                            <a href=<?php echo " $shoplink " ?> target="_blank" class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white" title="Submit now"> Buy Now</a>
+                            <a href=<?php echo " $shoplink " ?> target="_blank"
+                                class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white"
+                                title="Submit now"> Buy Now</a>
                         </div>
                         <div class="star-ratings">
                             <ul class="rating sub-menu">
@@ -128,7 +136,9 @@
             <div class="col-md-12">
                 <div class="section-title text-center clearfix">
                     <div class="pdt20">
-                        <a href="/new/allspices.php" class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white" title="Submit now"> View All</a>
+                        <a href="/allspices.php"
+                            class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white"
+                            title="Submit now"> View All</a>
                     </div>
                 </div>
             </div>
@@ -157,7 +167,9 @@
                             <h2>Spirulina</h2>
                         </a>
                         <div class="pdt20">
-                            <a href=<?php echo " $shoplink " ?> target="_blank" class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white" title="Submit now"> Buy Now</a>
+                            <a href=<?php echo " $shoplink " ?> target="_blank"
+                                class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white"
+                                title="Submit now"> Buy Now</a>
                         </div>
                         <div class="star-ratings">
                             <ul class="rating sub-menu">
@@ -185,7 +197,9 @@
                             <h2>Moringa</h2>
                         </a>
                         <div class="pdt20">
-                            <a href=<?php echo " $shoplink " ?> target="_blank" class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white" title="Submit now"> Buy Now</a>
+                            <a href=<?php echo " $shoplink " ?> target="_blank"
+                                class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white"
+                                title="Submit now"> Buy Now</a>
                         </div>
                         <div class="star-ratings">
                             <ul class="rating sub-menu">
@@ -213,7 +227,9 @@
                             <h2>Triphala</h2>
                         </a>
                         <div class="pdt20">
-                            <a href=<?php echo " $shoplink " ?> target="_blank" class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white" title="Submit now"> Buy Now</a>
+                            <a href=<?php echo " $shoplink " ?> target="_blank"
+                                class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white"
+                                title="Submit now"> Buy Now</a>
                         </div>
                         <div class="star-ratings">
                             <ul class="rating sub-menu">
@@ -241,7 +257,9 @@
                             <h2>Six-M-Syrup</h2>
                         </a>
                         <div class="pdt20">
-                            <a href=<?php echo " $shoplink " ?> target="_blank" class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white" title="Submit now"> Buy Now</a>
+                            <a href=<?php echo " $shoplink " ?> target="_blank"
+                                class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white"
+                                title="Submit now"> Buy Now</a>
                         </div>
                         <div class="star-ratings">
                             <ul class="rating sub-menu">
@@ -280,7 +298,9 @@
                             <h2>All In One</h2>
                         </a>
                         <div class="pdt20">
-                            <a href=<?php echo " $shoplink " ?> target="_blank" class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white" title="Submit now"> Buy Now</a>
+                            <a href=<?php echo " $shoplink " ?> target="_blank"
+                                class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white"
+                                title="Submit now"> Buy Now</a>
                         </div>
                         <div class="star-ratings">
                             <ul class="rating sub-menu">
@@ -308,7 +328,9 @@
                             <h2>Power Vita Gold</h2>
                         </a>
                         <div class="pdt20">
-                            <a href=<?php echo " $shoplink " ?> target="_blank" class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white" title="Submit now"> Buy Now</a>
+                            <a href=<?php echo " $shoplink " ?> target="_blank"
+                                class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white"
+                                title="Submit now"> Buy Now</a>
                         </div>
                         <div class="star-ratings">
                             <ul class="rating sub-menu">
