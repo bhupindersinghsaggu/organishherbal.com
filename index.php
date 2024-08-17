@@ -214,7 +214,7 @@ include('function.php');
                                                 <span class="flaticon flaticon-care"></span>
                                             </div> -->
                                     <div class="featured-thumbnail">
-                                      <a href="#spices">  <img class="img-fluid" src="images/sp.jpeg" alt=""></a>
+                                        <a href="#spices"> <img class="img-fluid" src="images/sp.jpeg" alt=""></a>
                                     </div>
                                     <div class="featured-content">
                                         <div class="featured-title">
@@ -224,7 +224,7 @@ include('function.php');
                                             <!-- <p>With so many choices of the food-diet advisory out there, we’re
                                                         at top-rated cause of homely services.</p> -->
                                             <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-black btn-inline mb-10 ttm-btn-underline"
-                                                href="#spices">View More</a>
+                                                href="#spices">View Moreh</a>
                                         </div>
                                     </div>
                                 </div><!-- featured-icon-box end-->
@@ -237,7 +237,8 @@ include('function.php');
                                                 <span class="flaticon flaticon-healthy"></span>
                                             </div> -->
                                     <div class="featured-thumbnail">
-                                    <a href="#health-care">  <img class="img-fluid" src="images/healthcare.jpeg" alt=""></a>
+                                        <a href="#health-care"> <img class="img-fluid" src="images/healthcare.jpeg"
+                                                alt=""></a>
                                     </div>
                                     <div class="featured-content">
                                         <div class="featured-title">
@@ -260,7 +261,8 @@ include('function.php');
                                                 <span class="flaticon flaticon-healthy-nutrition"></span>
                                             </div> -->
                                     <div class="featured-thumbnail">
-                                    <a href="#pet-care">  <img class="img-fluid" src="images/petcare.jpeg" alt=""></a>
+                                        <a href="#pet-care"> <img class="img-fluid" src="images/petcare.jpeg"
+                                                alt=""></a>
                                     </div>
                                     <div class="featured-content">
                                         <div class="featured-title">
