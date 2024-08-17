@@ -224,7 +224,7 @@ include('function.php');
                                             <!-- <p>With so many choices of the food-diet advisory out there, we’re
                                                         at top-rated cause of homely services.</p> -->
                                             <a class="ttm-btn ttm-btn-size-sm ttm-btn-color-black btn-inline mb-10 ttm-btn-underline"
-                                                href="#spices">View Moreh</a>
+                                                href="#spices">View More</a>
                                         </div>
                                     </div>
                                 </div><!-- featured-icon-box end-->
