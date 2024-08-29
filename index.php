@@ -302,8 +302,8 @@ include('function.php');
                                     <p>At Organish Herbal, our mission is to enhance lives by creating healthier
                                         and more sustainable environments. We are dedicated to pushing the
                                         limits of innovation and delivering advanced solutions for a better
-                                        world. If you're looking for high-quality natural herbal products,
-                                        you've found the right place. Organish is your go-to source for
+                                        world. If you're looking for high-quality natural products,
+                                        you've found the right place. Organish herbal is your go-to source for
                                         premium natural and organic herbal solutions.</p>
                                 </div>
                             </div><!-- section title end -->
