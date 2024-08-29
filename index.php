@@ -303,7 +303,7 @@ include('function.php');
                                         and more sustainable environments. We are dedicated to pushing the
                                         limits of innovation and delivering advanced solutions for a better
                                         world. If you're looking for high-quality natural herbal products,
-                                        you've found the right place. Organish Herbal is your go-to source for
+                                        you've found the right place. Organish is your go-to source for
                                         premium natural and organic herbal solutions.</p>
                                 </div>
                             </div><!-- section title end -->
@@ -420,7 +420,7 @@ include('function.php');
                             <div class="section-title clearfix">
                                 <div class="title-header">
                                     <!-- <h5>about nutrition</h5> -->
-                                    <h2 class="title">We advise you to prevent <br>disease with Herbal</h2>
+                                    <h2 class="title">Discover the Secret of Exceptional Flavour with Our spices</h2>
                                     <div class="featured-title">
                                         <h5>We are leading manufacturer and supplier of ayurvedic and Herbal
                                             products</h5>
