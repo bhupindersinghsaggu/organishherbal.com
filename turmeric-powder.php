@@ -38,23 +38,32 @@ include('function.php');
                                 </span>
                             </p>
                             <div class="product-details__short-description">
-                                <p>Indulge in the golden richness of our Haldi, sourced from the sun-kissed fields of Andhra Pradesh and the lush landscapes of Tamil Nadu. Our Turmeric is meticulously cultivated and harvested in these regions renowned for their premium quality spices. With every pinch of our Haldi, Savor the authentic flavours and vibrant hues that capture the essence of South Asia cuisine. Elevate your culinary adventures with our Haldi sourced from these fertile lands, where traditionmeets excellence.</p>
+                                <p>Indulge in the golden richness of our Haldi, sourced from the sun-kissed fields of
+                                    Andhra Pradesh and the lush landscapes of Tamil Nadu. Our Turmeric is meticulously
+                                    cultivated and harvested in these regions renowned for their premium quality spices.
+                                    With every pinch of our Haldi, Savor the authentic flavours and vibrant hues that
+                                    capture the essence of South Asia cuisine. Elevate your culinary adventures with our
+                                    Haldi sourced from these fertile lands, where traditionmeets excellence.</p>
                             </div>
 
                             <div class="content-inner active">
                                 <h3>About this Item</h3>
                                 <ul class="l-height">
-                                    <li>100% natural:- Organish Herbal products are 100% natural and best suitable for your
+                                    <li>100% natural:- Organish Herbal products are 100% natural and best suitable for
+                                        your
                                         health. </li>
                                     <li>Uses For:- Turmeric powder is used in all Indian cuisines and it's perfect for
                                         vegetables, meats, gravies and curries. </li>
-                                    <li>Ready To Use:- Turmeric powder brings out a freshness with its aroma, colour and taste
+                                    <li>Ready To Use:- Turmeric powder brings out a freshness with its aroma, colour and
+                                        taste
                                         to any dish. </li>
                                     <li>Quality:- All the Indian spices used in this product are of premium quality</li>
                                 </ul>
                             </div>
                             <form class="cart" action="#" method="post" enctype="multipart/form-data">
-                                <a href=<?php echo " $shoplink " ?> target=_blank class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white">Buy Now</a>
+                                <a href=<?php echo " $shoplink " ?> target=_blank
+                                    class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white">Buy
+                                    Now</a>
                             </form>
                         </div>
                     </div>
@@ -69,26 +78,30 @@ include('function.php');
                         <div class="tbl-padding-20">
                             <table class="table table-striped">
                                 <tbody>
-                                    <tr style="background-color: #00460f; padding: 10px;border-radius: 10px;color: #fff;">
+                                    <tr
+                                        style="background-color: #00460f; padding: 10px;border-radius: 10px;color: #fff;">
                                         <th scope="row" class="f-18">
                                             Health Benefits </th>
                                     </tr>
                                     <tr>
-                                        <th scope="row"> <i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
-                                        Prevent cancer growth cells </th>
+                                        <th scope="row"> <i
+                                                class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                            Prevent cancer growth cells </th>
                                     </tr>
                                     <tr>
-                                        <th scope="row"> <i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
-                                        Gives you a glowing skin
+                                        <th scope="row"> <i
+                                                class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                            Gives you a glowing skin
                                         </th>
                                     </tr>
                                     <tr>
-                                        <th scope="row"> <i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
-                                        Prevents Inflammation</th>
+                                        <th scope="row"> <i
+                                                class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                            Prevents Inflammation</th>
                                     </tr>
                                     <tr>
                                         <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
-                                        Treats Diabetes
+                                            Treats Diabetes
                                         </th>
                                     </tr>
                                 </tbody>
@@ -101,36 +114,44 @@ include('function.php');
                         <div class="tbl-padding-20">
                             <table class="table table-striped">
                                 <tbody>
-                                    <tr style="background-color: #00460f; padding: 10px;border-radius: 10px;color: #fff;">
-                                        <th scope="row" class="f-18" colspan="2">Ingerdients (Nutrition Value Per 100g)</th>
+                                    <tr
+                                        style="background-color: #00460f; padding: 10px;border-radius: 10px;color: #fff;">
+                                        <th scope="row" class="f-18" colspan="2">Ingerdients (Nutrition Value Per 100g)
+                                        </th>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Energy (Calculated)</th>
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i> Energy (Calculated)</th>
                                         <td>35 kcal
                                         </td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i></i> Total Carbohydrates
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i></i> Total Carbohydrates
                                         </th>
                                         <td>70 g</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Protein</th>
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i> Protein</th>
                                         <td>4 g</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Saturated Fatty Acid
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i> Saturated Fatty Acid
 
                                         </th>
-                                        <td>0 g</td>
+                                        <td>1 g</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Total Trans Fatty Acid
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i> Total Trans Fatty Acid
                                         </th>
                                         <td>0 g</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i> Cholesterol
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                            Cholesterol
                                         </th>
                                         <td>0 g</td>
                                     </tr>

@@ -25,8 +25,9 @@ include('function.php');
                         <div class="product-gallery images product-center">
                             <figure class="ttm-product-gallery__wrapper">
                                 <div class="product-gallery__image">
-                                    <img class="img-fluid" src="images/product/kashmirichilli-powder.jpg" alt="product-img">
-                                    <h6 class="mt-3 txt-center size-heading">AVAILABILITY: 100 g | 200g | 500 g </h6>
+                                    <img class="img-fluid" src="images/product/kashmirichilli-powder.jpg"
+                                        alt="product-img">
+                                    <h6 class="mt-3 txt-center size-heading">AVAILABILITY: 50 g | 100g | </h6>
                                 </div>
                             </figure>
 
@@ -39,22 +40,32 @@ include('function.php');
                                 </span>
                             </p>
                             <div class="product-details__short-description">
-                                <p>our Kashmiri chili has a distinctive red hue which makes it great for grilling meats and dying curries a vibrant red color. Complex citrusy and slightly smoky flavor - This chili isn't just one note but is so complex in its flavor which adds depth to dishes. The chili powder will add a delicious and spicy flavor to your dish, as well as helping to tenderize the meat. Soups and Stews: Kashmiri chili powder can be used to add depth and complexity to soups and stews. Simply add a teaspoon or two of the powder to the pot when you add your other ingredients.</p>
+                                <p>our Kashmiri chilli has a distinctive red hue which makes it great for grilling meats
+                                    and dying curries a vibrant red color. Complex citrusy and slightly smoky flavor -
+                                    This chilli isn't just one note but is so complex in its flavor which adds depth to
+                                    dishes. The chili powder will add a delicious and spicy flavor to your dish, as well
+                                    as helping to tenderize the meat. Soups and Stews: Kashmiri chili powder can be used
+                                    to add depth and complexity to soups and stews. Simply add a teaspoon or two of the
+                                    powder to the pot when you add your other ingredients.</p>
                             </div>
                             <div class="content-inner active">
                                 <h3>About this Item</h3>
                                 <ul class="l-height">
-                                    <li>100% natural:- Organish Herbal products are 100% natural and best suitable for your
+                                    <li>100% natural:- Organish Herbal products are 100% natural and best suitable for
+                                        your
                                         health. </li>
                                     <li>Uses For:- Turmeric powder is used in all Indian cuisines and it's perfect for
                                         vegetables, meats, gravies and curries. </li>
-                                    <li>Ready To Use:- Turmeric powder brings out a freshness with its aroma, colour and taste
+                                    <li>Ready To Use:- Turmeric powder brings out a freshness with its aroma, colour and
+                                        taste
                                         to any dish. </li>
                                     <li>Quality:- All the Indian spices used in this product are of premium quality</li>
                                 </ul>
                             </div>
                             <form class="cart" action="#" method="post" enctype="multipart/form-data">
-                                <a href=<?php echo " $shoplink " ?> target=_blank class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white">Buy Now</a>
+                                <a href=<?php echo " $shoplink " ?> target=_blank
+                                    class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white">Buy
+                                    Now</a>
                             </form>
                         </div>
                     </div>
@@ -69,26 +80,31 @@ include('function.php');
                         <div class="tbl-padding-20">
                             <table class="table table-striped">
                                 <tbody>
-                                    <tr style="background-color: #00460f; padding: 10px;border-radius: 10px;color: #fff;">
+                                    <tr
+                                        style="background-color: #00460f; padding: 10px;border-radius: 10px;color: #fff;">
                                         <th scope="row" class="f-18">
                                             Health Benefits </th>
                                     </tr>
                                     <tr>
-                                        <th scope="row"> <i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
-                                        Rich in vitamin C </th>
+                                        <th scope="row"> <i
+                                                class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                            Rich in vitamin C </th>
                                     </tr>
                                     <tr>
-                                        <th scope="row"> <i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
-                                        Boosts immunity </th>
+                                        <th scope="row"> <i
+                                                class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                            Boosts immunity </th>
                                     </tr>
                                     <tr>
-                                        <th scope="row"> <i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
-                                        Protects your heart
+                                        <th scope="row"> <i
+                                                class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                            Protects your heart
                                         </th>
                                     </tr>
                                     <tr>
-                                        <th scope="row"> <i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
-                                        Helps your digestive system</th>
+                                        <th scope="row"> <i
+                                                class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                            Helps your digestive system</th>
                                     </tr>
                                 </tbody>
                             </table>
@@ -100,39 +116,48 @@ include('function.php');
                         <div class="tbl-padding-20">
                             <table class="table table-striped">
                                 <tbody>
-                                    <tr style="background-color: #00460f; padding: 10px;border-radius: 10px;color: #fff;">
-                                        <th scope="row" class="f-18" colspan="2">Ingerdients (Nutrition Value Per 100g)</th>
+                                    <tr
+                                        style="background-color: #00460f; padding: 10px;border-radius: 10px;color: #fff;">
+                                        <th scope="row" class="f-18" colspan="2">Ingerdients (Nutrition Value Per 100g)
+                                        </th>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Energy (Calculated)</th>
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i> Energy (Calculated)</th>
                                         <td>284 kcal
                                         </td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i></i> Total Carbohydrates
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i></i> Total Carbohydrates
                                         </th>
                                         <td>54 g</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Protein</th>
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i> Protein</th>
                                         <td>6 g</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Total Fat</th>
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i> Total Fat</th>
                                         <td>7 g</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Saturated Fatty Acid
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i> Saturated Fatty Acid
                                         </th>
                                         <td>3 g</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Total Trans Fatty Acid
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i> Total Trans Fatty Acid
                                         </th>
                                         <td>0 g</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i> Cholesterol
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                            Cholesterol
                                         </th>
                                         <td>0 g</td>
                                     </tr>
