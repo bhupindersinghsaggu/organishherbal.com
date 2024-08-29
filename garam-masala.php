@@ -26,7 +26,7 @@ include('function.php');
                             <figure class="ttm-product-gallery__wrapper">
                                 <div class="product-gallery__image">
                                     <img class="img-fluid" src="images/product/garam-masala1.jpg" alt="product-img">
-                                    <h6 class="mt-3 txt-center size-heading">AVAILABILITY: 100 g | 200g | 500 g </h6>
+                                    <h6 class="mt-3 txt-center size-heading">AVAILABILITY: 50 g | 100g | </h6>
                                 </div>
                             </figure>
 
@@ -39,21 +39,34 @@ include('function.php');
                                 </span>
                             </p>
                             <div class="product-details__short-description">
-                                <p>Experience the authentic essence of India Cuisine with our premium Garam Masala sourced directly from the heart of Forest. Hand picked and expertly blended, our Garam Masala is a flavourful tribute to the rich biodiversity of the forest, capturing the essence of traditional spices in every pinch. Elevated your dishes with the natural aroma and robust taste of our Garam Masala, a true culinary treasure waiting to be discovered.” Its included Coriander seeds, Cumin seeds, Green Cardamoms, Cinnamon, Cloves, Black Pepper, Bay leaf, Black Cardamom and Fennel seeds.</p>
+                                <p>Experience the authentic essence of India Cuisine with our premium Garam Masala
+                                    sourced directly from the heart of Forest. Hand picked and expertly blended, our
+                                    Garam Masala is a flavourful tribute to the rich biodiversity of the forest,
+                                    capturing the essence of traditional spices in every pinch. Elevated your dishes
+                                    with the natural aroma and robust taste of our Garam Masala, a true culinary
+                                    treasure waiting to be discovered.” Its included Coriander seeds, Cumin seeds, Green
+                                    Cardamoms, Cinnamon, Cloves, Black Pepper, Bay leaf, Black Cardamom and Fennel
+                                    seeds.</p>
                             </div>
                             <div class="content-inner active">
                                 <h3>About this Item</h3>
                                 <ul class="l-height">
-                                <li> Indulge In Rich Aroma &amp; Flavor: Elevate every meal with an indulgent sensory
-                                experience, where every bite tantalizes your taste buds with rich aroma and flavor.</li>
-                            <li>Natural Oils Preserved: Crafted with care to preserve the natural oils of the spices,
-                                ensuring maximum freshness and flavor in every sprinkle.</li>
-                            <li>From The Finest Farms: Handpicked from the finest farms, our spices boast naturally rich
-                                flavors, adding authenticity and depth to your dishes.</li>
+                                    <li> Indulge In Rich Aroma &amp; Flavor: Elevate every meal with an indulgent
+                                        sensory
+                                        experience, where every bite tantalizes your taste buds with rich aroma and
+                                        flavor.</li>
+                                    <li>Natural Oils Preserved: Crafted with care to preserve the natural oils of the
+                                        spices,
+                                        ensuring maximum freshness and flavor in every sprinkle.</li>
+                                    <li>From The Finest Farms: Handpicked from the finest farms, our spices boast
+                                        naturally rich
+                                        flavors, adding authenticity and depth to your dishes.</li>
                                 </ul>
                             </div>
                             <form class="cart" action="#" method="post" enctype="multipart/form-data">
-                                <a href=<?php echo " $shoplink " ?> target=_blank class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white">Buy Now</a>
+                                <a href=<?php echo " $shoplink " ?> target=_blank
+                                    class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white">Buy
+                                    Now</a>
                             </form>
                         </div>
                     </div>
@@ -68,26 +81,31 @@ include('function.php');
                         <div class="tbl-padding-20">
                             <table class="table table-striped">
                                 <tbody>
-                                    <tr style="background-color: #00460f; padding: 10px;border-radius: 10px;color: #fff;">
+                                    <tr
+                                        style="background-color: #00460f; padding: 10px;border-radius: 10px;color: #fff;">
                                         <th scope="row" class="f-18">
                                             Health Benefits </th>
                                     </tr>
                                     <tr>
-                                        <th scope="row"> <i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
-                                        Helps in Digestion process </th>
+                                        <th scope="row"> <i
+                                                class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                            Helps in Digestion process </th>
                                     </tr>
                                     <tr>
-                                        <th scope="row"> <i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
-                                        Reduces Inflammation </th>
+                                        <th scope="row"> <i
+                                                class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                            Reduces Inflammation </th>
                                     </tr>
                                     <tr>
-                                        <th scope="row"> <i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
-                                        Defends against Diabetes
+                                        <th scope="row"> <i
+                                                class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                            Defends against Diabetes
                                         </th>
                                     </tr>
                                     <tr>
-                                        <th scope="row"> <i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
-                                        Regulates Blood Pressure</th>
+                                        <th scope="row"> <i
+                                                class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                            Regulates Blood Pressure</th>
                                     </tr>
                                 </tbody>
                             </table>
@@ -99,39 +117,48 @@ include('function.php');
                         <div class="tbl-padding-20">
                             <table class="table table-striped">
                                 <tbody>
-                                    <tr style="background-color: #00460f; padding: 10px;border-radius: 10px;color: #fff;">
-                                        <th scope="row" class="f-18" colspan="2">Ingerdients (Nutrition Value Per 100g)</th>
+                                    <tr
+                                        style="background-color: #00460f; padding: 10px;border-radius: 10px;color: #fff;">
+                                        <th scope="row" class="f-18" colspan="2">Ingerdients (Nutrition Value Per 100g)
+                                        </th>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Energy (Calculated)</th>
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i> Energy (Calculated)</th>
                                         <td>364 kcal
                                         </td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i></i> Total Carbohydrates
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i></i> Total Carbohydrates
                                         </th>
                                         <td>75 g</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Protein</th>
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i> Protein</th>
                                         <td>0.4 g</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Total Fat</th>
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i> Total Fat</th>
                                         <td>7 g</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Saturated Fatty Acid
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i> Saturated Fatty Acid
                                         </th>
                                         <td>1.5 g</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Total Trans Fatty Acid
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor">
+                                            </i> Total Trans Fatty Acid
                                         </th>
                                         <td>0 g</td>
                                     </tr>
                                     <tr>
-                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i> Cholesterol
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                            Cholesterol
                                         </th>
                                         <td>0 g</td>
                                     </tr>
