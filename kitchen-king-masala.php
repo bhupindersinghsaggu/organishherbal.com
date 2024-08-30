@@ -50,11 +50,9 @@ include('function.php');
                             <div class="content-inner active">
                                 <h3>About this Item</h3>
                                 <ul class="l-height">
-                                    <li> Chicken Masala is an essential masala for Indian preparation of chicken</li>
-                                    <li>Suitable for Chicken Tikka Masala, Chicken Masala, Butter Chicken, Chicken
-                                        Tandoori
-                                        Masala and more.</li>
-                                    <li>Made using Low Temperature Grinding of several Indian spices</li>
+                                    <li> Versatile Use: Ideal for a variety of recipes, from vegetable curries and lentil dishes to chicken and paneer. This masala blends seamlessly into any dish, adding depth and richness to your cooking.</li>
+                                    <li>Our Kitchen King Masala features a thoughtfully crafted blend of premium spices offering a complex yet harmonious flavor profile. It’s the key to creating rich, aromatic dishes that delight the senses.</li>
+                                    
                                 </ul>
                             </div>
                             <form class="cart" action="#" method="post" enctype="multipart/form-data">
