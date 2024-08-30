@@ -422,8 +422,8 @@ include('function.php');
                                     <!-- <h5>about nutrition</h5> -->
                                     <h2 class="title">Discover the Secret of Exceptional Flavour with Our spices</h2>
                                     <div class="featured-title">
-                                        <h5>We are leading manufacturer and supplier of Indian Masala
-                                            products</h5>
+                                        <h5>We are leading manufacturer and supplier of Indian spices and herbal products
+                                            </h5>
                                     </div>
                                 </div>
                                 <div class="title-desc">
