@@ -39,21 +39,13 @@ include('function.php');
                                 </span>
                             </p>
                             <div class="product-details__short-description">
-                                <p>Chicken tikka masala, dish consisting of marinated boneless chicken pieces that are
-                                    traditionally cooked in a tandoor and then served in a subtly spiced tomato-cream
-                                    sauce. salt. Chicken Masala Curry is a bold, spicy, and super flavorful Indian
-                                    chicken curry made by cooking chicken in an onion tomato-based gravy. Chicken masala
-                                    is a popular curried dish made with boneless chicken, ground spices, onions,
-                                    tomatoes, cream and herbs.</p>
+                                <p>Elevate your culinary creations with our Chole Masala, a vibrant and aromatic spice blend that brings the essence of traditional Indian cuisine right to your kitchen. Discover the authentic taste of India with our premium Chole Masala, a meticulously crafted spice blend that turns every meal into a flavorful experience.</p>
                             </div>
                             <div class="content-inner active">
                                 <h3>About this Item</h3>
                                 <ul class="l-height">
-                                    <li>A perfect blend of pure spices</li>
-                                    <li>Enhances the taste of your dish</li>
-                                    <li>RICH AROMA &amp; FLAVOR: Treat yourself to an aromatic &amp; flavorful delight
-                                        with every bite
-                                    </li>
+                                    <li>Authentic Flavor: Our Chole Masala captures the rich, robust flavors of traditional Indian cooking, giving you that perfect balance of spicy, tangy, and savory in every bite.</li>
+                                    <li>Versatile Use: While ideal for Chole, this masala blend can also enhance other dishes like vegetables, lentils, and even rice. Get creative and add a burst of flavor to your favorite recipes!</li>
                                 </ul>
                             </div>
                             <form class="cart" action="#" method="post" enctype="multipart/form-data">
