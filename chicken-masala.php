@@ -2,10 +2,12 @@
 
 include('header.php');
 
-include(' function.php');
+include('function.php');
 
 ?>
-<section class="page-title-section bg-img cover-background" data-overlay-dark="6" data-background="/theme/img/bg/chicken-masala-bg.jpg" style="background-image: url(_/theme/img/bg/chicken-masala-bg.jpg);">
+<section class="page-title-section bg-img cover-background" data-overlay-dark="6"
+    data-background="/theme/img/bg/coriander-powder-bg.jpg"
+    style="background-image: url(_/theme/img/bg/coriander-powder-bg.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -13,150 +15,145 @@ include(' function.php');
         </div>
     </div>
 </section>
-<section id="moringa">
+<div class="sidebar ttm-sidebar-right ttm-bgcolor-white clearfix">
     <div class="container">
-        <!-- <div class="product-heading">
-            <h4 class="about-box2 border-radius-10">
-                Discover the magic of spices and transform every meal
-            </h4>
-        </div> -->
-        <div class="row align-items-center ">
-            <div class="col-lg-6 mb-1-9 mb-lg-0">
-                <div class="position-relative pe-lg-1-9 pe-xl-7 ps-xl-8 text-center about-style01">
-                    <img src="theme/img/product/chicken-masala.jpg" class="rounded z-index-1 position-relative" alt="...">
-                    <h5 class="mt-3">AVAILABILITY: 50 g | 100g </h5>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="">
-                    <h4 class="display-20 display-sm-15 display-xl-9 mb-3" style="font-size: 35px;">Chicken Masala
-                    </h4>
-                    <p>Chicken tikka masala, dish consisting of marinated boneless chicken pieces that are traditionally
-                        cooked in a tandoor and then served in a subtly spiced tomato-cream sauce. salt. Chicken Masala
-                        Curry is a bold, spicy, and super flavorful Indian chicken curry made by cooking chicken in an
-                        onion tomato-based gravy. Chicken masala is a popular curried dish made with boneless chicken,
-                        ground spices, onions, tomatoes, cream and herbs.
-                    </p>
-                    <div class="col-sm-12">
-                        <h5>-About this item</h5>
-                        <ul class="list-style2 mb-0">
-                            <li> Chicken Masala is an essential masala for Indian preparation of chicken</li>
-                            <li>Suitable for Chicken Tikka Masala, Chicken Masala, Butter Chicken, Chicken Tandoori
-                                Masala and more.</li>
-                            <li>Made using Low Temperature Grinding of several Indian spices</li>
+        <!-- row -->
+        <div class="row">
+            <div class="col-lg-12 content-area">
+                <div class="ttm-single-product-details product">
+                    <div class="ttm-single-product-info clearfix">
+                        <div class="product-gallery images product-center">
+                            <figure class="ttm-product-gallery__wrapper">
+                                <div class="product-gallery__image">
+                                    <img class="img-fluid" src="images/product/chicken-masala.jpg" alt="product-img">
+                                    <h6 class="mt-3 txt-center size-heading">AVAILABILITY: 50 g | 100g </h6>
+                                </div>
+                            </figure>
 
-                        </ul><br>
-                        <a href=<?php echo " $shoplink " ?> target=_blank class="butn secondary">Buy Now</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-12 mb-2-9">
-                <div class="row padding-top50">
-                    <div class="col-lg-6 mb-1-9 mb-lg-0">
-                        <div class="card border-0 border-radius-none">
-                            <div class="card-body p-0">
-                                <div class="border-bottom border-width-2 pb-3 mb-4">
-                                </div>
-                                <ul class="list-style5 text-center text-sm-start">
-                                    <li>
-                                        <div class="text-center text-sm-start d-sm-flex mb-4">
-                                            <div class="">
-                                                <h4 class="h5">Health Benefits of Turmeric Powder</h4>
-                                            </div>
-                                        </div>
-                                        <div class="mb-3">
-                                            <div class="nutritional-info">
-                                                <ul class="list-style1 mb-0">
-                                                    <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>
-                                                            Good for bones </h4>
-                                                    </li>
-                                                    <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Helps
-                                                            in building muscles </h4>
-                                                    </li>
-                                                    <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Helps
-                                                            in weight loss </h4>
-                                                    </li>
-                                                    <li>
-                                                        <h4 class="h6 mb-0"><i class="ti-check-box text-secondary me-3 font-weight-500"></i>Treatment
-                                                            of common cold </h4>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-6 mb-1-9 mb-lg-0">
-                        <div class="card border-0 border-radius-none">
-                            <div class="card-body p-0">
-                                <div class="border-bottom border-width-2 pb-3 mb-4">
-                                </div>
-                                <ul class="list-style5 text-center text-sm-start">
-                                    <li>
-                                        <div class="text-center text-sm-start d-sm-flex mb-4">
-                                            <div class="flex-shrink-0 mb-4 mb-md-0">
-                                                <img src="theme/img/product/chiken-round.jpg" class="rounded-circle" alt="...">
-                                            </div>
-                                            <div class="flex-grow-1 ms-sm-4">
-                                                <h4 class="h5">Ingerdients</h4>
-                                                <p class="mb-0 ingerdients-info">Nutrition Value Per 100g</p>
-                                            </div>
-                                        </div>
-                                        <div class="mb-3">
-                                            <div class="nutritional-info">
-                                                <h4 class="h6 mb-0">Energy (Calculated) </h4>
-                                                <span class="seprator"></span>
-                                                <span class="text-muted font-weight-600">421 kcal</span>
-                                            </div>
-                                            <div class="nutritional-info">
-                                                <h4 class="h6 mb-0">Total Carbohydrates</h4>
-                                                <span class="seprator"></span>
-                                                <span>78 g</span>
-                                            </div>
-                                            <div class="nutritional-info">
-                                                <h4 class="h6 mb-0">Protein</h4>
-                                                <span class="seprator"></span>
-                                                <span>5.9 g</span>
-                                            </div>
-                                            <div class="nutritional-info">
-                                                <h4 class="h6 mb-0">Total Fat</h4>
-                                                <span class="seprator"></span>
-                                                <span>9.5 g</span>
-                                            </div>
-                                            <div class="nutritional-info">
-                                                <h4 class="h6 mb-0">Saturated Fatty Acid</h4>
-                                                <span class="seprator"></span>
-                                                <span>0.7 g</span>
-                                            </div>
-                                            <div class="nutritional-info">
-                                                <h4 class="h6 mb-0">Total Trans Fatty Acid</h4>
-                                                <span class="seprator"></span>
-                                                <span>0 g</span>
-                                            </div>
-                                            <div class="nutritional-info">
-                                                <h4 class="h6 mb-0">Cholesterol</h4>
-                                                <span class="seprator"></span>
-                                                <span>0 g</span>
-                                            </div>
-                                        </div>
-                                    </li>
+                        <div class="summary entry-summary">
+                            <p class="price mb-25">
+                                <span class="Price-amount amount">
+                                    <h2>Chicken Masala</h2>
+                                </span>
+                            </p>
+                            <div class="product-details__short-description">
+                                <p>Chicken tikka masala, dish consisting of marinated boneless chicken pieces that are traditionally
+                                    cooked in a tandoor and then served in a subtly spiced tomato-cream sauce. salt. Chicken Masala
+                                    Curry is a bold, spicy, and super flavorful Indian chicken curry made by cooking chicken in an
+                                    onion tomato-based gravy. Chicken masala is a popular curried dish made with boneless chicken,
+                                    ground spices, onions, tomatoes, cream and herbs.
+                                </p>
+                            </div>
+
+                            <div class="content-inner active">
+                                <h3>About this Item</h3>
+                                <ul class="l-height">
+                                    <li> Chicken Masala is an essential masala for Indian preparation of chicken</li>
+                                    <li>Suitable for Chicken Tikka Masala, Chicken Masala, Butter Chicken, Chicken Tandoori
+                                        Masala and more.</li>
+                                    <li>Made using Low Temperature Grinding of several Indian spices</li>
                                 </ul>
                             </div>
+                            <form class="cart" action="#" method="post" enctype="multipart/form-data">
+                                <a href=<?php echo " $shoplink " ?> target=_blank class="cart_button ttm-btn ttm-btn-bgcolor-black ttm-btn-shape-round ttm-textcolor-white">Buy Now</a>
+                            </form>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-<?php
+        <div class="additional-info">
+            <h4 class="font-25 pt-20 pd-20">Additional Information</h4>
+            <div class="row">
+                <div class="col-md-6">
+                    <div>
+                        <div class="tbl-padding-20">
+                            <table class="table table-striped">
+                                <tbody>
+                                    <tr style="background-color: #00460f; padding: 10px;border-radius: 10px;color: #fff;">
+                                        <th scope="row" class="f-18">
+                                            Health Benefits </th>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row"> <i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                        Good for bones
+                                        </th>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row"> <i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                        Helps in building muscles </th>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row"> <i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                        Helps in weight loss
+                                        </th>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row"> <i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i>
+                                        Treatment of common cold</th>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div><!-- content-inner end-->
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div>
+                        <div class="tbl-padding-20">
+                            <table class="table table-striped">
+                                <tbody>
+                                    <tr style="background-color: #00460f; padding: 10px;border-radius: 10px;color: #fff;">
+                                        <th scope="row" class="f-18" colspan="2">Ingerdients (Nutrition Value Per 100g)</th>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Energy (Calculated)</th>
+                                        <td>421 kcal
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i></i> Total Carbohydrates
+                                        </th>
+                                        <td>78 g</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Protein</th>
+                                        <td>5.9 g</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"> </i> Total Fat</th>
+                                        <td>9.5 g</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i> Saturated Fatty Acid
+                                        </th>
+                                        <td>0.7 g</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i> Total Trans Fatty Acid
 
+                                        </th>
+                                        <td>0 g</td>
+                                    </tr>
+                                    <tr>
+                                        <th scope="row"><i class="fa fa-angle-double-right ttm-textcolor-skincolor"></i> Cholesterol
+
+                                        </th>
+                                        <td>0 g</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div><!-- content-inner end-->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div><!-- row end -->
+</div>
+<?php
 include('latest-product.php');
+
 include('footer.php');
 
 ?>
