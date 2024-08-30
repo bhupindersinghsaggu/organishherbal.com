@@ -45,10 +45,8 @@ include('function.php');
                                 <ul class="l-height">
                                     <li>100% natural:- Organish Herbal products are 100% natural and best suitable for your
                                         health. </li>
-                                    <li>Uses For:- Turmeric powder is used in all Indian cuisines and it's perfect for
-                                        vegetables, meats, gravies and curries. </li>
-                                    <li>Ready To Use:- Turmeric powder brings out a freshness with its aroma, colour and taste
-                                        to any dish. </li>
+                                    <li>SPICE UP YOUR MEALS: Enhance your regular and exotic dishes with the perfect spiciness of Red Chilli Powder </li>
+                                    <li>PERFECT COLOUR: It adds the perfect texture & colour to all the dishes </li>
                                     <li>Quality:- All the Indian spices used in this product are of premium quality</li>
                                 </ul>
                             </div>
