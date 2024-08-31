@@ -427,12 +427,7 @@ include('function.php');
                                     </div>
                                 </div>
                                 <div class="title-desc">
-                                    <p>We recognize that everyone has unique health needs and goals. That’s why
-                                        we provide a diverse selection of herbal products designed to address a
-                                        variety of concerns, including immune support, digestive health, stress
-                                        management, and overall vitality. Our carefully crafted formulations
-                                        combine the best of natural ingredients, drawing on both traditional
-                                        wisdom and modern scientific research.</p>
+                                    <p>Organish Herbal brings to you naturally-grown food and herbal products from around the world that enhance the overall health of the human body through the long tradition of consuming pure and natural food from farm to table. Sourced directly from individual farmers, farmer groups, or Farmers Producer Companies, our close coordination with them for practices.</p>
                                 </div>
                             </div>
                             <div class="row section-title-20">
