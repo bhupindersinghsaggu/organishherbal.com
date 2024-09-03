@@ -191,6 +191,106 @@ include('function.php');
                     data-paddingright="[35,35,20,20]" data-paddingbottom="[15,15,12,12]"
                     data-paddingleft="[35,35,20,20]">Read More </a> -->
             </li>
+            <li data-index="rs-12" data-transition="slotslide-horizontal" data-slotamount="default"
+                data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default"
+                data-masterspeed="default" data-thumb="" data-rotate="0" data-saveperformance="off" data-title="Slide"
+                data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7=""
+                data-param8="" data-param9="" data-param10="" data-description="">
+
+                <img src="images/slides/slider-mainbg-003.jpg" alt="" title="mainslider-bg002" width="1920" height="760"
+                    data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg"
+                    data-no-retina>
+
+                <!-- <div class="tp-caption tp-shape tp-shapewrapper ttm-bgcolor-skincolor tp-resizeme" id="slide-2-layer-1"
+                    data-x="['center','center','left','left']" data-hoffset="['12','-68','-240','-240']"
+                    data-y="['top','top','top','top']" data-voffset="['182','182','179','179']"
+                    data-fontweight="['700','700','500','500']" data-width="40" data-height="['2','2','1','1']"
+                    data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-type="shape"
+                    data-responsive_offset="on"
+                    data-frames='[{"delay":130,"speed":500,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                </div> -->
+
+                <!-- <div class="tp-caption tp-resizeme" id="slide-2-layer-2" data-x="['center','center','center','center']"
+                    data-hoffset="['109','29','0','0']" data-y="['top','top','middle','middle']"
+                    data-voffset="['173','173','-135','-112']" data-fontsize="['16','16','15','14']"
+                    data-lineheight="['20','20','15','14']" data-fontweight="['700','700','700','700']"
+                    data-color="['rgb(157, 202, 0)','rgb(157, 202, 0)','rgb(157, 202, 0)','rgb(157, 202, 0)']"
+                    data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
+                    data-responsive_offset="on"
+                    data-frames='[{"delay":220,"speed":500,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                    Get Healty Easily </div>
+
+                <div class="tp-caption tp-resizeme main-font" id="slide-2-layer-3"
+                    data-x="['center','center','center','center']" data-hoffset="['182','102','0','0']"
+                    data-y="['top','top','middle','middle']" data-voffset="['214','214','-78','-69']"
+                    data-fontsize="['60','60','55','40']" data-lineheight="['68','68','68','50']"
+                    data-color="['rgb(38,45,51)','rgb(38,45,51)','rgb(27,37,44)','rgb(27,37,44)']" data-width="none"
+                    data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
+                    data-frames='[{"delay":340,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                    Loss The <strong class="ttm-textcolor-skincolor">Fat!</strong>
+                </div>
+
+                <div class="tp-caption tp-shape tp-shapewrapper ttm-bgcolor-skincolor tp-resizeme" id="slide-2-layer-4"
+                    data-x="['left','left','left','left']" data-hoffset="['888','703','468','296']"
+                    data-y="['top','top','top','top']" data-voffset="['279','279','172','128']"
+                    data-width="['100','100','90','70']" data-height="3" data-whitespace="nowrap" data-type="shape"
+                    data-responsive_offset="on"
+                    data-frames='[{"delay":850,"speed":300,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                </div> -->
+
+                <!-- <div class="tp-caption main-font tp-resizeme" id="slide-2-layer-5"
+                    data-x="['center','center','center','center']" data-hoffset="['279','199','0','0']"
+                    data-y="['top','top','middle','middle']" data-voffset="['298','298','-7','-10']"
+                    data-fontsize="['60','60','55','40']" data-lineheight="['68','68','68','50']"
+                    data-color="['rgb(38,45,51)','rgb(38,45,51)','rgb(27,37,44)','rgb(27,37,44)']" data-width="none"
+                    data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
+                    data-frames='[{"delay":520,"speed":800,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                    Eat Right, Be Bright!</div> -->
+
+                <!-- <div class="tp-caption tp-resizeme" id="slide-2-layer-6" data-x="['center','center','center','center']"
+                    data-hoffset="['267','187','-759','-479']" data-y="['top','top','middle','middle']"
+                    data-voffset="['379','379','10','-2']" data-fontsize="['18','18','15','12']"
+                    data-lineheight="['29','29','24','20']" data-fontweight="['400','400','400','300']"
+                    data-color="['rgb(111,120,126)','rgb(111,120,126)','rgb(114,118,120)','rgb(114,118,120)']"
+                    data-width="none" data-height="none" data-whitespace="nowrap"
+                    data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on"
+                    data-frames='[{"delay":870,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','center','center']" data-paddingtop="[0,0,0,0]"
+                    data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
+                    Nutrition Services is dedicated to bringing you and your family healthy.</div> -->
+
+                <!-- <a class="tp-caption button skin-button tp-resizeme" href="#" target="_self" id="slide-2-layer-7"
+                    data-x="['center','center','center','center']" data-hoffset="['66','-14','0','0']"
+                    data-y="['top','top','middle','middle']" data-voffset="['451','451','64','53']"
+                    data-fontsize="['16','16','13','13']" data-lineheight="['16','16','13','13']" data-width="none"
+                    data-height="none" data-whitespace="nowrap" data-type="text" data-actions=''
+                    data-responsive_offset="on"
+                    data-frames='[{"delay":1000,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[15,15,12,12]"
+                    data-paddingright="[35,35,30,30]" data-paddingbottom="[15,15,12,12]"
+                    data-paddingleft="[35,35,30,30]">Conatct Us </a> -->
+
+                <!-- <a class="tp-caption button black-button tp-resizeme" href="#" target="_self" id="slide-2-layer-8"
+                    data-x="['center','center','center','center']" data-hoffset="['228','148','0','0']"
+                    data-y="['top','top','middle','middle']" data-voffset="['451','451','117','106']"
+                    data-fontsize="['15','15','13','13']" data-lineheight="['15','15','13','13']" data-width="none"
+                    data-height="none" data-whitespace="nowrap" data-type="text" data-actions=''
+                    data-responsive_offset="on"
+                    data-frames='[{"delay":1110,"speed":500,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgb(255,255,255);bg:rgb(157,202,0);br:100px 100px 100px 100px;"}]'
+                    data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[15,15,12,12]"
+                    data-paddingright="[35,35,20,20]" data-paddingbottom="[15,15,12,12]"
+                    data-paddingleft="[35,35,20,20]">Read More </a> -->
+            </li>
         </ul>
     </div>
 </div>
