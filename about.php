@@ -36,7 +36,7 @@ include('function.php');
                         <div class="title-header">
                             <h5>about Company</h5>
                             <h2 class="title">ORGANISH HERBAL</h2>
-                            <h3 class="pdt20">We are leading manufacturer and supplier of ayurvedic and herbal products
+                            <h3 class="pdt20">We are leading manufacturer and supplier of Indian spices and herbal products
                             </h3>
                         </div>
                         <div class="title-desc">
