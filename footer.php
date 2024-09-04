@@ -7,7 +7,7 @@
                         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 widget-area">
                             <div class="widget clearfix">
                                 <h3 class="widget-title">About us </h3>
-                                <p>ORGANISH HERBAL is leading manufacturer and supplier of ayurvedic and herbal products. At our core, we are committed to providing you with the purest and highest-quality herbal products. We source our ingredients from sustainable and responsible suppliers, ensuring that each product is crafted with care and respect for the environment.</p>
+                                <p>ORGANISH HERBAL is leading manufacturer and supplier of herbal products. At our core, we are committed to providing you with the purest and highest-quality herbal products. We source our ingredients from sustainable and responsible suppliers, ensuring that each product is crafted with care and respect for the environment.</p>
                                 <div class="separator pt-5">
                                     <div class="sep-line mb-30"></div>
                                 </div>
